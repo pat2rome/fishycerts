@@ -1,25 +1,102 @@
 This is the exact certificate that browserleaks.com presents as its intermediate in the trust chain:
 https://sslcheck.globalsign.com/en_US/certificates?host=browserleaks.com&endpoint_id=9F3A7D704406561B872FFC5E9C8441B20EA5D1DC&id=9F3A7D704406561B872FFC5E9C8441B20EA5D1DC&id=EB4234D098B0AB9FF41B6B08F7CC642EEF0E2C45
 
+Here's the authoritative version, from:
+https://ssl-tools.net/certificates/frrppn-startcom-class-1-primary-intermediate-server
 
-Problem is, there's no "StartCom Class 1 Primary Intermediate Server" that I can find any trace of. There's "StartCom Class 2 Primary Intermediate Server" listed as extant...
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 24 (0x18)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Certification Authority
+        Validity
+            Not Before: Oct 24 20:54:17 2007 GMT
+            Not After : Oct 24 20:54:17 2017 GMT
+        Subject: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Class 1 Primary Intermediate Server CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:89:c6:ac:ef:09:52:78:07:ac:92:63:d0:f4:
+                    44:18:18:84:80:56:1f:91:ae:e1:87:fa:32:50:b4:
+                    d3:47:06:f0:e6:07:5f:70:0e:10:f7:1d:c0:ce:10:
+                    36:34:85:5a:0f:92:ac:83:c6:ac:58:52:3f:ba:38:
+                    e8:fc:e7:a7:24:e2:40:a6:08:76:c0:92:6e:9e:2a:
+                    6d:4d:3f:6e:61:20:0a:db:59:de:d2:7d:63:b3:3e:
+                    46:fe:fa:21:51:18:d7:cd:30:a6:ed:07:6e:3b:70:
+                    87:b4:f9:fa:eb:ee:82:3c:05:6f:92:f7:a4:dc:0a:
+                    30:1e:93:73:fe:07:ca:d7:5f:80:9d:22:58:52:ae:
+                    06:da:8b:87:23:69:b0:e4:2a:d8:ea:83:d2:bd:f3:
+                    71:db:70:5a:28:0f:af:5a:38:70:45:12:3f:30:4d:
+                    cd:3b:af:17:e5:0f:cb:a0:a9:5d:48:aa:b1:61:50:
+                    cb:34:cd:3c:5c:c3:0b:e8:10:c0:8c:9b:f0:03:03:
+                    62:fe:b2:6c:3e:72:0e:ee:1c:43:2a:c9:48:0e:57:
+                    39:c4:31:21:c8:10:c1:2c:87:fe:54:95:52:1f:52:
+                    3c:31:12:9b:7f:e7:c0:a0:a5:59:d5:e2:8f:3e:f0:
+                    d5:a8:e1:d7:70:31:a9:c4:b3:cf:af:6d:53:2f:06:
+                    f4:a7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                EB:42:34:D0:98:B0:AB:9F:F4:1B:6B:08:F7:CC:64:2E:EF:0E:2C:45
+            X509v3 Authority Key Identifier: 
+                keyid:4E:0B:EF:1A:A4:40:5B:A5:17:69:87:30:CA:34:68:43:D0:41:AE:F2
 
-https://ssl-tools.net/certificates/p2kp12-startcom-class-2-primary-intermediate-server
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.startssl.com/ca
+                CA Issuers - URI:http://www.startssl.com/sfsca.crt
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.startssl.com/sfsca.crl
+
+                Full Name:
+                  URI:http://crl.startssl.com/sfsca.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.23223.1.2.1
+                  CPS: http://www.startssl.com/policy.pdf
+                  CPS: http://www.startssl.com/intermediate.pdf
+
+    Signature Algorithm: sha1WithRSAEncryption
+         21:09:49:3e:a5:88:6e:e0:0b:8b:48:da:31:4d:8f:f7:56:57:
+         a2:e1:d3:62:57:e9:b5:56:f3:85:45:75:3b:e5:50:1f:04:8b:
+         e6:a0:5a:3e:e7:00:ae:85:d0:fb:ff:20:03:64:cb:ad:02:e1:
+         c6:91:72:f8:a3:4d:d6:de:e8:cc:3f:a1:8a:a2:e3:7c:37:a7:
+         c6:4f:8f:35:d6:f4:d6:6e:06:7b:dd:21:d9:cf:56:ff:cb:30:
+         22:49:fe:89:04:f3:85:e5:aa:f1:e7:1f:e8:75:90:4d:dd:f9:
+         46:f7:42:34:f7:45:58:0c:11:0d:84:b0:c6:da:5d:3e:f9:01:
+         9e:e7:e1:da:55:95:be:74:1c:7b:fc:4d:14:4f:ac:7e:55:47:
+         7d:7b:f4:a5:0d:49:1e:95:e8:f7:12:c1:cc:ff:76:a6:25:47:
+         d0:f3:75:35:be:97:b7:58:16:eb:aa:5c:78:6f:ec:53:30:af:
+         ea:04:4d:cc:a9:02:e3:f0:b6:04:12:f6:30:b1:11:3d:90:4e:
+         56:64:d7:dc:3c:43:5f:73:39:ef:4b:af:87:eb:f6:fe:68:88:
+         44:72:ea:d2:07:c6:69:b0:c1:a1:8b:ef:17:49:d7:61:b1:45:
+         48:5f:3b:20:21:e9:5b:b2:cc:f4:d7:e9:31:f5:0b:15:61:3b:
+         7a:94:e3:eb:d9:bc:7f:94:ae:6a:e3:62:62:96:a8:64:7c:b8:
+         87:f3:99:32:7e:92:a2:52:be:bb:f8:65:cf:c9:f2:30:fc:8b:
+         c1:c2:a6:96:d7:5f:89:e1:5c:34:80:f5:8f:47:07:2f:b4:91:
+         bf:b1:a2:7e:5f:4b:5a:d0:5b:9f:24:86:05:51:5a:69:03:65:
+         43:49:71:c5:e0:6f:94:34:6b:f6:1b:d8:a9:b0:4c:7e:53:eb:
+         8f:48:df:ca:33:b5:48:fa:36:4a:1a:53:a6:33:0c:d0:89:cd:
+         49:15:cd:89:31:3c:90:c0:72:d7:65:4b:52:35:8a:46:11:44:
+         b9:3d:8e:28:65:a6:3e:79:9e:5c:08:44:29:ad:b0:35:11:2e:
+         21:4e:b8:d2:e7:10:3e:5d:84:83:b3:c3:c2:e4:d2:c6:fd:09:
+         4b:74:09:dd:f1:b3:d3:19:3e:80:0d:a2:0b:19:f0:38:e7:c5:
+         c2:af:e2:23:db:61:e2:9d:5c:6e:20:89:49:2e:23:6a:b2:62:
+         c1:45:b4:9f:af:8b:a7:f1:22:3b:f8:7d:e2:90:d0:7a:19:fb:
+         4a:4c:e3:d2:7d:5f:4a:83:03:ed:27:d6:23:9e:6b:8d:b4:59:
+         a2:d9:ef:6c:82:29:dd:75:19:3c:3f:4c:10:8d:ef:bb:75:27:
+         d2:ae:83:a7:a8:ce:5b:a7
 
 
-Then you read stories like this when you search around on the SHA1 fingerprint of this certificate (of course, it's SHA1):
-
-"Yesterday, Thunderbird popped up a stern certificate warning message stating that the "certificate is not trusted, because it hasn't been verified by a recognized authority using a secure signature".
-
-That's interesting -- I've used this certificate for close to a year now (it expires in a couple of months) and hadn't made any changes.
-
-After examining the certficate details for longer than I would care to admit, finally realized that the problem was with the Intermediate CA certificate (it expired on 2012-10-22), not my host certificate which is still good. I use a StartSSL certificate on the web server as well and it was the same problem there. Fortunately, fixing this was easy."
-
-http://giantdorks.org/alain/updating-expired-startcom-class-1-primary-intermediate-server-ca-certificate/
-
-Obviously, the cert didn't EXPIRE... it's expiry date is listed inside itself as "Oct 24 20:54:17 2017 GMT" - so why did Firefox suddenly start rejecting it with a fake claim of being expired?
-
-
+Here's what browserleaks.com serves:
 
 Certificate:
     Data:
