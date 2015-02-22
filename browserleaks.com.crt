@@ -1,0 +1,187 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Certification Authority
+        Validity
+            Not Before: Sep 17 19:46:36 2006 GMT
+            Not After : Sep 17 19:46:36 2036 GMT
+        Subject: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Certification Authority
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:c1:88:db:09:bc:6c:46:7c:78:9f:95:7b:b5:33:
+                    90:f2:72:62:d6:c1:36:20:22:24:5e:ce:e9:77:f2:
+                    43:0a:a2:06:64:a4:cc:8e:36:f8:38:e6:23:f0:6e:
+                    6d:b1:3c:dd:72:a3:85:1c:a1:d3:3d:b4:33:2b:d3:
+                    2f:af:fe:ea:b0:41:59:67:b6:c4:06:7d:0a:9e:74:
+                    85:d6:79:4c:80:37:7a:df:39:05:52:59:f7:f4:1b:
+                    46:43:a4:d2:85:85:d2:c3:71:f3:75:62:34:ba:2c:
+                    8a:7f:1e:8f:ee:ed:34:d0:11:c7:96:cd:52:3d:ba:
+                    33:d6:dd:4d:de:0b:3b:4a:4b:9f:c2:26:2f:fa:b5:
+                    16:1c:72:35:77:ca:3c:5d:e6:ca:e1:26:8b:1a:36:
+                    76:5c:01:db:74:14:25:fe:ed:b5:a0:88:0f:dd:78:
+                    ca:2d:1f:07:97:30:01:2d:72:79:fa:46:d6:13:2a:
+                    a8:b9:a6:ab:83:49:1d:e5:f2:ef:dd:e4:01:8e:18:
+                    0a:8f:63:53:16:85:62:a9:0e:19:3a:cc:b5:66:a6:
+                    c2:6b:74:07:e4:2b:e1:76:3e:b4:6d:d8:f6:44:e1:
+                    73:62:1f:3b:c4:be:a0:53:56:25:6c:51:09:f7:aa:
+                    ab:ca:bf:76:fd:6d:9b:f3:9d:db:bf:3d:66:bc:0c:
+                    56:aa:af:98:48:95:3a:4b:df:a7:58:50:d9:38:75:
+                    a9:5b:ea:43:0c:02:ff:99:eb:e8:6c:4d:70:5b:29:
+                    65:9c:dd:aa:5d:cc:af:01:31:ec:0c:eb:d2:8d:e8:
+                    ea:9c:7b:e6:6e:f7:27:66:0c:1a:48:d7:6e:42:e3:
+                    3f:de:21:3e:7b:e1:0d:70:fb:63:aa:a8:6c:1a:54:
+                    b4:5c:25:7a:c9:a2:c9:8b:16:a6:bb:2c:7e:17:5e:
+                    05:4d:58:6e:12:1d:01:ee:12:10:0d:c6:32:7f:18:
+                    ff:fc:f4:fa:cd:6e:91:e8:36:49:be:1a:48:69:8b:
+                    c2:96:4d:1a:12:b2:69:17:c1:0a:90:d6:fa:79:22:
+                    48:bf:ba:7b:69:f8:70:c7:fa:7a:37:d8:d8:0d:d2:
+                    76:4f:57:ff:90:b7:e3:91:d2:dd:ef:c2:60:b7:67:
+                    3a:dd:fe:aa:9c:f0:d4:8b:7f:72:22:ce:c6:9f:97:
+                    b6:f8:af:8a:a0:10:a8:d9:fb:18:c6:b6:b5:5c:52:
+                    3c:89:b6:19:2a:73:01:0a:0f:03:b3:12:60:f2:7a:
+                    2f:81:db:a3:6e:ff:26:30:97:f5:8b:dd:89:57:b6:
+                    ad:3d:b3:af:2b:c5:b7:76:02:f0:a5:d6:2b:9a:86:
+                    14:2a:72:f6:e3:33:8c:5d:09:4b:13:df:bb:8c:74:
+                    13:52:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment, Key Agreement, Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                4E:0B:EF:1A:A4:40:5B:A5:17:69:87:30:CA:34:68:43:D0:41:AE:F2
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://cert.startcom.org/sfsca-crl.crl
+
+                Full Name:
+                  URI:http://crl.startcom.org/sfsca-crl.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.23223.1.1.1
+                  CPS: http://cert.startcom.org/policy.pdf
+                  CPS: http://cert.startcom.org/intermediate.pdf
+                  User Notice:
+                    Organization: Start Commercial (StartCom) Ltd.
+                    Number: 1
+                    Explicit Text: Limited Liability, read the section *Legal Limitations* of the StartCom Certification Authority Policy available at http://cert.startcom.org/policy.pdf
+
+
+-----BEGIN CERTIFICATE-----
+MIIHyTCCBbGgAwIBAgIBATANBgkqhkiG9w0BAQUFADB9MQswCQYDVQQGEwJJTDEW
+MBQGA1UEChMNU3RhcnRDb20gTHRkLjErMCkGA1UECxMiU2VjdXJlIERpZ2l0YWwg
+Q2VydGlmaWNhdGUgU2lnbmluZzEpMCcGA1UEAxMgU3RhcnRDb20gQ2VydGlmaWNh
+dGlvbiBBdXRob3JpdHkwHhcNMDYwOTE3MTk0NjM2WhcNMzYwOTE3MTk0NjM2WjB9
+MQswCQYDVQQGEwJJTDEWMBQGA1UEChMNU3RhcnRDb20gTHRkLjErMCkGA1UECxMi
+U2VjdXJlIERpZ2l0YWwgQ2VydGlmaWNhdGUgU2lnbmluZzEpMCcGA1UEAxMgU3Rh
+cnRDb20gQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwggIiMA0GCSqGSIb3DQEBAQUA
+A4ICDwAwggIKAoICAQDBiNsJvGxGfHiflXu1M5DycmLWwTYgIiRezul38kMKogZk
+pMyONvg45iPwbm2xPN1yo4UcodM9tDMr0y+v/uqwQVlntsQGfQqedIXWeUyAN3rf
+OQVSWff0G0ZDpNKFhdLDcfN1YjS6LIp/Ho/u7TTQEceWzVI9ujPW3U3eCztKS5/C
+Ji/6tRYccjV3yjxd5srhJosaNnZcAdt0FCX+7bWgiA/deMotHweXMAEtcnn6RtYT
+Kqi5pquDSR3l8u/d5AGOGAqPY1MWhWKpDhk6zLVmpsJrdAfkK+F2PrRt2PZE4XNi
+HzvEvqBTViVsUQn3qqvKv3b9bZvzndu/PWa8DFaqr5hIlTpL36dYUNk4dalb6kMM
+Av+Z6+hsTXBbKWWc3apdzK8BMewM69KN6Oqce+Zu9ydmDBpI125C4z/eIT574Q1w
++2OqqGwaVLRcJXrJosmLFqa7LH4XXgVNWG4SHQHuEhANxjJ/GP/89PrNbpHoNkm+
+Gkhpi8KWTRoSsmkXwQqQ1vp5Iki/untp+HDH+no32NgN0nZPV/+Qt+OR0t3vwmC3
+Zzrd/qqc8NSLf3Iizsafl7b4r4qgEKjZ+xjGtrVcUjyJthkqcwEKDwOzEmDyei+B
+26Nu/yYwl/WL3YlXtq09s68rxbd2AvCl1iuahhQqcvbjM4xdCUsT37uMdBNSSwID
+AQABo4ICUjCCAk4wDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMCAa4wHQYDVR0OBBYE
+FE4L7xqkQFulF2mHMMo0aEPQQa7yMGQGA1UdHwRdMFswLKAqoCiGJmh0dHA6Ly9j
+ZXJ0LnN0YXJ0Y29tLm9yZy9zZnNjYS1jcmwuY3JsMCugKaAnhiVodHRwOi8vY3Js
+LnN0YXJ0Y29tLm9yZy9zZnNjYS1jcmwuY3JsMIIBXQYDVR0gBIIBVDCCAVAwggFM
+BgsrBgEEAYG1NwEBATCCATswLwYIKwYBBQUHAgEWI2h0dHA6Ly9jZXJ0LnN0YXJ0
+Y29tLm9yZy9wb2xpY3kucGRmMDUGCCsGAQUFBwIBFilodHRwOi8vY2VydC5zdGFy
+dGNvbS5vcmcvaW50ZXJtZWRpYXRlLnBkZjCB0AYIKwYBBQUHAgIwgcMwJxYgU3Rh
+cnQgQ29tbWVyY2lhbCAoU3RhcnRDb20pIEx0ZC4wAwIBARqBl0xpbWl0ZWQgTGlh
+YmlsaXR5LCByZWFkIHRoZSBzZWN0aW9uICpMZWdhbCBMaW1pdGF0aW9ucyogb2Yg
+dGhlIFN0YXJ0Q29tIENlcnRpZmljYXRpb24gQXV0aG9yaXR5IFBvbGljeSBhdmFp
+bGFibGUgYXQgaHR0cDovL2NlcnQuc3RhcnRjb20ub3JnL3BvbGljeS5wZGYwEQYJ
+YIZIAYb4QgEBBAQDAgAHMDgGCWCGSAGG+EIBDQQrFilTdGFydENvbSBGcmVlIFNT
+TCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTANBgkqhkiG9w0BAQUFAAOCAgEAFmyZ
+9GYMNPXQhV59CuzaEE44HF7fpiUFS5Eyweg78T3dRAlbB0mKKctmArexmvclmAk8
+jhvh3TaHK0u7aNM5Zj2gJsfyOZEdUauCe37Vzlrk4gNXcGmXCPleWKYK34wGmkUW
+FjgKXlf2Ysd6AgXmvB618p70qSmD+LIU424oh0TDkBreOKk8rENNZEXO3SipXPJz
+ewT4F+irsfMuXGRuczE6Eri8sxHkfY+BUZo7jYn0TZNmezwD7dOaHZrzZVD1oNB1
+ny+v8OqCQ5j4aZyJecRDjkZy42Q2Eq/3JR44iZB3fsNrarnDy0RLrHiQi+fHLB5L
+EUTINFInzQpdn4XBidUaePKVEFMy3YCEZnXZtWgo+2EuvoSoOMCZEoalHmdkrQYu
+L6lwhceWD3yJZfWOQ1QOq92lgDmUYMA0yZZwLKMS9R9Ie70cfmu3nZD0Ijuu+Pwq
+yvqCUqDvr0tVk+vBtfAii6w0TiYiBKGHLHVKt+V9E9e4DGTANtLJL4YSjCMJwRuC
+O3NJo2pXh5Tl1njFmUNj403gdy3hZZlyaQQaRwnmDwFWJPsfvw55qVguucQJAX6V
+um0ABj6y6koQOdjQK/W/7HW/lwLFCRsI3FU34oH7N4RDYiDK51ZLZer+bMEkkySh
+NOsF/5oirpt9P/FlUQqmMGqz9IgcgA38corog14=
+-----END CERTIFICATE-----
+
+
+https://www.ssllabs.com/ssltest/analyze.html?d=browserleaks.com
+
+Authentication
+
+Server Key and Certificate #1
+Common names	www.browserleaks.com
+Alternative names	www.browserleaks.com browserleaks.com
+Prefix handling	Both (with and without WWW)
+Valid from	Thu May 08 19:42:44 PDT 2014
+Valid until	Sat May 09 23:05:05 PDT 2015 (expires in 2 months and 18 days)
+Key	RSA 2048 bits (e 65537)
+Weak key (Debian)	No
+Issuer	StartCom Class 1 Primary Intermediate Server CA
+Signature algorithm	SHA1withRSA   WEAK
+Extended Validation	No
+Revocation information	CRL, OCSP
+Revocation status	Good (not revoked)
+Trusted	Yes
+
+
+Additional Certificates (if supplied)
+Certificates provided	3 (5230 bytes)
+Chain issues	Contains anchor
+#2
+Subject	StartCom Class 1 Primary Intermediate Server CA 
+Fingerprint: f691fc87efb3135354225a10e127e911d1c7f8cf
+Valid until	Tue Oct 24 13:54:17 PDT 2017 (expires in 2 years and 8 months)
+Key	RSA 2048 bits (e 65537)
+Issuer	StartCom Certification Authority
+Signature algorithm	SHA1withRSA   WEAK
+#3
+Subject	StartCom Certification Authority   In trust store
+Fingerprint: 3e2bf7f2031b96f38ce6c4d8a85d3e2d58476a0f
+Valid until	Wed Sep 17 12:46:36 PDT 2036 (expires in 21 years and 6 months)
+Key	RSA 4096 bits (e 65537)
+Issuer	StartCom Certification Authority   Self-signed
+Signature algorithm	SHA1withRSA   Weak, but no impact on root certificate
+
+
+Certification Paths
+Path #1: Trusted
+1	Sent by server	www.browserleaks.com 
+Fingerprint: 8eda5ebc5618c06b6ddac7d923ec374a2e5ba38d 
+RSA 2048 bits (e 65537)	/ SHA1withRSA 
+WEAK SIGNATURE
+2	Sent by server	StartCom Class 1 Primary Intermediate Server CA 
+Fingerprint: f691fc87efb3135354225a10e127e911d1c7f8cf 
+RSA 2048 bits (e 65537)	/ SHA1withRSA 
+WEAK SIGNATURE
+3	Sent by server 
+In trust store	StartCom Certification Authority   Self-signed	
+Fingerprint: 3e2bf7f2031b96f38ce6c4d8a85d3e2d58476a0f 
+RSA 4096 bits (e 65537)	/ SHA1withRSA 
+Weak or insecure signature, but no impact on root certificate
+Path #2: Trusted
+1	Sent by server	www.browserleaks.com 
+Fingerprint: 8eda5ebc5618c06b6ddac7d923ec374a2e5ba38d 
+RSA 2048 bits (e 65537)	/ SHA1withRSA 
+WEAK SIGNATURE
+2	Sent by server	StartCom Class 1 Primary Intermediate Server CA 
+Fingerprint: f691fc87efb3135354225a10e127e911d1c7f8cf 
+RSA 2048 bits (e 65537)	/ SHA1withRSA 
+WEAK SIGNATURE
+3	In trust store	StartCom Certification Authority   Self-signed	
+Fingerprint: a3f1333fe242bfcfc5d14e8f394298406810d1a0 
+RSA 4096 bits (e 65537)	/ SHA256withRSA
