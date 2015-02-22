@@ -1,0 +1,75 @@
+
+
+This malware is signed legitimately as Chrome. Wtf?
+https://www.virustotal.com/en/file/70010eba09129858af32f03079e70e974ebff8700f5f93dca2ec8a6b0991e2ac/analysis/
+
+From the comments:
+"genuine digitally signed version of chrome, but beinmg misused and started by a random dll in local low folder in user profile. this starts multiple copies of chrome with instructions to perform some sort of spam or clickjack on various sites"
+
+"Publisher Google Inc
+Product Google Chrome
+Original name chrome.exe
+Internal name chrome_exe
+File version 36.0.1985.143
+Description Google Chrome
+Signature verification Signed file, verified signature"
+
+Here's the keys used to sign it: 
+
+Signers	
+[+] Google Inc
+Status  Valid
+Valid from 1:00 AM 1/29/2014
+Valid to 12:59 AM 1/30/2016
+Valid usage Code Signing
+Algorithm SHA1
+Thumbrint FCAC7E666CC54341CA213BECF2EB463F2B62ADB0
+Serial number 29 12 C7 0C 9A 2B 8A 3E F6 F6 07 46 62 D6 8B 8D
+
+[+] VeriSign Class 3 Code Signing 2010 CA
+Status  Valid
+Valid from 1:00 AM 2/8/2010
+Valid to 12:59 AM 2/8/2020
+Valid usage Client Auth, Code Signing
+Algorithm SHA1
+Thumbrint 495847A93187CFB8C71F840CB7B41497AD95C64F
+Serial number 52 00 E5 AA 25 56 FC 1A 86 ED 96 C9 D4 4B 33 C7
+
+[+] VeriSign
+Status  Valid
+Valid from 1:00 AM 11/8/2006
+Valid to 12:59 AM 7/17/2036
+Valid usage Server Auth, Client Auth, Email Protection, Code Signing
+Algorithm SHA1
+Thumbrint 4EB6D578499B1CCF5F581EAD56BE3D9B6744A5E5
+Serial number 18 DA D1 9E 26 7D E8 BB 4A 21 58 CD CC 6B 3B 4A
+
+
+Counter signers	
+[+] Symantec Time Stamping Services Signer - G4
+Status  Valid
+Valid from 1:00 AM 10/18/2012
+Valid to 12:59 AM 12/30/2020
+Valid usage Timestamp Signing
+Algorithm SHA1
+Thumbrint 65439929B67973EB192D6FF243E6767ADF0834E4
+Serial number 0E CF F4 38 C8 FE BF 35 6E 04 D8 6A 98 1B 1A 50
+
+
+[+] Symantec Time Stamping Services CA - G2
+Status  Valid
+Valid from 1:00 AM 12/21/2012
+Valid to 12:59 AM 12/31/2020
+Valid usage Timestamp Signing
+Algorithm SHA1
+Thumbrint 6C07453FFDDA08B83707C09B82FB3D15F35336B1
+Serial number 7E 93 EB FB 7C C6 4E 59 EA 4B 9A 77 D4 06 FC 3B
+
+[+] Thawte Timestamping CA
+Status  Valid
+Valid from 1:00 AM 1/1/1997
+Valid to 12:59 AM 1/1/2021
+Valid usage Timestamp Signing
+Algorithm MD5
+Thumbrint BE36A4562FB2EE05DBB3D32323ADF445084ED656
+Serial number 00
