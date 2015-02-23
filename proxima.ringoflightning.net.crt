@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17750536338395700867 (0xf65692c0debd1e83)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FR, ST=Roubaix, L=Roubaix, O=Ring of Lightning, OU=Ranma-chan, CN=proxima.ringoflightning.net/emailAddress=oubattler@gmail.com
+        Validity
+            Not Before: Jun 29 23:45:10 2013 GMT
+            Not After : Jun 29 23:45:10 2014 GMT
+        Subject: C=FR, ST=Roubaix, L=Roubaix, O=Ring of Lightning, OU=Ranma-chan, CN=proxima.ringoflightning.net/emailAddress=oubattler@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:af:f7:eb:1f:72:79:11:e8:c0:25:21:da:37:14:
+                    ce:15:29:9a:86:cf:07:88:2f:7c:f0:3a:53:a8:73:
+                    be:68:5a:fc:9f:d9:93:a3:4d:a5:13:0c:34:e5:04:
+                    4d:cc:76:25:85:73:d1:45:6a:d5:74:ae:b9:8c:70:
+                    c5:98:f1:dc:a3:38:e9:ac:d7:3a:1d:94:29:9d:42:
+                    d1:43:8b:d2:91:da:25:b5:74:9b:6f:16:83:84:b1:
+                    ec:59:cd:21:4c:76:de:ac:7a:a6:b6:32:38:f2:74:
+                    27:a4:1e:e8:94:19:d3:5d:cc:08:7b:01:43:44:bd:
+                    e8:34:7d:96:6c:30:46:f2:77
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                88:09:CB:FD:5B:D2:C6:EC:3A:0C:BE:77:B3:7B:B4:F7:0C:FD:03:8D
+            X509v3 Authority Key Identifier: 
+                keyid:88:09:CB:FD:5B:D2:C6:EC:3A:0C:BE:77:B3:7B:B4:F7:0C:FD:03:8D
+                DirName:/C=FR/ST=Roubaix/L=Roubaix/O=Ring of Lightning/OU=Ranma-chan/CN=proxima.ringoflightning.net/emailAddress=oubattler@gmail.com
+                serial:F6:56:92:C0:DE:BD:1E:83
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         a8:ac:e1:d6:53:6a:00:b3:f1:da:5a:a4:d1:36:87:2b:17:51:
+         0c:27:13:71:9c:ed:68:98:47:75:3b:0b:8e:e5:f7:3c:2a:5a:
+         42:b0:e5:e7:49:80:41:d2:c9:fc:fa:33:1c:41:ff:8f:a5:55:
+         df:90:5f:0d:e7:90:31:66:e0:d4:b0:a2:51:17:ac:96:75:f8:
+         18:0d:2f:10:e0:35:49:8b:50:ef:80:2d:b1:74:f3:29:bd:e7:
+         de:82:bf:fc:40:d3:24:51:a2:bd:9b:1a:bf:43:5a:cd:82:b8:
+         75:9b:54:df:d4:27:23:74:70:c1:87:4b:23:06:34:ac:07:70:
+         1b:b5
+
+-----BEGIN CERTIFICATE-----
+MIID7zCCA1igAwIBAgIJAPZWksDevR6DMA0GCSqGSIb3DQEBBQUAMIGsMQswCQYD
+VQQGEwJGUjEQMA4GA1UECBMHUm91YmFpeDEQMA4GA1UEBxMHUm91YmFpeDEaMBgG
+A1UEChMRUmluZyBvZiBMaWdodG5pbmcxEzARBgNVBAsTClJhbm1hLWNoYW4xJDAi
+BgNVBAMTG3Byb3hpbWEucmluZ29mbGlnaHRuaW5nLm5ldDEiMCAGCSqGSIb3DQEJ
+ARYTb3ViYXR0bGVyQGdtYWlsLmNvbTAeFw0xMzA2MjkyMzQ1MTBaFw0xNDA2Mjky
+MzQ1MTBaMIGsMQswCQYDVQQGEwJGUjEQMA4GA1UECBMHUm91YmFpeDEQMA4GA1UE
+BxMHUm91YmFpeDEaMBgGA1UEChMRUmluZyBvZiBMaWdodG5pbmcxEzARBgNVBAsT
+ClJhbm1hLWNoYW4xJDAiBgNVBAMTG3Byb3hpbWEucmluZ29mbGlnaHRuaW5nLm5l
+dDEiMCAGCSqGSIb3DQEJARYTb3ViYXR0bGVyQGdtYWlsLmNvbTCBnzANBgkqhkiG
+9w0BAQEFAAOBjQAwgYkCgYEAr/frH3J5EejAJSHaNxTOFSmahs8HiC988DpTqHO+
+aFr8n9mTo02lEww05QRNzHYlhXPRRWrVdK65jHDFmPHcozjprNc6HZQpnULRQ4vS
+kdoltXSbbxaDhLHsWc0hTHberHqmtjI48nQnpB7olBnTXcwIewFDRL3oNH2WbDBG
+8ncCAwEAAaOCARUwggERMB0GA1UdDgQWBBSICcv9W9LG7DoMvneze7T3DP0DjTCB
+4QYDVR0jBIHZMIHWgBSICcv9W9LG7DoMvneze7T3DP0DjaGBsqSBrzCBrDELMAkG
+A1UEBhMCRlIxEDAOBgNVBAgTB1JvdWJhaXgxEDAOBgNVBAcTB1JvdWJhaXgxGjAY
+BgNVBAoTEVJpbmcgb2YgTGlnaHRuaW5nMRMwEQYDVQQLEwpSYW5tYS1jaGFuMSQw
+IgYDVQQDExtwcm94aW1hLnJpbmdvZmxpZ2h0bmluZy5uZXQxIjAgBgkqhkiG9w0B
+CQEWE291YmF0dGxlckBnbWFpbC5jb22CCQD2VpLA3r0egzAMBgNVHRMEBTADAQH/
+MA0GCSqGSIb3DQEBBQUAA4GBAKis4dZTagCz8dpapNE2hysXUQwnE3Gc7WiYR3U7
+C47l9zwqWkKw5edJgEHSyfz6MxxB/4+lVd+QXw3nkDFm4NSwolEXrJZ1+BgNLxDg
+NUmLUO+ALbF08ym9596Cv/xA0yRRor2bGr9DWs2CuHWbVN/UJyN0cMGHSyMGNKwH
+cBu1
+-----END CERTIFICATE-----
