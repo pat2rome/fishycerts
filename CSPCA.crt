@@ -86,3 +86,58 @@ u7e7jjTK8gMQfHr10uBC33v+4eGs/vbf1Q2zcNaS40+2OKJ8LdQ92zQLYjcCn4Fq
 I4n2XGOPsFq7OddgjFWEGjP1O5igggyiX4uzLLehpcur2iC2vzAZhSAUDSq8UvRB
 4F4w45IoaYfBcOLzp6vOgEJydg4=
 -----END CERTIFICATE-----
+
+
+Here's the full signing chain
+
+https://www.virustotal.com/en/file/94b35057c989e32246a2d9263ad4f75bdda38e19e1379635c2038ac6ec4c0ecc/analysis/1424398343/
+	
+[+] Microsoft Corporation
+Status  Certificate out of its validity period
+Valid from 1:23 AM 8/23/2007
+Valid to 1:33 AM 2/23/2009
+Valid usage Code Signing
+Algorithm SHA1
+Thumbrint D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1
+Serial number 61 0F 78 4D 00 00 00 00 00 03
+[+] Microsoft Code Signing PCA
+Status  Certificate out of its validity period
+Valid from 11:31 PM 8/22/2007
+Valid to 8:00 AM 8/25/2012
+Valid usage Code Signing
+Algorithm SHA1
+Thumbrint 3036E3B25B88A55B86FC90E6E9EAAD5081445166
+Serial number 2E AB 11 DC 50 FF 5C 9D CB C0
+[+] Microsoft Root Authority
+Status  Valid
+Valid from 8:00 AM 1/10/1997
+Valid to 8:00 AM 12/31/2020
+Valid usage All
+Algorithm MD5
+Thumbrint A43489159A520F0D93D032CCAF37E7FE20A8B419
+Serial number 00 C1 00 8B 3C 3C 88 11 D1 3E F6 63 EC DF 40
+Counter signers	
+[+] Microsoft Timestamping Service
+Status  Certificate out of its validity period
+Valid from 2:55 AM 9/16/2006
+Valid to 3:05 AM 9/16/2011
+Valid usage Timestamp Signing
+Algorithm SHA1
+Thumbrint A2D57D63CF331B177BE147088FEABEC7388BE01D
+Serial number 61 49 7C ED 00 00 00 00 00 05
+[+] Microsoft Timestamping PCA
+Status  Valid
+Valid from 2:04 AM 9/16/2006
+Valid to 8:00 AM 9/15/2019
+Valid usage Timestamp Signing
+Algorithm SHA1
+Thumbrint 3EA99A60058275E0ED83B892A909449F8C33B245
+Serial number 6A 0B 99 4F C0 00 25 AB 11 DB 45 1F 58 7A 67 A2
+[+] Microsoft Root Authority
+Status  Valid
+Valid from 8:00 AM 1/10/1997
+Valid to 8:00 AM 12/31/2020
+Valid usage All
+Algorithm MD5
+Thumbrint A43489159A520F0D93D032CCAF37E7FE20A8B419
+Serial number 00 C1 00 8B 3C 3C 88 11 D1 3E F6 63 EC DF 40
