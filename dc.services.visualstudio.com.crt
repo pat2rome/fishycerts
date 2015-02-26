@@ -1,0 +1,115 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            4e:db:3f:ad:00:01:00:00:d8:51
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: DC=com, DC=microsoft, DC=corp, DC=redmond, CN=MSIT Machine Auth CA 2
+        Validity
+            Not Before: Apr 14 19:38:47 2014 GMT
+            Not After : Apr 13 19:38:47 2016 GMT
+        Subject: CN=dc.services.visualstudio.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a4:fe:2f:e0:49:59:9c:79:f0:73:00:64:8b:61:
+                    23:80:a4:b5:70:04:69:25:b4:e4:7c:57:21:10:dd:
+                    4d:cb:89:e2:74:76:7d:bd:a5:fc:0e:01:12:d7:82:
+                    92:a2:ca:f0:e6:65:67:e8:d7:d6:0f:9b:0d:55:36:
+                    84:3a:1b:0a:85:42:a0:b8:46:df:e6:cb:c4:25:f7:
+                    8f:6d:5f:af:7a:b0:6f:a5:f8:a5:63:28:01:27:48:
+                    e7:d3:8c:23:ca:c3:25:15:b3:6d:eb:60:8d:63:dc:
+                    62:e2:0a:96:94:ef:24:cb:15:aa:23:09:3f:71:2f:
+                    fa:13:b2:ec:fc:2a:1b:67:42:45:7a:f0:eb:d7:91:
+                    12:a7:50:e6:ae:21:7f:a8:69:8f:de:d4:62:84:32:
+                    d7:c2:d5:1c:cd:44:f8:6a:b4:09:45:72:ad:e0:f5:
+                    a4:3f:e5:67:0a:d3:9e:a3:4d:09:e0:fe:f5:01:91:
+                    a7:e8:51:b9:fc:e4:6e:7b:2b:8b:d1:b2:81:e9:70:
+                    c5:48:65:2b:b1:5e:8f:69:28:e2:e3:73:b4:6a:72:
+                    a5:a3:e4:73:fe:dd:43:e9:bf:af:3f:ef:b4:5e:dc:
+                    c1:1c:de:1d:ec:ee:cc:de:4c:0a:7d:87:f9:4d:e2:
+                    7b:c2:0a:0d:48:66:a7:dd:c5:83:e5:77:2e:8c:44:
+                    da:33
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C2:EE:FB:D2:CC:D2:30:3A:91:2C:34:37:BB:EF:83:06:20:37:27:4C
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment, Data Encipherment
+            X509v3 Authority Key Identifier: 
+                keyid:EB:DB:11:5E:F8:09:9E:D8:D6:62:9C:FD:62:9D:E3:84:4A:28:E1:27
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://mscrl.microsoft.com/pki/mscorp/crl/MSIT%20Machine%20Auth%20CA%202(1).crl
+                  URI:http://crl.microsoft.com/pki/mscorp/crl/MSIT%20Machine%20Auth%20CA%202(1).crl
+                  URI:http://corppki/crl/MSIT%20Machine%20Auth%20CA%202(1).crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.microsoft.com/pki/mscorp/MSIT%20Machine%20Auth%20CA%202(1).crt
+                CA Issuers - URI:http://corppki/aia/MSIT%20Machine%20Auth%20CA%202(1).crt
+
+            1.3.6.1.4.1.311.21.7: 
+                00.(+.....7.....M..........}...t.O.........c..d..
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, TLS Web Server Authentication
+            1.3.6.1.4.1.311.21.10: 
+                0.0
+..+.......0
+..+.......
+            X509v3 Subject Alternative Name: 
+                DNS:dc.services.visualstudio.com
+    Signature Algorithm: sha1WithRSAEncryption
+         32:c9:6c:ca:24:0f:5a:95:0e:00:4e:3d:6b:86:25:62:47:d2:
+         ec:7a:5b:92:10:8e:98:a7:04:26:c4:95:f9:bb:d9:91:95:00:
+         6b:64:95:15:1d:0d:b1:60:45:17:b0:1f:a7:59:a5:ef:a2:51:
+         8f:0b:0c:42:86:a1:04:2c:8a:d0:7a:83:b9:d9:11:11:6e:ee:
+         01:2d:0e:c8:6a:73:64:59:81:da:fb:39:78:13:a9:ee:c0:9f:
+         e6:49:e2:05:80:37:a2:48:ba:e5:4d:c6:bd:37:80:78:bf:dd:
+         26:6e:9c:11:60:40:74:31:df:59:21:65:eb:8a:2b:34:c8:cf:
+         43:19:39:41:fd:ca:c7:82:76:01:b0:8c:52:21:b6:50:3a:dc:
+         23:6f:50:e6:17:42:1d:86:d8:86:65:33:ea:72:c7:f2:52:08:
+         3c:e9:6c:e2:5e:79:14:e8:b7:09:cc:35:10:60:5a:73:50:3e:
+         f6:b2:93:55:a3:01:ba:3c:52:cc:d6:35:8c:6d:77:31:3a:0a:
+         9d:b8:5f:fb:70:73:94:39:60:58:66:b5:fd:50:48:2f:0a:33:
+         aa:7e:1d:a1:70:3e:5e:e9:f2:c5:27:1f:fe:54:15:68:b6:6b:
+         0d:a9:67:c6:f9:55:e3:3a:b5:69:de:35:f0:6f:3d:28:80:26:
+         05:e6:33:d6
+         
+         -----BEGIN CERTIFICATE-----
+MIIF0jCCBLqgAwIBAgIKTts/rQABAADYUTANBgkqhkiG9w0BAQUFADCBgDETMBEG
+CgmSJomT8ixkARkWA2NvbTEZMBcGCgmSJomT8ixkARkWCW1pY3Jvc29mdDEUMBIG
+CgmSJomT8ixkARkWBGNvcnAxFzAVBgoJkiaJk/IsZAEZFgdyZWRtb25kMR8wHQYD
+VQQDExZNU0lUIE1hY2hpbmUgQXV0aCBDQSAyMB4XDTE0MDQxNDE5Mzg0N1oXDTE2
+MDQxMzE5Mzg0N1owJzElMCMGA1UEAxMcZGMuc2VydmljZXMudmlzdWFsc3R1ZGlv
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKT+L+BJWZx58HMA
+ZIthI4CktXAEaSW05HxXIRDdTcuJ4nR2fb2l/A4BEteCkqLK8OZlZ+jX1g+bDVU2
+hDobCoVCoLhG3+bLxCX3j21fr3qwb6X4pWMoASdI59OMI8rDJRWzbetgjWPcYuIK
+lpTvJMsVqiMJP3Ev+hOy7PwqG2dCRXrw69eREqdQ5q4hf6hpj97UYoQy18LVHM1E
++Gq0CUVyreD1pD/lZwrTnqNNCeD+9QGRp+hRufzkbnsri9GygelwxUhlK7Fej2ko
+4uNztGpypaPkc/7dQ+m/rz/vtF7cwRzeHezuzN5MCn2H+U3ie8IKDUhmp93Fg+V3
+LoxE2jMCAwEAAaOCAqQwggKgMB0GA1UdDgQWBBTC7vvSzNIwOpEsNDe774MGIDcn
+TDALBgNVHQ8EBAMCBLAwHwYDVR0jBBgwFoAU69sRXvgJntjWYpz9Yp3jhEoo4Scw
+ge4GA1UdHwSB5jCB4zCB4KCB3aCB2oZPaHR0cDovL21zY3JsLm1pY3Jvc29mdC5j
+b20vcGtpL21zY29ycC9jcmwvTVNJVCUyME1hY2hpbmUlMjBBdXRoJTIwQ0ElMjAy
+KDEpLmNybIZNaHR0cDovL2NybC5taWNyb3NvZnQuY29tL3BraS9tc2NvcnAvY3Js
+L01TSVQlMjBNYWNoaW5lJTIwQXV0aCUyMENBJTIwMigxKS5jcmyGOGh0dHA6Ly9j
+b3JwcGtpL2NybC9NU0lUJTIwTWFjaGluZSUyMEF1dGglMjBDQSUyMDIoMSkuY3Js
+MIGtBggrBgEFBQcBAQSBoDCBnTBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy5taWNy
+b3NvZnQuY29tL3BraS9tc2NvcnAvTVNJVCUyME1hY2hpbmUlMjBBdXRoJTIwQ0El
+MjAyKDEpLmNydDBEBggrBgEFBQcwAoY4aHR0cDovL2NvcnBwa2kvYWlhL01TSVQl
+MjBNYWNoaW5lJTIwQXV0aCUyMENBJTIwMigxKS5jcnQwPwYJKwYBBAGCNxUHBDIw
+MAYoKwYBBAGCNxUIg8+JTa3yAoWhnwyC+sp9geH7dIFPg8LthQiOqdKFYwIBZAIB
+CjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwJwYJKwYBBAGCNxUKBBow
+GDAKBggrBgEFBQcDAjAKBggrBgEFBQcDATAnBgNVHREEIDAeghxkYy5zZXJ2aWNl
+cy52aXN1YWxzdHVkaW8uY29tMA0GCSqGSIb3DQEBBQUAA4IBAQAyyWzKJA9alQ4A
+Tj1rhiViR9LseluSEI6YpwQmxJX5u9mRlQBrZJUVHQ2xYEUXsB+nWaXvolGPCwxC
+hqEELIrQeoO52RERbu4BLQ7IanNkWYHa+zl4E6nuwJ/mSeIFgDeiSLrlTca9N4B4
+v90mbpwRYEB0Md9ZIWXriis0yM9DGTlB/crHgnYBsIxSIbZQOtwjb1DmF0IdhtiG
+ZTPqcsfyUgg86WziXnkU6LcJzDUQYFpzUD72spNVowG6PFLM1jWMbXcxOgqduF/7
+cHOUOWBYZrX9UEgvCjOqfh2hcD5e6fLFJx/+VBVotmsNqWfG+VXjOrVp3jXwbz0o
+gCYF5jPW
+-----END CERTIFICATE-----
