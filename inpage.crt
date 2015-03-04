@@ -1,0 +1,126 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            60:5e:39:ba:21:91:5b:ce:c5:24:2f:f7:6c:0e:b7:ca
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., CN=GeoTrust EV SSL CA - G4
+        Validity
+            Not Before: Dec 22 00:00:00 2014 GMT
+            Not After : Dec 21 23:59:59 2016 GMT
+        Subject: 1.3.6.1.4.1.311.60.2.1.3=US/1.3.6.1.4.1.311.60.2.1.2=Georgia/businessCategory=Private Organization/serialNumber=1149297, C=US, ST=Georgia, L=Kennesaw, O=Zoner, Inc., CN=www.inpage.website
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d0:16:db:f6:c0:b5:bf:47:de:66:21:fc:a4:39:
+                    5c:ad:04:25:4f:6f:9d:b3:a0:be:57:53:fe:ac:72:
+                    cf:f9:ed:c0:2a:04:ae:10:58:89:4b:c7:ba:a2:b8:
+                    dd:a9:f1:79:86:7b:da:8c:29:a5:a2:21:8e:f9:30:
+                    d7:6a:82:0e:44:70:df:13:d9:42:bd:2b:cc:28:bf:
+                    d2:8d:d4:d1:69:73:6b:6a:c5:c8:98:e3:a9:30:f6:
+                    60:70:69:bb:a1:f1:a5:f4:8e:48:2e:78:c0:fe:d9:
+                    55:b9:63:44:20:92:d1:e7:ab:b3:28:ba:8f:09:aa:
+                    e4:ac:0c:7a:f1:fd:c0:2c:11:5a:aa:46:29:31:e0:
+                    08:bb:c1:32:c8:67:97:01:92:f3:a2:aa:3c:35:d3:
+                    88:29:8c:6d:2b:c2:af:2f:79:8e:09:5d:1c:cd:a2:
+                    77:e5:00:a0:1f:9a:5c:fd:f6:e4:92:51:56:bf:73:
+                    76:e7:73:b5:b1:16:2c:0d:af:10:b9:db:1b:9a:f4:
+                    36:5b:04:1a:76:90:7a:16:75:58:ac:cc:a9:08:78:
+                    2d:1e:dd:c0:c1:75:aa:28:03:58:0d:1a:31:86:39:
+                    6f:38:b9:06:af:90:cf:26:9a:da:39:7f:c3:e4:ae:
+                    33:1b:15:de:22:9c:6d:a3:0c:bc:8f:aa:fd:31:38:
+                    b0:75
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:www.inpage.cz, DNS:www.inpage.sk, DNS:www.webinpage.cz, DNS:www.inpage.eu, DNS:www.inpage.hu, DNS:www.inpage.pl, DNS:www.inpage.ro, DNS:www.inpage.website, DNS:inpage.website
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gm.symcb.com/gm.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.14370.1.6
+                  CPS: https://www.geotrust.com/resources/repository/legal
+                  User Notice:
+                    Explicit Text: https://www.geotrust.com/resources/repository/legal
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Authority Key Identifier: 
+                keyid:DE:CF:5C:50:B7:AE:02:1F:15:17:AA:16:E8:0D:B5:28:9D:6A:5A:F3
+
+            Authority Information Access: 
+                OCSP - URI:http://gm.symcd.com
+                CA Issuers - URI:http://gm.symcb.com/gm.crt
+
+            1.3.6.1.4.1.11129.2.4.2: 
+                ...l.j.w.......X......gp
+<5.......w...
+.....Jt........H0F.!..+..m..SN.z..=.0.<.'..
+.Mg..FZ...!..D'.uf...U....j..`h.\b#..........w.h....d..:...(.L.qQ]g..D.
+g..OO.....Jt........H0F.!...S.U...H.*.+P.c[).]...z..w3.....!...6.c.....k./.&.u.v..}4.j|{.s6...v..K..u.`..Bi....f..~_.r....{.z......Jt........G0E. \./.Y..&.I.v;zP
+..V.0z..+.bv.~J..!..|@.8.t.I...|.A..U3.1..s.._.p\.G
+    Signature Algorithm: sha256WithRSAEncryption
+         99:9f:c8:b0:3e:8a:e3:be:37:33:4c:4b:4b:86:24:fb:b3:23:
+         1c:78:49:7a:1f:55:0e:bd:da:18:96:2d:1c:97:a3:a0:13:70:
+         dd:76:7e:5e:dc:cb:f5:0a:ab:3a:90:79:cb:af:1f:a5:92:bd:
+         1f:4d:cb:f4:ea:5b:34:ab:30:70:26:c4:90:35:9b:eb:82:94:
+         f9:96:0b:76:96:81:b3:21:5b:e7:1a:84:4d:23:64:be:83:3e:
+         d6:39:ad:d8:e3:db:e9:b7:3c:6f:ad:c3:43:83:b1:dd:ba:7c:
+         d3:4b:21:be:82:4b:4f:6b:60:cd:b5:3e:aa:a1:92:c2:75:c2:
+         00:20:e2:8a:34:3d:45:79:2b:51:a6:13:74:49:3a:d2:7a:93:
+         34:4f:99:a0:3d:07:72:5a:6c:ba:cb:be:18:54:6f:e1:de:03:
+         70:c0:db:ba:b2:f0:fe:bb:54:5d:35:4c:ca:c9:f5:d4:0c:7d:
+         8e:97:eb:bc:a4:7f:1c:10:c1:b1:67:39:a5:1b:0a:76:3d:3e:
+         e9:6e:f9:bf:91:21:b2:82:4d:e3:13:1f:56:95:b2:07:88:2c:
+         12:b5:83:2e:b1:99:7b:2b:6a:fb:6d:2d:c7:06:bb:34:c3:1a:
+         c5:ca:a5:b0:45:52:d8:cd:cc:9f:44:10:26:0e:61:7b:70:46:
+         b2:cb:6d:51
+         
+         -----BEGIN CERTIFICATE-----
+MIIHQzCCBiugAwIBAgIQYF45uiGRW87FJC/3bA63yjANBgkqhkiG9w0BAQsFADBH
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEgMB4GA1UEAxMX
+R2VvVHJ1c3QgRVYgU1NMIENBIC0gRzQwHhcNMTQxMjIyMDAwMDAwWhcNMTYxMjIx
+MjM1OTU5WjCBxTETMBEGCysGAQQBgjc8AgEDEwJVUzEYMBYGCysGAQQBgjc8AgEC
+FAdHZW9yZ2lhMR0wGwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlvbjEQMA4GA1UE
+BRMHMTE0OTI5NzELMAkGA1UEBhMCVVMxEDAOBgNVBAgUB0dlb3JnaWExETAPBgNV
+BAcUCEtlbm5lc2F3MRQwEgYDVQQKFAtab25lciwgSW5jLjEbMBkGA1UEAxQSd3d3
+LmlucGFnZS53ZWJzaXRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0Bbb9sC1v0feZiH8pDlcrQQlT2+ds6C+V1P+rHLP+e3AKgSuEFiJS8e6orjdqfF5
+hnvajCmloiGO+TDXaoIORHDfE9lCvSvMKL/SjdTRaXNrasXImOOpMPZgcGm7ofGl
+9I5ILnjA/tlVuWNEIJLR56uzKLqPCarkrAx68f3ALBFaqkYpMeAIu8EyyGeXAZLz
+oqo8NdOIKYxtK8KvL3mOCV0czaJ35QCgH5pc/fbkklFWv3N253O1sRYsDa8Qudsb
+mvQ2WwQadpB6FnVYrMypCHgtHt3AwXWqKANYDRoxhjlvOLkGr5DPJpraOX/D5K4z
+GxXeIpxtowy8j6r9MTiwdQIDAQABo4IDqjCCA6YwgZsGA1UdEQSBkzCBkIINd3d3
+LmlucGFnZS5jeoINd3d3LmlucGFnZS5za4IQd3d3LndlYmlucGFnZS5jeoINd3d3
+LmlucGFnZS5ldYINd3d3LmlucGFnZS5odYINd3d3LmlucGFnZS5wbIINd3d3Lmlu
+cGFnZS5yb4ISd3d3LmlucGFnZS53ZWJzaXRlgg5pbnBhZ2Uud2Vic2l0ZTAJBgNV
+HRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
+Z20uc3ltY2IuY29tL2dtLmNybDCBoAYDVR0gBIGYMIGVMIGSBgkrBgEEAfAiAQYw
+gYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJj
+ZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5n
+ZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFN7PXFC3rgIfFReqFugN
+tSidalrzMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dtLnN5
+bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2dtLnN5bWNiLmNvbS9nbS5jcnQw
+ggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3AKS5CZC0GFgUh7sTosxncAo8NZgE
++RvfuON3zQ7IDdwQAAABSnQfFM8AAAQDAEgwRgIhAJIr9fBt9/5TTht64dk9vDCt
+PMMn7boKEk1nktpGWh8SAiEA6kQnAnVm87jtVfON2M1qAt9gaNFcYiO5htQHmdke
+o6QAdwBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAUp0HxTpAAAE
+AwBIMEYCIQDr8VPNVbgPjkgQKuorUAZjWynPXbwH73qTt3czHcLyxAIhALcFNtBj
+57fqno9r0y+pJt51H3aC3300+2p8e8BzNs0WAHYA7ku9t3XOYLrhQmkfq+GeZqMP
+fl+wctiDAMR7iXqo/csAAAFKdB8WsQAABAMARzBFAiBcmi+8Wb+9JqtJ8XY7elAN
+mNNWnTB6zOIrjGJ2AX5KwQIhAIF8QPg42nTlSeiq+nweQZXQVTPsMYimcwvYX4Vw
+XPxHMA0GCSqGSIb3DQEBCwUAA4IBAQCZn8iwPorjvjczTEtLhiT7syMceEl6H1UO
+vdoYli0cl6OgE3Dddn5e3Mv1Cqs6kHnLrx+lkr0fTcv06ls0qzBwJsSQNZvrgpT5
+lgt2loGzIVvnGoRNI2S+gz7WOa3Y49vptzxvrcNDg7HdunzTSyG+gktPa2DNtT6q
+oZLCdcIAIOKKND1FeStRphN0STrSepM0T5mgPQdyWmy6y74YVG/h3gNwwNu6svD+
+u1RdNUzKyfXUDH2Ol+u8pH8cEMGxZzmlGwp2PT7pbvm/kSGygk3jEx9WlbIHiCwS
+tYMusZl7K2r7bS3HBrs0wxrFyqWwRVLYzcyfRBAmDmF7cEayy21R
+-----END CERTIFICATE-----
