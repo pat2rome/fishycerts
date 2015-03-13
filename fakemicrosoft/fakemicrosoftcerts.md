@@ -1,5 +1,7 @@
 http://blog.didierstevens.com/2012/06/04/flame-before-and-after-kb2718704/
 
+http://lists.randombit.net/pipermail/cryptography/2012-June/002969.html
+
 
 https://www.f-secure.com/documents/996508/1030745/w64_regin_stage_1.pdf
 
