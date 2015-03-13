@@ -1,0 +1,136 @@
+fingerprint: 3581798b776800a2b2bef7f8b8362135ad8a7ae7
+https://ssl-tools.net/certificates/3581798b776800a2b2bef7f8b8362135ad8a7ae7.txt
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1311970641 (0x4e331551)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: DC=sbu, DC=state, CN=Configuration, CN=Services, CN=Public Key Services, CN=AIA, CN=U.S. Department of State AD Root CA
+        Validity
+            Not Before: Mar 19 19:03:48 2012 GMT
+            Not After : Mar 19 19:33:48 2022 GMT
+        Subject: DC=sbu, DC=state, CN=Configuration, CN=Services, CN=Public Key Services, CN=AIA, CN=U.S. Department of State AD High Assurance CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c6:57:b6:67:b7:76:0b:80:8d:6e:23:5f:74:cb:
+                    db:b2:7c:81:95:49:5c:6f:80:31:62:48:5a:27:0c:
+                    15:b5:a3:a6:f7:cb:05:0f:76:75:e0:6d:4d:cc:ac:
+                    16:75:c7:2e:a3:25:39:a6:09:81:bb:4a:50:6d:5d:
+                    be:20:4c:ca:08:b4:97:a9:cf:6a:82:06:e5:9e:73:
+                    dd:aa:6d:8b:a2:d5:ca:bb:a2:70:fe:54:7a:7a:88:
+                    ea:c9:3d:fc:82:09:21:ec:f0:77:15:3f:db:02:1b:
+                    c2:68:76:d4:e9:ca:26:9b:ac:ed:0b:aa:91:9d:9e:
+                    e9:e7:62:d4:e5:38:e1:19:bb:47:43:27:97:5a:1a:
+                    86:4a:54:40:d7:ac:1a:51:12:d9:57:2f:45:7a:52:
+                    c8:16:fd:60:95:0f:9d:63:73:4e:41:37:f5:43:4e:
+                    50:73:1a:c2:5b:02:97:db:76:54:68:a8:d9:58:ca:
+                    70:ec:79:a8:82:c1:51:f0:ff:91:27:dc:dd:9e:71:
+                    df:7e:67:1c:5f:7d:7c:cd:c7:85:b7:15:13:04:0b:
+                    0d:87:8e:bc:6d:84:57:f1:57:f0:7f:7e:63:87:04:
+                    1e:29:32:7e:c5:65:19:d3:0f:a6:e9:4d:81:e2:aa:
+                    a9:15:41:5b:53:3d:25:58:ea:23:c4:df:0e:85:b5:
+                    26:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.101.3.2.1.6.1
+                Policy: 2.16.840.1.101.3.2.1.6.2
+                Policy: 2.16.840.1.101.3.2.1.6.3
+                Policy: 2.16.840.1.101.3.2.1.6.4
+                Policy: 2.16.840.1.101.3.2.1.6.12
+                Policy: 2.16.840.1.101.3.2.1.6.37
+                Policy: 2.16.840.1.101.3.2.1.6.38
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crls.pki.state.gov/AIA/CertsIssuedToDoSADRootCA.p7c
+                CA Issuers - URI:ldap://certrep.pki.state.gov/cn=U.S.%20Department%20of%20State%20AD%20Root%20CA,cn=AIA,cn=Public%20Key%20Services,cn=Services,cn=Configuration,dc=state,dc=sbu?cACertificate;binary,crossCertificatePair;binary
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crls.pki.state.gov/crls/DoSADPKIRootCA.crl
+                  URI:ldap://certrep.pki.state.gov/cn=U.S.%20Department%20of%20State%20AD%20Root%20CA,cn=AIA,cn=Public%20Key%20Services,cn=Services,cn=Configuration,dc=state,dc=sbu?certificateRevocationList;binary
+
+                Full Name:
+                  DirName: DC = sbu, DC = state, CN = Configuration, CN = Services, CN = Public Key Services, CN = AIA, CN = U.S. Department of State AD Root CA, CN = CRL1
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Policy Constraints: 
+                Inhibit Policy Mapping:0
+            X509v3 Authority Key Identifier: 
+                keyid:6F:83:FE:82:50:64:65:77:3E:FD:DF:03:9A:CE:29:D1:2F:30:CC:EC
+
+            X509v3 Subject Key Identifier: 
+                2F:4A:EA:B0:A5:54:3F:07:92:4D:49:9B:3E:7D:08:5A:D2:43:B9:4B
+    Signature Algorithm: sha256WithRSAEncryption
+         1c:55:51:d9:c7:d9:e2:36:cd:08:72:4c:ba:04:5b:ea:91:73:
+         48:d0:66:c1:9f:37:31:c2:72:36:fc:d5:2c:6d:98:06:25:e0:
+         ce:22:3d:f9:ad:55:72:15:97:a3:8b:1e:c3:3b:b6:6c:98:76:
+         a4:c1:81:b7:e1:66:51:3d:07:3a:ac:da:fd:ac:ef:14:68:a0:
+         3a:6f:4d:52:b0:f9:2b:ca:81:16:c2:37:91:8d:12:72:03:a2:
+         0e:7e:dd:a1:8a:26:75:ef:89:14:bb:9b:da:9b:6b:cb:7b:91:
+         9e:e0:e7:a3:e0:22:c7:63:b9:b2:85:d9:2c:8c:16:4a:a4:1e:
+         32:41:0f:aa:e4:da:64:df:fb:8e:9e:59:5b:9a:c2:53:38:95:
+         b8:2d:de:e0:2f:ba:67:1b:59:f4:80:73:38:bf:8c:74:82:50:
+         61:ed:90:bf:0f:27:69:3c:2f:05:61:53:b1:24:f9:1e:ea:92:
+         29:cb:22:bc:1a:86:42:97:75:1f:5b:52:2d:23:ba:8f:3f:39:
+         d7:f0:b4:e5:cc:1a:89:5a:fc:6a:f3:71:e8:fb:ee:cc:b2:94:
+         8a:cd:a6:75:64:3e:7c:60:52:6c:b2:b7:d3:16:1d:fc:b5:97:
+         93:60:f7:48:c8:5b:89:3d:d5:fc:95:a7:9a:39:37:1f:25:48:
+         c4:ad:4c:81
+         
+         
+         -----BEGIN CERTIFICATE-----
+MIIH7DCCBtSgAwIBAgIETjMVUTANBgkqhkiG9w0BAQsFADCBsTETMBEGCgmS
+JomT8ixkARkWA3NidTEVMBMGCgmSJomT8ixkARkWBXN0YXRlMRYwFAYDVQQD
+DA1Db25maWd1cmF0aW9uMREwDwYDVQQDDAhTZXJ2aWNlczEcMBoGA1UEAwwT
+UHVibGljIEtleSBTZXJ2aWNlczEMMAoGA1UEAwwDQUlBMSwwKgYDVQQDDCNV
+LlMuIERlcGFydG1lbnQgb2YgU3RhdGUgQUQgUm9vdCBDQTAeFw0xMjAzMTkx
+OTAzNDhaFw0yMjAzMTkxOTMzNDhaMIG7MRMwEQYKCZImiZPyLGQBGRYDc2J1
+MRUwEwYKCZImiZPyLGQBGRYFc3RhdGUxFjAUBgNVBAMMDUNvbmZpZ3VyYXRp
+b24xETAPBgNVBAMMCFNlcnZpY2VzMRwwGgYDVQQDDBNQdWJsaWMgS2V5IFNl
+cnZpY2VzMQwwCgYDVQQDDANBSUExNjA0BgNVBAMMLVUuUy4gRGVwYXJ0bWVu
+dCBvZiBTdGF0ZSBBRCBIaWdoIEFzc3VyYW5jZSBDQTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMZXtme3dguAjW4jX3TL27J8gZVJXG+AMWJI
+WicMFbWjpvfLBQ92deBtTcysFnXHLqMlOaYJgbtKUG1dviBMygi0l6nPaoIG
+5Z5z3apti6LVyruicP5UenqI6sk9/IIJIezwdxU/2wIbwmh21OnKJpus7Quq
+kZ2e6edi1OU44Rm7R0Mnl1oahkpUQNesGlES2VcvRXpSyBb9YJUPnWNzTkE3
+9UNOUHMawlsCl9t2VGio2VjKcOx5qILBUfD/kSfc3Z5x335nHF99fM3HhbcV
+EwQLDYeOvG2EV/FX8H9+Y4cEHikyfsVlGdMPpulNgeKqqRVBW1M9JVjqI8Tf
+DoW1JlcCAwEAAaOCA/4wggP6MA4GA1UdDwEB/wQEAwIBBjBrBgNVHSAEZDBi
+MAwGCmCGSAFlAwIBBgEwDAYKYIZIAWUDAgEGAjAMBgpghkgBZQMCAQYDMAwG
+CmCGSAFlAwIBBgQwDAYKYIZIAWUDAgEGDDAMBgpghkgBZQMCAQYlMAwGCmCG
+SAFlAwIBBiYwggE5BggrBgEFBQcBAQSCASswggEnMEYGCCsGAQUFBzAChjpo
+dHRwOi8vY3Jscy5wa2kuc3RhdGUuZ292L0FJQS9DZXJ0c0lzc3VlZFRvRG9T
+QURSb290Q0EucDdjMIHcBggrBgEFBQcwAoaBz2xkYXA6Ly9jZXJ0cmVwLnBr
+aS5zdGF0ZS5nb3YvY249VS5TLiUyMERlcGFydG1lbnQlMjBvZiUyMFN0YXRl
+JTIwQUQlMjBSb290JTIwQ0EsY249QUlBLGNuPVB1YmxpYyUyMEtleSUyMFNl
+cnZpY2VzLGNuPVNlcnZpY2VzLGNuPUNvbmZpZ3VyYXRpb24sZGM9c3RhdGUs
+ZGM9c2J1P2NBQ2VydGlmaWNhdGU7YmluYXJ5LGNyb3NzQ2VydGlmaWNhdGVQ
+YWlyO2JpbmFyeTCCAdoGA1UdHwSCAdEwggHNMIH7oIH4oIH1hjFodHRwOi8v
+Y3Jscy5wa2kuc3RhdGUuZ292L2NybHMvRG9TQURQS0lSb290Q0EuY3JshoG/
+bGRhcDovL2NlcnRyZXAucGtpLnN0YXRlLmdvdi9jbj1VLlMuJTIwRGVwYXJ0
+bWVudCUyMG9mJTIwU3RhdGUlMjBBRCUyMFJvb3QlMjBDQSxjbj1BSUEsY249
+UHVibGljJTIwS2V5JTIwU2VydmljZXMsY249U2VydmljZXMsY249Q29uZmln
+dXJhdGlvbixkYz1zdGF0ZSxkYz1zYnU/Y2VydGlmaWNhdGVSZXZvY2F0aW9u
+TGlzdDtiaW5hcnkwgcyggcmggcakgcMwgcAxEzARBgoJkiaJk/IsZAEZFgNz
+YnUxFTATBgoJkiaJk/IsZAEZFgVzdGF0ZTEWMBQGA1UEAwwNQ29uZmlndXJh
+dGlvbjERMA8GA1UEAwwIU2VydmljZXMxHDAaBgNVBAMME1B1YmxpYyBLZXkg
+U2VydmljZXMxDDAKBgNVBAMMA0FJQTEsMCoGA1UEAwwjVS5TLiBEZXBhcnRt
+ZW50IG9mIFN0YXRlIEFEIFJvb3QgQ0ExDTALBgNVBAMMBENSTDEwEgYDVR0T
+AQH/BAgwBgEB/wIBADAMBgNVHSQEBTADgQEAMB8GA1UdIwQYMBaAFG+D/oJQ
+ZGV3Pv3fA5rOKdEvMMzsMB0GA1UdDgQWBBQvSuqwpVQ/B5JNSZs+fQha0kO5
+SzANBgkqhkiG9w0BAQsFAAOCAQEAHFVR2cfZ4jbNCHJMugRb6pFzSNBmwZ83
+McJyNvzVLG2YBiXgziI9+a1VchWXo4sewzu2bJh2pMGBt+FmUT0HOqza/azv
+FGigOm9NUrD5K8qBFsI3kY0ScgOiDn7doYomde+JFLub2ptry3uRnuDno+Ai
+x2O5soXZLIwWSqQeMkEPquTaZN/7jp5ZW5rCUziVuC3e4C+6ZxtZ9IBzOL+M
+dIJQYe2Qvw8naTwvBWFTsST5HuqSKcsivBqGQpd1H1tSLSO6jz851/C05cwa
+iVr8avNx6PvuzLKUis2mdWQ+fGBSbLK30xYd/LWXk2D3SMhbiT3V/JWnmjk3
+HyVIxK1MgQ==
+-----END CERTIFICATE-----
