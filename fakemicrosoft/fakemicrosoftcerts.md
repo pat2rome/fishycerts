@@ -1,3 +1,6 @@
+http://blog.didierstevens.com/2012/06/04/flame-before-and-after-kb2718704/
+
+
 https://www.f-secure.com/documents/996508/1030745/w64_regin_stage_1.pdf
 
 
