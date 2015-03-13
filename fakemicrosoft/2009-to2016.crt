@@ -1,0 +1,146 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:1a:02:b7:00:02:00:00:00:12
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Copyright (c) 1999 Microsoft Corp., CN=Microsoft Enforced Licensing Intermediate PCA
+        Validity
+            Not Before: Dec 11 00:03:58 2009 GMT
+            Not After : Oct 23 08:00:00 2016 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Copyright (c) 2003 Microsoft Corp., CN=Microsoft Enforced Licensing Registration Authority CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8e:98:07:ed:46:50:30:aa:8a:95:5e:36:7f:bc:
+                    71:30:a1:1d:49:cf:e7:96:ff:2f:9a:09:16:12:f0:
+                    98:31:55:45:52:40:63:7d:57:67:46:a2:2b:08:98:
+                    6d:9b:c6:69:25:40:87:49:e7:01:37:84:00:1d:69:
+                    9d:85:2f:e1:a0:2c:27:83:4c:75:60:8b:2c:eb:f9:
+                    90:8e:5e:4a:8f:fd:d3:5b:8c:89:c8:0f:f8:cf:2e:
+                    9f:3c:8a:3d:41:cc:b6:84:0c:9c:73:97:46:dd:52:
+                    26:12:a5:44:8d:df:0a:50:1f:4a:79:dc:e3:19:3c:
+                    ef:ed:82:c9:89:14:91:fd:99:69:a4:f2:8a:a6:c8:
+                    8e:bd:38:3b:80:30:8a:59:c8:a0:ab:de:71:44:1b:
+                    24:f9:b9:a1:8f:19:9d:fd:19:b4:69:16:17:a2:23:
+                    31:a7:11:12:65:cd:c0:9d:78:5d:42:e5:95:8e:13:
+                    2f:ac:f8:00:87:6e:96:ef:73:d4:0f:7e:3c:9f:81:
+                    47:d0:1f:8f:79:1d:3c:3f:cb:ae:34:22:d6:cd:fc:
+                    21:80:35:11:0d:a9:90:cc:55:b4:65:fc:2d:37:7d:
+                    80:7a:97:ee:5b:4a:c5:3e:8b:03:aa:ae:4d:22:37:
+                    66:70:84:1c:69:c5:d7:97:9a:8f:1e:3a:b2:24:84:
+                    8f:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier:
+                B4:A1:D8:DE:FB:0E:C4:CB:9D:9F:06:CF:36:0D:91:1A:F8:9F:5B:E3
+            X509v3 Key Usage:
+                Digital Signature, Non Repudiation, Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.1:
+                .....
+            1.3.6.1.4.1.311.21.2:
+                ....x8g.).k/.T..p_....
+            1.3.6.1.4.1.311.20.2:
+                .
+.S.u.b.C.A
+            X509v3 Authority Key Identifier:
+                keyid:6A:97:E0:C8:9F:F4:49:B4:89:24:B3:E3:D1:A8:22:86:AA:D4:94:43
+ 
+            X509v3 CRL Distribution Points:
+ 
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/MicEnfLicPCA_12-10-09.crl
+ 
+            X509v3 Extended Key Usage:
+                Code Signing, 1.3.6.1.4.1.311.10.6.2
+            1.3.6.1.4.1.311.2.1.10: critical
+                0....).'https://www.microsoft.com/repository/CPS........This certificate incorporates by reference, and its use is strictly
+subject to, the Microsoft Certification Practice Statement (CPS)
+version 2.0, available in the Microsoft repository at:
+https://www.microsoft.com; by E-mail at CPS-requests@microsoft.com; or
+by mail at Microsoft Corp, dept. CPS,1 Microsoft Way,Redmond, WA 98052
+USA Copyright (c)1999 Microsoft Corp.  All Rights Reserved. CERTAIN
+WARRANTIES DISCLAIMED AND LIABILITY LIMITED.
+ 
+WARNING: THE USE OF THIS CERTIFICATE IS STRICTLY SUBJECT TO THE
+VERISIGN CERTIFICATION PRACTICE STATEMENT.  THE ISSUING AUTHORITY
+DISCLAIMS CERTAIN IMPLIED AND EXPRESS WARRANTIES, INCLUDING WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND WILL NOT
+BE LIABLE FOR CONSEQUENTIAL, PUNITIVE, AND CERTAIN OTHER DAMAGES. SEE
+THE CPS FOR DETAILS.
+ 
+Contents of the Microsoft registered nonverifiedSubjectAttributes
+extension value shall not be considered as accurate information
+validated by the IA.
+.6.4https://www.microsoft.com/repository/mscpslogo.gif
+    Signature Algorithm: md5WithRSAEncryption
+        24:ab:ed:f7:72:44:44:98:71:f6:d1:b9:b5:69:e0:ef:1c:b0:
+        4c:04:98:0f:bf:4c:a9:74:47:b0:84:a1:48:e2:81:b3:ea:e1:
+        c9:53:92:53:11:c8:45:ba:88:76:68:cd:dc:be:f3:a0:65:80:
+        76:d7:93:03:69:8d:c7:bc:7a:ae:89:7c:df:12:10:0a:a6:29:
+        a6:d4:e5:9b:55:ab:ca:ec:4b:d9:c1:28:37:d0:d6:71:38:6d:
+        5e:75:fd:66:ab:2a:c0:b9:24:6f:9e:42:33:0f:71:b4:6e:a6:
+        f7:ba:23:1a:74:ed:cd:b1:ae:0a:32:a8:5c:26:16:fa:31:76:
+        23:e8:a7:24:80:f1:de:45:b5:42:bd:f1:58:08:8f:e2:f2:70:
+        86:2e:13:83:24:de:50:88:88:c0:23:32:59:74:fa:7a:5f:73:
+        d7:63:bd:58:9d:c0:68:b0:53:21:71:50:45:b8:27:cf:3c:e5:
+        64:fb:7c:13:8b:c1:01:3e:90:d9:43:f7:3e:cc:19:16:b3:b6:
+        16:8f:27:7a:f9:46:ed:8a:da:e7:c5:91:c2:c8:2a:08:21:5a:
+        b8:7a:88:4e:a6:2a:a5:f7:ed:20:01:14:48:56:df:57:7d:6f:
+        bf:95:75:18:29:17:19:84:a3:13:61:54:82:c3:55:58:3d:83:
+        a3:90:75:aa
+-----BEGIN CERTIFICATE-----
+MIIJcjCCCFqgAwIBAgIKYRoCtwACAAAAEjANBgkqhkiG9w0BAQQFADCBuTELMAkG
+A1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQx
+HjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjErMCkGA1UECxMiQ29weXJp
+Z2h0IChjKSAxOTk5IE1pY3Jvc29mdCBDb3JwLjE2MDQGA1UEAxMtTWljcm9zb2Z0
+IEVuZm9yY2VkIExpY2Vuc2luZyBJbnRlcm1lZGlhdGUgUENBMB4XDTA5MTIxMTAw
+MDM1OFoXDTE2MTAyMzA4MDAwMFowgcIxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpX
+YXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQg
+Q29ycG9yYXRpb24xKzApBgNVBAsTIkNvcHlyaWdodCAoYykgMjAwMyBNaWNyb3Nv
+ZnQgQ29ycC4xPzA9BgNVBAMTNk1pY3Jvc29mdCBFbmZvcmNlZCBMaWNlbnNpbmcg
+UmVnaXN0cmF0aW9uIEF1dGhvcml0eSBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAI6YB+1GUDCqipVeNn+8cTChHUnP55b/L5oJFhLwmDFVRVJAY31X
+Z0aiKwiYbZvGaSVAh0nnATeEAB1pnYUv4aAsJ4NMdWCLLOv5kI5eSo/901uMicgP
++M8unzyKPUHMtoQMnHOXRt1SJhKlRI3fClAfSnnc4xk87+2CyYkUkf2ZaaTyiqbI
+jr04O4AwilnIoKvecUQbJPm5oY8Znf0ZtGkWF6IjMacREmXNwJ14XULllY4TL6z4
+AIdulu9z1A9+PJ+BR9Afj3kdPD/LrjQi1s38IYA1EQ2pkMxVtGX8LTd9gHqX7ltK
+xT6LA6quTSI3ZnCEHGnF15eajx46siSEj+8CAwEAAaOCBW8wggVrMA8GA1UdEwEB
+/wQFMAMBAf8wHQYDVR0OBBYEFLSh2N77DsTLnZ8GzzYNkRr4n1vjMAsGA1UdDwQE
+AwIBxjASBgkrBgEEAYI3FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQWBBSbkHg4Z5Up
+gGsv41SWGnBf8cMRrTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTAfBgNVHSME
+GDAWgBRql+DIn/RJtIkks+PRqCKGqtSUQzBUBgNVHR8ETTBLMEmgR6BFhkNodHRw
+Oi8vY3JsLm1pY3Jvc29mdC5jb20vcGtpL2NybC9wcm9kdWN0cy9NaWNFbmZMaWNQ
+Q0FfMTItMTAtMDkuY3JsMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgYC
+MIIEPgYKKwYBBAGCNwIBCgEB/wSCBCswggQfoCmAJ2h0dHBzOi8vd3d3Lm1pY3Jv
+c29mdC5jb20vcmVwb3NpdG9yeS9DUFOhggO4gYIDtFRoaXMgY2VydGlmaWNhdGUg
+aW5jb3Jwb3JhdGVzIGJ5IHJlZmVyZW5jZSwgYW5kIGl0cyB1c2UgaXMgc3RyaWN0
+bHkKc3ViamVjdCB0bywgdGhlIE1pY3Jvc29mdCBDZXJ0aWZpY2F0aW9uIFByYWN0
+aWNlIFN0YXRlbWVudCAoQ1BTKQp2ZXJzaW9uIDIuMCwgYXZhaWxhYmxlIGluIHRo
+ZSBNaWNyb3NvZnQgcmVwb3NpdG9yeSBhdDoKaHR0cHM6Ly93d3cubWljcm9zb2Z0
+LmNvbTsgYnkgRS1tYWlsIGF0IENQUy1yZXF1ZXN0c0BtaWNyb3NvZnQuY29tOyBv
+cgpieSBtYWlsIGF0IE1pY3Jvc29mdCBDb3JwLCBkZXB0LiBDUFMsMSBNaWNyb3Nv
+ZnQgV2F5LFJlZG1vbmQsIFdBIDk4MDUyClVTQSBDb3B5cmlnaHQgKGMpMTk5OSBN
+aWNyb3NvZnQgQ29ycC4gIEFsbCBSaWdodHMgUmVzZXJ2ZWQuIENFUlRBSU4KV0FS
+UkFOVElFUyBESVNDTEFJTUVEIEFORCBMSUFCSUxJVFkgTElNSVRFRC4KCldBUk5J
+Tkc6IFRIRSBVU0UgT0YgVEhJUyBDRVJUSUZJQ0FURSBJUyBTVFJJQ1RMWSBTVUJK
+RUNUIFRPIFRIRQpWRVJJU0lHTiBDRVJUSUZJQ0FUSU9OIFBSQUNUSUNFIFNUQVRF
+TUVOVC4gIFRIRSBJU1NVSU5HIEFVVEhPUklUWQpESVNDTEFJTVMgQ0VSVEFJTiBJ
+TVBMSUVEIEFORCBFWFBSRVNTIFdBUlJBTlRJRVMsIElOQ0xVRElORyBXQVJSQU5U
+SUVTCk9GIE1FUkNIQU5UQUJJTElUWSBPUiBGSVRORVNTIEZPUiBBIFBBUlRJQ1VM
+QVIgUFVSUE9TRSwgQU5EIFdJTEwgTk9UCkJFIExJQUJMRSBGT1IgQ09OU0VRVUVO
+VElBTCwgUFVOSVRJVkUsIEFORCBDRVJUQUlOIE9USEVSIERBTUFHRVMuIFNFRQpU
+SEUgQ1BTIEZPUiBERVRBSUxTLgoKQ29udGVudHMgb2YgdGhlIE1pY3Jvc29mdCBy
+ZWdpc3RlcmVkIG5vbnZlcmlmaWVkU3ViamVjdEF0dHJpYnV0ZXMKZXh0ZW5zaW9u
+IHZhbHVlIHNoYWxsIG5vdCBiZSBjb25zaWRlcmVkIGFzIGFjY3VyYXRlIGluZm9y
+bWF0aW9uCnZhbGlkYXRlZCBieSB0aGUgSUEuCqM2gDRodHRwczovL3d3dy5taWNy
+b3NvZnQuY29tL3JlcG9zaXRvcnkvbXNjcHNsb2dvLmdpZjANBgkqhkiG9w0BAQQF
+AAOCAQEAJKvt93JERJhx9tG5tWng7xywTASYD79MqXRHsIShSOKBs+rhyVOSUxHI
+RbqIdmjN3L7zoGWAdteTA2mNx7x6rol83xIQCqYpptTlm1WryuxL2cEoN9DWcTht
+XnX9ZqsqwLkkb55CMw9xtG6m97ojGnTtzbGuCjKoXCYW+jF2I+inJIDx3kW1Qr3x
+WAiP4vJwhi4TgyTeUIiIwCMyWXT6el9z12O9WJ3AaLBTIXFQRbgnzzzlZPt8E4vB
+AT6Q2UP3PswZFrO2Fo8nevlG7Yra58WRwsgqCCFauHqITqYqpfftIAEUSFbfV31v
+v5V1GCkXGYSjE2FUgsNVWD2Do5B1
