@@ -1,0 +1,106 @@
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            6d:2a:15:66:d6:bb:1e:6a:98:0f:0a:62:de:4f:a3:c8
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=Thawte, Inc., OU=Domain Validated SSL, CN=Thawte DV SSL CA
+        Validity
+            Not Before: Sep 23 00:00:00 2012 GMT
+            Not After : Sep 23 23:59:59 2013 GMT
+        Subject: OU=Go to https://www.thawte.com/repository/index.html, OU=Thawte SSL123 certificate, OU=Domain Validated, CN=www.kenyoninstitute.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b3:75:6a:35:1f:fe:28:12:4f:60:f4:21:3a:4d:
+                    cb:77:0d:ba:b2:7b:97:9d:49:31:9c:0f:77:30:8b:
+                    27:a6:a3:d9:24:7c:fd:ca:6a:b8:4c:4a:22:84:aa:
+                    f4:1d:22:79:2a:42:2a:da:00:9f:8d:bf:35:d9:21:
+                    42:38:3f:c5:ea:a0:a7:6a:a9:99:02:41:53:1e:c0:
+                    5b:87:45:45:8b:89:5f:ec:bd:74:15:0c:72:12:38:
+                    b0:34:cc:bb:da:ae:21:15:a4:b8:49:18:f3:d7:97:
+                    dc:c9:02:b2:2d:1c:8e:9a:06:22:36:e8:5b:7a:28:
+                    a3:a4:02:4f:2a:38:8e:a3:96:ed:f4:59:99:fa:6b:
+                    e6:4e:6a:57:c4:ab:70:bf:58:d1:0c:2b:39:03:a8:
+                    33:96:a1:c8:5d:6b:3b:97:7a:f8:bc:5e:d7:65:ba:
+                    26:e6:49:a5:ff:d0:bf:e5:df:da:01:36:0d:3b:92:
+                    76:df:0f:1c:dd:b3:0c:d4:81:6a:c7:53:79:32:79:
+                    db:0f:95:18:04:09:66:3c:8a:b7:c6:f0:e2:fb:0e:
+                    a1:50:cc:01:b6:9e:e8:a4:15:e5:47:c3:20:46:0b:
+                    17:37:8d:61:85:de:0a:05:91:a3:1d:4d:17:67:4e:
+                    9a:02:85:82:79:c0:96:fc:05:82:03:30:7e:34:f9:
+                    5e:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:www.kenyoninstitute.org
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://svr-dv-crl.thawte.com/ThawteDV.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: https://www.thawte.com/cps
+
+            X509v3 Authority Key Identifier: 
+                keyid:AB:44:E4:5D:EC:83:C7:D9:C0:85:9F:F7:E1:C6:97:90:B0:8C:3F:98
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.thawte.com
+                CA Issuers - URI:http://svr-dv-aia.thawte.com/ThawteDV.cer
+
+    Signature Algorithm: sha1WithRSAEncryption
+         64:00:b7:54:21:65:51:c6:55:ac:df:8f:3a:3f:36:de:5b:a0:
+         b2:e9:e7:93:10:04:37:04:d0:1e:02:57:f0:e3:6f:a5:9e:5a:
+         34:f8:6f:06:f8:1d:01:30:e7:25:63:12:3a:81:16:1d:6d:34:
+         ba:84:21:e5:ed:08:07:45:ec:db:30:da:6b:b0:04:cb:8a:09:
+         1a:f9:ce:fc:55:42:70:58:a9:b4:5b:8b:23:f8:4f:39:27:ab:
+         58:aa:11:9b:fa:d8:7c:b1:d0:89:8e:a5:6b:be:02:46:f8:f1:
+         20:d8:15:92:3b:6e:0a:4d:14:df:46:e4:40:b9:a7:d9:68:11:
+         69:1b:ae:42:d8:e7:83:e0:80:c7:56:18:58:80:54:9b:db:41:
+         bc:21:b3:74:9e:96:0f:01:0e:b6:ba:e3:b3:f3:51:73:37:8e:
+         27:a3:aa:b9:35:a0:7e:75:b6:b2:51:93:91:a3:2e:61:65:f7:
+         81:3f:33:6a:89:62:ab:ec:48:01:b9:15:7f:86:05:cd:96:bf:
+         39:01:b7:11:19:89:17:a8:70:a5:c8:51:dc:92:4b:57:8a:36:
+         ad:bd:71:be:d9:ce:16:0f:ed:f0:f1:28:c2:9b:2a:79:62:a7:
+         a5:3d:d2:bc:ab:5a:d1:3a:9a:2d:1a:8c:55:87:2d:53:31:61:
+         3b:2f:f9:d3
+
+-----BEGIN CERTIFICATE-----
+MIIE9jCCA96gAwIBAgIQbSoVZta7HmqYDwpi3k+jyDANBgkqhkiG9w0BAQUFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMVGhhd3RlLCBJbmMuMR0wGwYDVQQLExRE
+b21haW4gVmFsaWRhdGVkIFNTTDEZMBcGA1UEAxMQVGhhd3RlIERWIFNTTCBDQTAe
+Fw0xMjA5MjMwMDAwMDBaFw0xMzA5MjMyMzU5NTlaMIGeMTswOQYDVQQLEzJHbyB0
+byBodHRwczovL3d3dy50aGF3dGUuY29tL3JlcG9zaXRvcnkvaW5kZXguaHRtbDEi
+MCAGA1UECxMZVGhhd3RlIFNTTDEyMyBjZXJ0aWZpY2F0ZTEZMBcGA1UECxMQRG9t
+YWluIFZhbGlkYXRlZDEgMB4GA1UEAxQXd3d3Lmtlbnlvbmluc3RpdHV0ZS5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCzdWo1H/4oEk9g9CE6Tct3
+Dbqye5edSTGcD3cwiyemo9kkfP3KarhMSiKEqvQdInkqQiraAJ+NvzXZIUI4P8Xq
+oKdqqZkCQVMewFuHRUWLiV/svXQVDHISOLA0zLvariEVpLhJGPPXl9zJArItHI6a
+BiI26Ft6KKOkAk8qOI6jlu30WZn6a+ZOalfEq3C/WNEMKzkDqDOWochdazuXevi8
+XtdluibmSaX/0L/l39oBNg07knbfDxzdswzUgWrHU3kyedsPlRgECWY8irfG8OL7
+DqFQzAG2nuikFeVHwyBGCxc3jWGF3goFkaMdTRdnTpoChYJ5wJb8BYIDMH40+V7z
+AgMBAAGjggFtMIIBaTAiBgNVHREEGzAZghd3d3cua2VueW9uaW5zdGl0dXRlLm9y
+ZzAJBgNVHRMEAjAAMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6Ly9zdnItZHYtY3Js
+LnRoYXd0ZS5jb20vVGhhd3RlRFYuY3JsMEEGA1UdIAQ6MDgwNgYKYIZIAYb4RQEH
+NjAoMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUuY29tL2NwczAfBgNV
+HSMEGDAWgBSrRORd7IPH2cCFn/fhxpeQsIw/mDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGkGCCsGAQUFBwEBBF0wWzAiBggr
+BgEFBQcwAYYWaHR0cDovL29jc3AudGhhd3RlLmNvbTA1BggrBgEFBQcwAoYpaHR0
+cDovL3N2ci1kdi1haWEudGhhd3RlLmNvbS9UaGF3dGVEVi5jZXIwDQYJKoZIhvcN
+AQEFBQADggEBAGQAt1QhZVHGVazfjzo/Nt5boLLp55MQBDcE0B4CV/Djb6WeWjT4
+bwb4HQEw5yVjEjqBFh1tNLqEIeXtCAdF7Nsw2muwBMuKCRr5zvxVQnBYqbRbiyP4
+Tzknq1iqEZv62Hyx0ImOpWu+Akb48SDYFZI7bgpNFN9G5EC5p9loEWkbrkLY54Pg
+gMdWGFiAVJvbQbwhs3Selg8BDra647PzUXM3jiejqrk1oH51trJRk5GjLmFl94E/
+M2qJYqvsSAG5FX+GBc2WvzkBtxEZiReocKXIUdySS1eKNq29cb7ZzhYP7fDxKMKb
+Knlip6U90ryrWtE6mi0ajFWHLVMxYTsv+dM=
+-----END CERTIFICATE-----
