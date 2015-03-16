@@ -1,4 +1,85 @@
-https://scans.io/
+parsed data:
+
+    0:d=0  hl=4 l=1588 cons: SEQUENCE
+    4:d=1  hl=4 l=1052 cons:  SEQUENCE
+    8:d=2  hl=2 l=   3 cons:   cont [ 0 ]
+   10:d=3  hl=2 l=   1 prim:    INTEGER           :02
+   13:d=2  hl=2 l=   1 prim:   INTEGER           :1A
+   16:d=2  hl=2 l=  13 cons:   SEQUENCE
+   18:d=3  hl=2 l=   9 prim:    OBJECT            :sha1WithRSAEncryption
+   29:d=3  hl=2 l=   0 prim:    NULL
+   31:d=2  hl=2 l= 125 cons:   SEQUENCE
+   33:d=3  hl=2 l=  11 cons:    SET
+   35:d=4  hl=2 l=   9 cons:     SEQUENCE
+   37:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+   42:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :IL
+   46:d=3  hl=2 l=  22 cons:    SET
+   48:d=4  hl=2 l=  20 cons:     SEQUENCE
+   50:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+   55:d=5  hl=2 l=  13 prim:      PRINTABLESTRING   :StartCom Ltd.
+   70:d=3  hl=2 l=  43 cons:    SET
+   72:d=4  hl=2 l=  41 cons:     SEQUENCE
+   74:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+   79:d=5  hl=2 l=  34 prim:      PRINTABLESTRING   :Secure Digital Certificate Signing
+  115:d=3  hl=2 l=  41 cons:    SET
+  117:d=4  hl=2 l=  39 cons:     SEQUENCE
+  119:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  124:d=5  hl=2 l=  32 prim:      PRINTABLESTRING   :StartCom Certification Authority
+  158:d=2  hl=2 l=  30 cons:   SEQUENCE
+  160:d=3  hl=2 l=  13 prim:    UTCTIME           :071024205709Z
+  175:d=3  hl=2 l=  13 prim:    UTCTIME           :171024205709Z
+  190:d=2  hl=3 l= 140 cons:   SEQUENCE
+  193:d=3  hl=2 l=  11 cons:    SET
+  195:d=4  hl=2 l=   9 cons:     SEQUENCE
+  197:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+  202:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :IL
+  206:d=3  hl=2 l=  22 cons:    SET
+  208:d=4  hl=2 l=  20 cons:     SEQUENCE
+  210:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+  215:d=5  hl=2 l=  13 prim:      PRINTABLESTRING   :StartCom Ltd.
+  230:d=3  hl=2 l=  43 cons:    SET
+  232:d=4  hl=2 l=  41 cons:     SEQUENCE
+  234:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+  239:d=5  hl=2 l=  34 prim:      PRINTABLESTRING   :Secure Digital Certificate Signing
+  275:d=3  hl=2 l=  56 cons:    SET
+  277:d=4  hl=2 l=  54 cons:     SEQUENCE
+  279:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  284:d=5  hl=2 l=  47 prim:      PRINTABLESTRING   :StartCom Class 2 Primary Intermediate Server CA
+  333:d=2  hl=4 l= 290 cons:   SEQUENCE
+  337:d=3  hl=2 l=  13 cons:    SEQUENCE
+  339:d=4  hl=2 l=   9 prim:     OBJECT            :rsaEncryption
+  350:d=4  hl=2 l=   0 prim:     NULL
+  352:d=3  hl=4 l= 271 prim:    BIT STRING
+  627:d=2  hl=4 l= 429 cons:   cont [ 3 ]
+  631:d=3  hl=4 l= 425 cons:    SEQUENCE
+  635:d=4  hl=2 l=  15 cons:     SEQUENCE
+  637:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Basic Constraints
+  642:d=5  hl=2 l=   1 prim:      BOOLEAN           :255
+  645:d=5  hl=2 l=   5 prim:      OCTET STRING
+  652:d=4  hl=2 l=  14 cons:     SEQUENCE
+  654:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Key Usage
+  659:d=5  hl=2 l=   1 prim:      BOOLEAN           :255
+  662:d=5  hl=2 l=   4 prim:      OCTET STRING
+  668:d=4  hl=2 l=  29 cons:     SEQUENCE
+  670:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Subject Key Identifier
+  675:d=5  hl=2 l=  22 prim:      OCTET STRING
+  699:d=4  hl=2 l=  31 cons:     SEQUENCE
+  701:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Authority Key Identifier
+  706:d=5  hl=2 l=  24 prim:      OCTET STRING
+  732:d=4  hl=2 l= 102 cons:     SEQUENCE
+  734:d=5  hl=2 l=   8 prim:      OBJECT            :Authority Information Access
+  744:d=5  hl=2 l=  90 prim:      OCTET STRING
+  836:d=4  hl=2 l=  91 cons:     SEQUENCE
+  838:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 CRL Distribution Points
+  843:d=5  hl=2 l=  84 prim:      OCTET STRING
+  929:d=4  hl=3 l= 128 cons:     SEQUENCE
+  932:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Certificate Policies
+  937:d=5  hl=2 l= 121 prim:      OCTET STRING
+ 1060:d=1  hl=2 l=  13 cons:  SEQUENCE
+ 1062:d=2  hl=2 l=   9 prim:   OBJECT            :sha1WithRSAEncryption
+ 1073:d=2  hl=2 l=   0 prim:   NULL
+ 1075:d=1  hl=4 l= 513 prim:  BIT STRING
+
 
 Certificate:
     Data:
