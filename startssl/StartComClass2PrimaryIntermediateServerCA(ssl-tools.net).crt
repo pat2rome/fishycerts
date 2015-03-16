@@ -1,6 +1,6 @@
 parsed data:
 
-	0:d=0  hl=4 l=1588 cons: SEQUENCE
+    0:d=0  hl=4 l=1588 cons: SEQUENCE
     4:d=1  hl=4 l=1052 cons:  SEQUENCE
     8:d=2  hl=2 l=   3 cons:   cont [ 0 ]
    10:d=3  hl=2 l=   1 prim:    INTEGER           :02
