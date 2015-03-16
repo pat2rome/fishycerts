@@ -81,7 +81,7 @@ parsed data:
  1075:d=1  hl=4 l= 513 prim:  BIT STRING
  
  
- Certificate:
+Certificate:
     Data:
         Version: 3 (0x2)
         Serial Number: 26 (0x1a)
