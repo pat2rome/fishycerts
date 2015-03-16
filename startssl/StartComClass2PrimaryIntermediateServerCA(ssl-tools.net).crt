@@ -171,8 +171,7 @@ parsed data:
          95:d8:8b:f7:c9:7e:c7:fc:9d:ac:72:04:1f:d2:cc:17:f4:ed:
          34:60:9b:9e:4a:97:04:fe:dd:72:0e:57:54:51:06:70:4d:ef:
          aa:1c:a4:82:e0:33:c7:f4
- 
- 
+
  -----BEGIN CERTIFICATE-----
 MIIGNDCCBBygAwIBAgIBGjANBgkqhkiG9w0BAQUFADB9MQswCQYDVQQGEwJJ
 TDEWMBQGA1UEChMNU3RhcnRDb20gTHRkLjErMCkGA1UECxMiU2VjdXJlIERp
