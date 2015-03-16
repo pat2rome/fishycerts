@@ -1,0 +1,213 @@
+parsed data:
+
+  0:d=0  hl=4 l=1588 cons: SEQUENCE
+    4:d=1  hl=4 l=1052 cons:  SEQUENCE
+    8:d=2  hl=2 l=   3 cons:   cont [ 0 ]
+   10:d=3  hl=2 l=   1 prim:    INTEGER           :02
+   13:d=2  hl=2 l=   1 prim:   INTEGER           :1A
+   16:d=2  hl=2 l=  13 cons:   SEQUENCE
+   18:d=3  hl=2 l=   9 prim:    OBJECT            :sha1WithRSAEncryption
+   29:d=3  hl=2 l=   0 prim:    NULL
+   31:d=2  hl=2 l= 125 cons:   SEQUENCE
+   33:d=3  hl=2 l=  11 cons:    SET
+   35:d=4  hl=2 l=   9 cons:     SEQUENCE
+   37:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+   42:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :IL
+   46:d=3  hl=2 l=  22 cons:    SET
+   48:d=4  hl=2 l=  20 cons:     SEQUENCE
+   50:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+   55:d=5  hl=2 l=  13 prim:      PRINTABLESTRING   :StartCom Ltd.
+   70:d=3  hl=2 l=  43 cons:    SET
+   72:d=4  hl=2 l=  41 cons:     SEQUENCE
+   74:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+   79:d=5  hl=2 l=  34 prim:      PRINTABLESTRING   :Secure Digital Certificate Signing
+  115:d=3  hl=2 l=  41 cons:    SET
+  117:d=4  hl=2 l=  39 cons:     SEQUENCE
+  119:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  124:d=5  hl=2 l=  32 prim:      PRINTABLESTRING   :StartCom Certification Authority
+  158:d=2  hl=2 l=  30 cons:   SEQUENCE
+  160:d=3  hl=2 l=  13 prim:    UTCTIME           :071024205709Z
+  175:d=3  hl=2 l=  13 prim:    UTCTIME           :171024205709Z
+  190:d=2  hl=3 l= 140 cons:   SEQUENCE
+  193:d=3  hl=2 l=  11 cons:    SET
+  195:d=4  hl=2 l=   9 cons:     SEQUENCE
+  197:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+  202:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :IL
+  206:d=3  hl=2 l=  22 cons:    SET
+  208:d=4  hl=2 l=  20 cons:     SEQUENCE
+  210:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+  215:d=5  hl=2 l=  13 prim:      PRINTABLESTRING   :StartCom Ltd.
+  230:d=3  hl=2 l=  43 cons:    SET
+  232:d=4  hl=2 l=  41 cons:     SEQUENCE
+  234:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+  239:d=5  hl=2 l=  34 prim:      PRINTABLESTRING   :Secure Digital Certificate Signing
+  275:d=3  hl=2 l=  56 cons:    SET
+  277:d=4  hl=2 l=  54 cons:     SEQUENCE
+  279:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  284:d=5  hl=2 l=  47 prim:      PRINTABLESTRING   :StartCom Class 2 Primary Intermediate Server CA
+  333:d=2  hl=4 l= 290 cons:   SEQUENCE
+  337:d=3  hl=2 l=  13 cons:    SEQUENCE
+  339:d=4  hl=2 l=   9 prim:     OBJECT            :rsaEncryption
+  350:d=4  hl=2 l=   0 prim:     NULL
+  352:d=3  hl=4 l= 271 prim:    BIT STRING
+  627:d=2  hl=4 l= 429 cons:   cont [ 3 ]
+  631:d=3  hl=4 l= 425 cons:    SEQUENCE
+  635:d=4  hl=2 l=  15 cons:     SEQUENCE
+  637:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Basic Constraints
+  642:d=5  hl=2 l=   1 prim:      BOOLEAN           :255
+  645:d=5  hl=2 l=   5 prim:      OCTET STRING
+  652:d=4  hl=2 l=  14 cons:     SEQUENCE
+  654:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Key Usage
+  659:d=5  hl=2 l=   1 prim:      BOOLEAN           :255
+  662:d=5  hl=2 l=   4 prim:      OCTET STRING
+  668:d=4  hl=2 l=  29 cons:     SEQUENCE
+  670:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Subject Key Identifier
+  675:d=5  hl=2 l=  22 prim:      OCTET STRING
+  699:d=4  hl=2 l=  31 cons:     SEQUENCE
+  701:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Authority Key Identifier
+  706:d=5  hl=2 l=  24 prim:      OCTET STRING
+  732:d=4  hl=2 l= 102 cons:     SEQUENCE
+  734:d=5  hl=2 l=   8 prim:      OBJECT            :Authority Information Access
+  744:d=5  hl=2 l=  90 prim:      OCTET STRING
+  836:d=4  hl=2 l=  91 cons:     SEQUENCE
+  838:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 CRL Distribution Points
+  843:d=5  hl=2 l=  84 prim:      OCTET STRING
+  929:d=4  hl=3 l= 128 cons:     SEQUENCE
+  932:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Certificate Policies
+  937:d=5  hl=2 l= 121 prim:      OCTET STRING
+ 1060:d=1  hl=2 l=  13 cons:  SEQUENCE
+ 1062:d=2  hl=2 l=   9 prim:   OBJECT            :sha1WithRSAEncryption
+ 1073:d=2  hl=2 l=   0 prim:   NULL
+ 1075:d=1  hl=4 l= 513 prim:  BIT STRING]
+ 
+ 
+ Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 26 (0x1a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Certification Authority
+        Validity
+            Not Before: Oct 24 20:57:09 2007 GMT
+            Not After : Oct 24 20:57:09 2017 GMT
+        Subject: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Class 2 Primary Intermediate Server CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e2:4f:39:2f:a1:8c:9a:85:ad:08:0e:08:3e:57:
+                    f2:88:01:21:1b:94:a9:6c:e2:b8:db:aa:19:18:46:
+                    3a:52:a1:f5:0f:f4:6e:8c:ea:96:8c:96:87:79:13:
+                    40:51:2f:22:f2:0c:8b:87:0f:65:df:71:74:34:43:
+                    55:b1:35:09:9b:d9:bc:1f:fa:eb:42:d0:97:40:72:
+                    b7:43:96:3d:ba:96:9d:5d:50:02:1c:9b:91:8d:9c:
+                    c0:ac:d7:bb:2f:17:d7:cb:3e:82:9d:73:eb:07:42:
+                    92:b2:cd:64:b3:74:55:1b:b4:4b:86:21:2c:f7:78:
+                    87:32:e0:16:e4:da:bd:4c:95:ea:a4:0a:7e:b6:0a:
+                    0d:2e:8a:cf:55:ab:c3:e5:dd:41:8a:4e:e6:6f:65:
+                    6c:b2:40:cf:17:5d:b9:c3:6a:0b:27:11:84:77:61:
+                    f6:c2:7c:ed:c0:8d:78:14:18:99:81:99:75:63:b7:
+                    e8:53:d3:ba:61:e9:0e:fa:a2:30:f3:46:a2:b9:c9:
+                    1f:6c:80:5a:40:ac:27:ed:48:47:33:b0:54:c6:46:
+                    1a:f3:35:61:c1:02:29:90:54:7e:64:4d:c4:30:52:
+                    02:82:d7:df:ce:21:6e:18:91:d7:b8:ab:8c:27:17:
+                    b5:f0:a3:01:2f:8e:d2:2e:87:3a:3d:b4:29:67:8a:
+                    c4:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                11:DB:23:45:FD:54:CC:6A:71:6F:84:8A:03:D7:BE:F7:01:2F:26:86
+            X509v3 Authority Key Identifier: 
+                keyid:4E:0B:EF:1A:A4:40:5B:A5:17:69:87:30:CA:34:68:43:D0:41:AE:F2
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.startssl.com/ca
+                CA Issuers - URI:http://www.startssl.com/sfsca.crt
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.startssl.com/sfsca.crl
+
+                Full Name:
+                  URI:http://crl.startssl.com/sfsca.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.23223.1.2.1
+                  CPS: http://www.startssl.com/policy.pdf
+                  CPS: http://www.startssl.com/intermediate.pdf
+
+    Signature Algorithm: sha1WithRSAEncryption
+         9d:07:e1:ee:90:76:31:67:16:45:70:8c:cb:84:8b:4b:57:68:
+         44:a5:89:c1:f2:7e:cb:28:8b:f5:e7:70:77:d5:b6:f4:0b:21:
+         60:a5:a1:74:73:24:22:80:d6:d8:ba:8d:a2:62:5d:09:35:42:
+         29:fb:39:63:45:0b:a4:b0:38:1a:68:f4:95:13:cc:e0:43:94:
+         ec:eb:39:1a:ec:57:29:d9:99:6d:f5:84:cd:8e:73:ae:c9:dc:
+         6a:fa:9e:9d:16:64:93:08:c7:1c:c2:89:54:9e:77:80:90:f6:
+         b9:29:76:eb:13:67:48:59:f8:2e:3a:31:b8:c9:d3:88:e5:5f:
+         4e:d2:19:3d:43:8e:d7:92:ff:cf:38:b6:e1:5b:8a:53:1d:ce:
+         ac:b4:76:2f:d8:f7:40:63:d5:ee:69:f3:45:7d:a0:62:c1:61:
+         c3:75:ed:b2:7b:4d:ac:21:27:30:4e:59:46:6a:93:17:ca:c8:
+         39:2d:01:73:65:5b:e9:41:9b:11:17:9c:c8:c8:4a:ef:a1:76:
+         60:2d:ae:93:ff:0c:d5:33:13:9f:4f:13:ce:dd:86:f1:fc:f8:
+         35:54:15:a8:5b:e7:85:7e:fa:37:09:ff:8b:b8:31:49:9e:0d:
+         6e:de:b4:d2:12:2d:b8:ed:c8:c3:f1:b6:42:a0:4c:97:79:df:
+         fe:c3:a3:9f:a1:f4:6d:2c:84:77:a4:a2:05:e1:17:ff:31:dd:
+         9a:f3:b8:7a:c3:52:c2:11:11:b7:50:31:8a:7f:cc:e7:5a:89:
+         cc:f7:86:9a:61:92:4f:2f:94:b6:98:c7:78:e0:62:4b:43:7d:
+         3c:de:d6:9a:b4:10:a1:40:9c:4b:2a:dc:b8:d0:d4:9e:fd:f1:
+         84:78:1b:0e:57:8f:69:54:42:68:7b:ea:a0:ef:75:0f:07:a2:
+         8c:73:99:ab:55:f5:07:09:d2:af:38:03:6a:90:03:0c:2f:8f:
+         e2:e8:43:c2:31:e9:6f:ad:87:e5:8d:bd:4e:2c:89:4b:51:e6:
+         9c:4c:54:76:c0:12:81:53:9b:ec:a0:fc:2c:9c:da:18:95:6e:
+         1e:38:26:42:27:78:60:08:df:7f:6d:32:e8:d8:c0:6f:1f:eb:
+         26:75:9f:93:fc:7b:1b:fe:35:90:dc:53:a3:07:a6:3f:83:55:
+         0a:2b:4e:62:82:25:ce:66:30:5d:2c:e0:f9:19:1b:75:b9:9d:
+         98:56:a6:83:27:7a:d1:8f:8d:59:93:fc:3f:73:d7:2e:b4:2c:
+         95:d8:8b:f7:c9:7e:c7:fc:9d:ac:72:04:1f:d2:cc:17:f4:ed:
+         34:60:9b:9e:4a:97:04:fe:dd:72:0e:57:54:51:06:70:4d:ef:
+         aa:1c:a4:82:e0:33:c7:f4
+ 
+ 
+ -----BEGIN CERTIFICATE-----
+MIIGNDCCBBygAwIBAgIBGjANBgkqhkiG9w0BAQUFADB9MQswCQYDVQQGEwJJ
+TDEWMBQGA1UEChMNU3RhcnRDb20gTHRkLjErMCkGA1UECxMiU2VjdXJlIERp
+Z2l0YWwgQ2VydGlmaWNhdGUgU2lnbmluZzEpMCcGA1UEAxMgU3RhcnRDb20g
+Q2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMDcxMDI0MjA1NzA5WhcNMTcx
+MDI0MjA1NzA5WjCBjDELMAkGA1UEBhMCSUwxFjAUBgNVBAoTDVN0YXJ0Q29t
+IEx0ZC4xKzApBgNVBAsTIlNlY3VyZSBEaWdpdGFsIENlcnRpZmljYXRlIFNp
+Z25pbmcxODA2BgNVBAMTL1N0YXJ0Q29tIENsYXNzIDIgUHJpbWFyeSBJbnRl
+cm1lZGlhdGUgU2VydmVyIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA4k85L6GMmoWtCA4IPlfyiAEhG5SpbOK426oZGEY6UqH1D/RujOqW
+jJaHeRNAUS8i8gyLhw9l33F0NENVsTUJm9m8H/rrQtCXQHK3Q5Y9upadXVAC
+HJuRjZzArNe7LxfXyz6CnXPrB0KSss1ks3RVG7RLhiEs93iHMuAW5Nq9TJXq
+pAp+tgoNLorPVavD5d1Bik7mb2VsskDPF125w2oLJxGEd2H2wnztwI14FBiZ
+gZl1Y7foU9O6YekO+qIw80aiuckfbIBaQKwn7UhHM7BUxkYa8zVhwQIpkFR+
+ZE3EMFICgtffziFuGJHXuKuMJxe18KMBL47SLoc6PbQpZ4rEAwIDAQABo4IB
+rTCCAakwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0O
+BBYEFBHbI0X9VMxqcW+EigPXvvcBLyaGMB8GA1UdIwQYMBaAFE4L7xqkQFul
+F2mHMMo0aEPQQa7yMGYGCCsGAQUFBwEBBFowWDAnBggrBgEFBQcwAYYbaHR0
+cDovL29jc3Auc3RhcnRzc2wuY29tL2NhMC0GCCsGAQUFBzAChiFodHRwOi8v
+d3d3LnN0YXJ0c3NsLmNvbS9zZnNjYS5jcnQwWwYDVR0fBFQwUjAnoCWgI4Yh
+aHR0cDovL3d3dy5zdGFydHNzbC5jb20vc2ZzY2EuY3JsMCegJaAjhiFodHRw
+Oi8vY3JsLnN0YXJ0c3NsLmNvbS9zZnNjYS5jcmwwgYAGA1UdIAR5MHcwdQYL
+KwYBBAGBtTcBAgEwZjAuBggrBgEFBQcCARYiaHR0cDovL3d3dy5zdGFydHNz
+bC5jb20vcG9saWN5LnBkZjA0BggrBgEFBQcCARYoaHR0cDovL3d3dy5zdGFy
+dHNzbC5jb20vaW50ZXJtZWRpYXRlLnBkZjANBgkqhkiG9w0BAQUFAAOCAgEA
+nQfh7pB2MWcWRXCMy4SLS1doRKWJwfJ+yyiL9edwd9W29AshYKWhdHMkIoDW
+2LqNomJdCTVCKfs5Y0ULpLA4Gmj0lRPM4EOU7Os5GuxXKdmZbfWEzY5zrsnc
+avqenRZkkwjHHMKJVJ53gJD2uSl26xNnSFn4LjoxuMnTiOVfTtIZPUOO15L/
+zzi24VuKUx3OrLR2L9j3QGPV7mnzRX2gYsFhw3XtsntNrCEnME5ZRmqTF8rI
+OS0Bc2Vb6UGbERecyMhK76F2YC2uk/8M1TMTn08Tzt2G8fz4NVQVqFvnhX76
+Nwn/i7gxSZ4Nbt600hItuO3Iw/G2QqBMl3nf/sOjn6H0bSyEd6SiBeEX/zHd
+mvO4esNSwhERt1Axin/M51qJzPeGmmGSTy+UtpjHeOBiS0N9PN7WmrQQoUCc
+SyrcuNDUnv3xhHgbDlePaVRCaHvqoO91DweijHOZq1X1BwnSrzgDapADDC+P
+4uhDwjHpb62H5Y29TiyJS1HmnExUdsASgVOb7KD8LJzaGJVuHjgmQid4YAjf
+f20y6NjAbx/rJnWfk/x7G/41kNxTowemP4NVCitOYoIlzmYwXSzg+Rkbdbmd
+mFamgyd60Y+NWZP8P3PXLrQsldiL98l+x/ydrHIEH9LMF/TtNGCbnkqXBP7d
+cg5XVFEGcE3vqhykguAzx/Q=
+-----END CERTIFICATE-----
