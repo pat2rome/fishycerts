@@ -1,0 +1,121 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 979116 (0xef0ac)
+    Signature Algorithm: sha512WithRSAEncryption
+        Issuer: O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+        Validity
+            Not Before: Apr 28 20:57:55 2014 GMT
+            Not After : Apr 27 20:57:55 2016 GMT
+        Subject: C=AU, ST=NSW, L=Sydney, O=CAcert Inc., CN=www.cacert.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c4:83:f3:42:d0:0b:ee:f9:3f:e2:1f:63:c5:a3:
+                    84:e3:fd:c5:c2:a7:68:16:62:da:88:58:45:a5:dd:
+                    41:16:c0:e7:9e:3b:2e:13:36:ee:b4:83:12:ca:a8:
+                    a6:a6:8d:6c:d6:e8:6e:67:f7:f3:90:bd:69:98:93:
+                    ee:14:2b:6f:2a:a4:b2:f6:6a:8f:e7:4c:9f:f5:f5:
+                    8b:97:18:fc:3c:91:a4:6d:69:d2:b3:8b:e8:6a:e1:
+                    0f:db:b1:90:b2:19:16:21:a6:ec:db:25:bf:23:c5:
+                    6b:26:86:20:48:7b:c9:78:38:d3:dd:e4:eb:d5:a9:
+                    a5:0b:32:53:66:af:bd:8b:ac:f1:fb:fc:f4:f6:67:
+                    b9:a2:d3:fe:61:6d:eb:f3:f2:7d:55:92:d1:74:ea:
+                    ab:82:4e:78:52:71:8e:e0:46:14:a5:1d:cc:89:52:
+                    52:35:5a:0b:b1:16:8d:50:06:3c:07:c7:a1:d5:79:
+                    91:51:8c:05:dd:25:c5:06:49:82:11:e2:61:fa:f1:
+                    af:5b:34:e8:cb:4d:cf:2d:ba:e7:35:c0:de:f3:27:
+                    e4:ef:a5:d4:20:3d:9e:37:cd:48:09:2c:29:23:9b:
+                    bd:d7:aa:27:18:73:6c:b8:b7:54:98:72:f4:16:0c:
+                    9a:95:26:90:4e:6e:9c:9b:54:75:ca:2b:79:12:05:
+                    c1:cb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment, Key Agreement
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, TLS Web Server Authentication, Netscape Server Gated Crypto, Microsoft Server Gated Crypto
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.cacert.org/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.cacert.org/revoke.crl
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.cacert.org, othername:<unsupported>, DNS:secure.cacert.org, othername:<unsupported>, DNS:wwwmail.cacert.org, othername:<unsupported>, DNS:cacert.org, othername:<unsupported>, DNS:www.cacert.net, othername:<unsupported>, DNS:cacert.net, othername:<unsupported>, DNS:www.cacert.com, othername:<unsupported>, DNS:cacert.com, othername:<unsupported>
+    Signature Algorithm: sha512WithRSAEncryption
+         23:e5:29:2d:01:29:11:c0:40:39:91:1c:98:8d:bb:17:6f:83:
+         56:ab:01:b3:32:e4:14:8f:12:79:e7:c0:57:cd:75:e9:e9:3e:
+         33:fa:65:46:e8:23:a4:dc:4b:e9:cf:2f:4a:9c:8a:ae:cd:16:
+         18:e9:67:fc:d5:4c:d3:59:4c:48:30:fa:a2:8a:16:c8:8b:94:
+         20:92:c4:c9:79:07:41:98:d9:a0:6e:04:bb:2a:68:aa:a5:32:
+         98:6e:e5:05:cf:bc:15:00:75:66:28:09:ed:04:0f:2a:d6:98:
+         d6:75:b8:70:c8:00:6a:c3:a7:d7:14:e5:84:ff:be:9c:d2:b8:
+         cc:6d:4b:31:d4:df:8a:c1:2d:6f:c8:a5:67:43:c9:b8:dd:77:
+         4e:be:3c:80:4e:49:1e:79:d9:c0:b4:7f:08:3f:11:a1:54:f0:
+         49:b8:fb:91:44:97:28:d5:44:ad:ac:a5:b8:0a:1d:4f:2a:9a:
+         c1:4b:39:c7:55:c4:e7:79:d4:74:92:2a:41:db:6f:82:09:51:
+         09:31:4d:b4:ce:41:f0:3a:98:c9:f5:92:55:8f:27:fc:0b:0a:
+         3d:58:33:16:97:a3:ac:12:c6:4c:79:91:38:46:bf:14:21:a7:
+         7a:91:af:90:4b:bd:e0:a4:74:66:c1:42:3b:d5:48:bd:ea:9e:
+         dd:e3:c1:d6:56:3a:ab:09:54:93:db:12:60:ad:ca:33:e0:de:
+         ca:12:6e:1e:75:f5:03:55:e4:a8:43:6e:50:a6:70:3f:cf:eb:
+         27:35:2c:a5:65:7f:75:d8:37:04:2b:71:e6:b8:20:d7:26:3d:
+         53:9c:93:d3:64:4f:be:c8:2d:30:a6:e2:37:81:fb:41:03:ef:
+         b5:9d:58:7b:f5:f7:ce:1d:29:42:53:ba:39:f8:45:3e:91:e0:
+         38:f5:9f:bd:3e:7d:fe:02:9e:92:fa:2b:c8:05:b6:c0:2a:d8:
+         32:c9:9b:3d:21:0b:15:38:61:b8:96:b4:86:8f:0d:9a:8d:67:
+         5c:a9:d9:e0:a7:ec:c9:93:a4:88:d4:1a:38:83:09:0f:dc:8f:
+         54:8f:a2:eb:b3:59:50:56:e5:8c:ab:d5:8f:28:54:cd:75:52:
+         81:62:35:12:27:73:03:bc:4e:30:44:49:dc:a0:07:89:e6:5e:
+         b1:56:61:a7:6a:b7:1d:ca:3e:fe:dc:4b:45:e3:bc:c5:ae:3a:
+         85:33:62:21:77:b8:92:42:2f:55:3f:83:54:73:1e:f1:15:86:
+         90:f2:a3:55:87:83:07:6d:39:38:e8:24:86:b8:ad:67:3b:ff:
+         bf:7a:ba:b5:b4:e9:e8:34:5e:9b:8e:79:28:f2:db:0f:60:e7:
+         ee:0a:bf:41:b5:3c:fe:4f
+
+
+-----BEGIN CERTIFICATE-----
+MIIGijCCBHKgAwIBAgIDDvCsMA0GCSqGSIb3DQEBDQUAMHkxEDAOBgNVBAoTB1Jv
+b3QgQ0ExHjAcBgNVBAsTFWh0dHA6Ly93d3cuY2FjZXJ0Lm9yZzEiMCAGA1UEAxMZ
+Q0EgQ2VydCBTaWduaW5nIEF1dGhvcml0eTEhMB8GCSqGSIb3DQEJARYSc3VwcG9y
+dEBjYWNlcnQub3JnMB4XDTE0MDQyODIwNTc1NVoXDTE2MDQyNzIwNTc1NVowWzEL
+MAkGA1UEBhMCQVUxDDAKBgNVBAgTA05TVzEPMA0GA1UEBxMGU3lkbmV5MRQwEgYD
+VQQKEwtDQWNlcnQgSW5jLjEXMBUGA1UEAxMOd3d3LmNhY2VydC5vcmcwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEg/NC0Avu+T/iH2PFo4Tj/cXCp2gW
+YtqIWEWl3UEWwOeeOy4TNu60gxLKqKamjWzW6G5n9/OQvWmYk+4UK28qpLL2ao/n
+TJ/19YuXGPw8kaRtadKzi+hq4Q/bsZCyGRYhpuzbJb8jxWsmhiBIe8l4ONPd5OvV
+qaULMlNmr72LrPH7/PT2Z7mi0/5hbevz8n1VktF06quCTnhScY7gRhSlHcyJUlI1
+WguxFo1QBjwHx6HVeZFRjAXdJcUGSYIR4mH68a9bNOjLTc8tuuc1wN7zJ+TvpdQg
+PZ43zUgJLCkjm73XqicYc2y4t1SYcvQWDJqVJpBObpybVHXKK3kSBcHLAgMBAAGj
+ggI3MIICMzAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIDqDA0BgNVHSUELTAr
+BggrBgEFBQcDAgYIKwYBBQUHAwEGCWCGSAGG+EIEAQYKKwYBBAGCNwoDAzAzBggr
+BgEFBQcBAQQnMCUwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLmNhY2VydC5vcmcv
+MDEGA1UdHwQqMCgwJqAkoCKGIGh0dHA6Ly9jcmwuY2FjZXJ0Lm9yZy9yZXZva2Uu
+Y3JsMIIBcwYDVR0RBIIBajCCAWaCDnd3dy5jYWNlcnQub3JnoBwGCCsGAQUFBwgF
+oBAMDnd3dy5jYWNlcnQub3JnghFzZWN1cmUuY2FjZXJ0Lm9yZ6AfBggrBgEFBQcI
+BaATDBFzZWN1cmUuY2FjZXJ0Lm9yZ4ISd3d3bWFpbC5jYWNlcnQub3JnoCAGCCsG
+AQUFBwgFoBQMEnd3d21haWwuY2FjZXJ0Lm9yZ4IKY2FjZXJ0Lm9yZ6AYBggrBgEF
+BQcIBaAMDApjYWNlcnQub3Jngg53d3cuY2FjZXJ0Lm5ldKAcBggrBgEFBQcIBaAQ
+DA53d3cuY2FjZXJ0Lm5ldIIKY2FjZXJ0Lm5ldKAYBggrBgEFBQcIBaAMDApjYWNl
+cnQubmV0gg53d3cuY2FjZXJ0LmNvbaAcBggrBgEFBQcIBaAQDA53d3cuY2FjZXJ0
+LmNvbYIKY2FjZXJ0LmNvbaAYBggrBgEFBQcIBaAMDApjYWNlcnQuY29tMA0GCSqG
+SIb3DQEBDQUAA4ICAQAj5SktASkRwEA5kRyYjbsXb4NWqwGzMuQUjxJ558BXzXXp
+6T4z+mVG6COk3Evpzy9KnIquzRYY6Wf81UzTWUxIMPqiihbIi5QgksTJeQdBmNmg
+bgS7KmiqpTKYbuUFz7wVAHVmKAntBA8q1pjWdbhwyABqw6fXFOWE/76c0rjMbUsx
+1N+KwS1vyKVnQ8m43XdOvjyATkkeednAtH8IPxGhVPBJuPuRRJco1UStrKW4Ch1P
+KprBSznHVcTnedR0kipB22+CCVEJMU20zkHwOpjJ9ZJVjyf8Cwo9WDMWl6OsEsZM
+eZE4Rr8UIad6ka+QS73gpHRmwUI71Ui96p7d48HWVjqrCVST2xJgrcoz4N7KEm4e
+dfUDVeSoQ25QpnA/z+snNSylZX912DcEK3HmuCDXJj1TnJPTZE++yC0wpuI3gftB
+A++1nVh79ffOHSlCU7o5+EU+keA49Z+9Pn3+Ap6S+ivIBbbAKtgyyZs9IQsVOGG4
+lrSGjw2ajWdcqdngp+zJk6SI1Bo4gwkP3I9Uj6Lrs1lQVuWMq9WPKFTNdVKBYjUS
+J3MDvE4wREncoAeJ5l6xVmGnarcdyj7+3EtF47zFrjqFM2Ihd7iSQi9VP4NUcx7x
+FYaQ8qNVh4MHbTk46CSGuK1nO/+/erq1tOnoNF6bjnko8tsPYOfuCr9BtTz+Tw==
+-----END CERTIFICATE-----
+
+
