@@ -1,0 +1,106 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:31:2f:75:4e:a8:ae:b9:8b:e6:52:c0:af:38:55:5e
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., CN=GeoTrust SSL CA - G3
+        Validity
+            Not Before: Sep  5 00:00:00 2014 GMT
+            Not After : Nov  3 23:59:59 2018 GMT
+        Subject: C=US, ST=California, L=San Mateo, O=Marketo, Inc., CN=*.marketo.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ca:1e:41:3f:25:ed:6b:84:9d:87:38:bf:55:d0:
+                    dd:fc:ba:41:46:8b:18:1a:00:c4:20:f4:19:8d:ff:
+                    84:46:9c:1f:63:b1:0b:a3:46:14:48:6b:b8:2f:fc:
+                    cc:72:6b:f0:2a:78:6a:89:97:ad:e1:86:e2:4a:af:
+                    71:bc:20:a9:0f:f8:f3:70:94:1a:82:43:ad:c2:1d:
+                    ad:6d:68:62:4a:dd:da:c3:b8:bf:88:9f:ec:f5:3d:
+                    c3:94:09:7f:f1:47:cd:a9:0b:24:aa:ec:69:f5:66:
+                    64:1f:86:89:38:67:8e:11:57:cf:66:d6:95:6f:a7:
+                    76:26:65:a4:94:bd:fe:61:a5:b8:21:fe:38:7b:07:
+                    65:30:b7:68:9e:a1:8c:c1:d5:4e:69:e0:b3:b1:80:
+                    f0:cb:c9:58:52:4b:4c:2b:26:bd:80:2b:de:0c:f5:
+                    3e:33:1c:ae:3b:5f:9f:19:24:39:bb:a5:ee:4e:c8:
+                    4a:e9:66:61:b1:5e:dc:c8:55:7c:a8:da:85:1c:d7:
+                    4b:73:81:4d:b0:2d:4d:e8:34:bd:b3:bf:27:ac:c8:
+                    a9:2b:1d:c4:d4:11:29:97:56:98:bf:10:4a:37:5d:
+                    7e:ca:39:01:58:f8:45:04:06:5b:ae:b8:64:ee:c1:
+                    e3:f2:94:6a:60:d9:70:41:c0:94:a8:6a:16:b7:3f:
+                    d6:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:*.marketo.com, DNS:marketo.com
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gn.symcb.com/gn.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: https://d.symcb.com/cps
+                  User Notice:
+                    Explicit Text: https://d.symcb.com/rpa
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Authority Key Identifier: 
+                keyid:D2:6F:F7:96:F4:85:3F:72:3C:30:7D:23:DA:85:78:9B:A3:7C:5A:7C
+
+            Authority Information Access: 
+                OCSP - URI:http://gn.symcd.com
+                CA Issuers - URI:http://gn.symcb.com/gn.crt
+
+    Signature Algorithm: sha256WithRSAEncryption
+         1e:c3:01:ce:1a:80:39:f2:72:26:00:c3:64:8a:61:a1:ab:b5:
+         2f:c1:21:51:73:17:56:1e:58:51:ce:18:bc:ce:7b:65:5e:3e:
+         ae:bf:6f:c4:c3:c0:87:7e:0f:47:f0:4e:47:0e:32:ff:e8:84:
+         e3:0b:d8:a2:15:98:84:e2:ea:3c:f0:0b:dc:68:86:1c:91:0e:
+         4c:32:8b:b9:a4:db:fa:ae:95:56:e0:c9:97:f0:ca:ba:11:ec:
+         4a:75:48:16:94:3e:8d:26:64:fc:5b:80:1b:83:f0:b2:bd:55:
+         47:a0:37:8a:22:e1:6b:6c:04:8b:7f:7a:39:70:ca:11:66:99:
+         e6:b9:27:4d:36:3b:93:dd:84:f4:c1:c2:b0:a3:f9:7a:37:34:
+         3e:8d:45:97:8a:7d:cf:39:c3:27:ca:03:7f:21:ec:3b:ee:f3:
+         06:7a:f9:85:db:5e:65:c6:53:4e:c9:40:2c:8a:01:4f:4f:17:
+         38:31:ee:09:df:43:ae:22:bd:6f:98:d3:d8:15:cf:43:f6:c6:
+         1f:90:d3:95:da:48:d3:98:12:54:56:6d:e8:bf:b4:3d:39:49:
+         9e:7f:a4:cc:25:51:17:1d:6f:8d:1a:90:a0:71:19:84:5c:5e:
+         82:42:14:1f:14:47:ff:c1:55:83:05:47:09:13:2d:63:23:e0:
+         09:e1:f1:f0
+
+        
+    -----BEGIN CERTIFICATE-----
+MIIEqTCCA5GgAwIBAgIQBDEvdU6orrmL5lLArzhVXjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQwOTA1MDAwMDAwWhcNMTgxMTAzMjM1
+OTU5WjBmMQswCQYDVQQGEwJVUzETMBEGA1UECBQKQ2FsaWZvcm5pYTESMBAGA1UE
+BxQJU2FuIE1hdGVvMRYwFAYDVQQKFA1NYXJrZXRvLCBJbmMuMRYwFAYDVQQDFA0q
+Lm1hcmtldG8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyh5B
+PyXta4Sdhzi/VdDd/LpBRosYGgDEIPQZjf+ERpwfY7ELo0YUSGu4L/zMcmvwKnhq
+iZet4YbiSq9xvCCpD/jzcJQagkOtwh2tbWhiSt3aw7i/iJ/s9T3DlAl/8UfNqQsk
+quxp9WZkH4aJOGeOEVfPZtaVb6d2JmWklL3+YaW4If44ewdlMLdonqGMwdVOaeCz
+sYDwy8lYUktMKya9gCveDPU+MxyuO1+fGSQ5u6XuTshK6WZhsV7cyFV8qNqFHNdL
+c4FNsC1N6DS9s78nrMipKx3E1BEpl1aYvxBKN11+yjkBWPhFBAZbrrhk7sHj8pRq
+YNlwQcCUqGoWtz/WuwIDAQABo4IBczCCAW8wJQYDVR0RBB4wHIINKi5tYXJrZXRv
+LmNvbYILbWFya2V0by5jb20wCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwKwYD
+VR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcmwwZQYDVR0g
+BF4wXDBaBgpghkgBhvhFAQc2MEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1j
+Yi5jb20vY3BzMCUGCCsGAQUFBwICMBkWF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBh
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW
+9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0
+dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5j
+b20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQAewwHOGoA58nImAMNkimGhq7Uv
+wSFRcxdWHlhRzhi8zntlXj6uv2/Ew8CHfg9H8E5HDjL/6ITjC9iiFZiE4uo88Avc
+aIYckQ5MMou5pNv6rpVW4MmX8Mq6EexKdUgWlD6NJmT8W4Abg/CyvVVHoDeKIuFr
+bASLf3o5cMoRZpnmuSdNNjuT3YT0wcKwo/l6NzQ+jUWXin3POcMnygN/Iew77vMG
+evmF215lxlNOyUAsigFPTxc4Me4J30OuIr1vmNPYFc9D9sYfkNOV2kjTmBJUVm3o
+v7Q9OUmef6TMJVEXHW+NGpCgcRmEXF6CQhQfFEf/wVWDBUcJEy1jI+AJ4fHw
+-----END CERTIFICATE-----
