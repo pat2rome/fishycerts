@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 146031 (0x23a6f)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., CN=GeoTrust Global CA
+        Validity
+            Not Before: Nov  5 21:36:50 2013 GMT
+            Not After : May 20 21:36:50 2022 GMT
+        Subject: C=US, O=GeoTrust Inc., CN=GeoTrust SSL CA - G3
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e3:be:7e:0a:86:a3:cf:6b:6d:3d:2b:a1:97:ad:
+                    49:24:4d:d7:77:b9:34:79:08:a5:9e:a2:9e:de:47:
+                    12:92:3d:7e:ea:19:86:b1:e8:4f:3d:5f:f7:d0:a7:
+                    77:9a:5b:1f:0a:03:b5:19:53:db:a5:21:94:69:63:
+                    9d:6a:4c:91:0c:10:47:be:11:fa:6c:86:25:b7:ab:
+                    04:68:42:38:09:65:f0:14:da:19:9e:fa:6b:0b:ab:
+                    62:ef:8d:a7:ef:63:70:23:a8:af:81:f3:d1:6e:88:
+                    67:53:ec:12:a4:29:75:8a:a7:f2:57:3d:a2:83:98:
+                    97:f2:0a:7d:d4:e7:43:6e:30:78:62:22:59:59:b8:
+                    71:27:45:aa:0f:66:c6:55:3f:fa:32:17:2b:31:8f:
+                    46:a0:fa:69:14:7c:9d:9f:5a:e2:eb:33:4e:10:a6:
+                    b3:ed:77:63:d8:c3:9e:f4:dd:df:79:9a:7a:d4:ee:
+                    de:dd:9a:cc:c3:b7:a9:5d:cc:11:3a:07:bb:6f:97:
+                    a4:01:23:47:95:1f:a3:77:fa:58:92:c6:c7:d0:bd:
+                    cf:93:18:42:b7:7e:f7:9e:65:ea:d5:3b:ca:ed:ac:
+                    c5:70:a1:fe:d4:10:9a:f0:12:04:44:ac:1a:5b:78:
+                    50:45:57:4c:6f:bd:80:cb:81:5c:2d:b3:bc:76:a1:
+                    1e:65
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C0:7A:98:68:8D:89:FB:AB:05:64:0C:11:7D:AA:7D:65:B8:CA:CC:4E
+
+            X509v3 Subject Key Identifier: 
+                D2:6F:F7:96:F4:85:3F:72:3C:30:7D:23:DA:85:78:9B:A3:7C:5A:7C
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://g1.symcb.com/crls/gtglobal.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://g2.symcb.com
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=SymantecPKI-1-539
+    Signature Algorithm: sha256WithRSAEncryption
+         a0:d4:f7:2c:fb:74:0b:7f:64:f1:cd:43:6a:9f:62:53:1c:02:
+         7c:98:90:a2:ee:4f:68:d4:20:1a:73:12:3e:77:b3:50:eb:72:
+         bc:ee:88:be:7f:17:ea:77:8f:83:61:95:4f:84:a1:cb:32:4f:
+         6c:21:be:d2:69:96:7d:63:bd:dc:2b:a8:1f:d0:13:84:70:fe:
+         f6:35:95:89:f9:a6:77:b0:46:c8:bb:b7:13:f5:c9:60:69:d6:
+         4c:fe:d2:8e:ef:d3:60:c1:80:80:e1:e7:fb:8b:6f:21:79:4a:
+         e0:dc:a9:1b:c1:b7:fb:c3:49:59:5c:b5:77:07:44:d4:97:fc:
+         49:00:89:6f:06:4e:01:70:19:ac:2f:11:c0:e2:e6:0f:2f:86:
+         4b:8d:7b:c3:b9:a7:2e:f4:f1:ac:16:3e:39:49:51:9e:17:4b:
+         4f:10:3a:5b:a5:a8:92:6f:fd:fa:d6:0b:03:4d:47:56:57:19:
+         f3:cb:6b:f5:f3:d6:cf:b0:f5:f5:a3:11:d2:20:53:13:34:37:
+         05:2c:43:5a:63:df:8d:40:d6:85:1e:51:e9:51:17:1e:03:56:
+         c9:f1:30:ad:e7:9b:11:a2:b9:d0:31:81:9b:68:b1:d9:e8:f3:
+         e6:94:7e:c7:ae:13:2f:87:ed:d0:25:b0:68:f9:de:08:5a:f3:
+         29:cc:d4:92
+
+-----BEGIN CERTIFICATE-----
+MIIETzCCAzegAwIBAgIDAjpvMA0GCSqGSIb3DQEBCwUAMEIxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMRswGQYDVQQDExJHZW9UcnVzdCBHbG9i
+YWwgQ0EwHhcNMTMxMTA1MjEzNjUwWhcNMjIwNTIwMjEzNjUwWjBEMQswCQYDVQQG
+EwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMUR2VvVHJ1c3Qg
+U1NMIENBIC0gRzMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDjvn4K
+hqPPa209K6GXrUkkTdd3uTR5CKWeop7eRxKSPX7qGYax6E89X/fQp3eaWx8KA7UZ
+U9ulIZRpY51qTJEMEEe+EfpshiW3qwRoQjgJZfAU2hme+msLq2LvjafvY3AjqK+B
+89FuiGdT7BKkKXWKp/JXPaKDmJfyCn3U50NuMHhiIllZuHEnRaoPZsZVP/oyFysx
+j0ag+mkUfJ2fWuLrM04QprPtd2PYw5703d95mnrU7t7dmszDt6ldzBE6B7tvl6QB
+I0eVH6N3+liSxsfQvc+TGEK3fveeZerVO8rtrMVwof7UEJrwEgRErBpbeFBFV0xv
+vYDLgVwts7x2oR5lAgMBAAGjggFKMIIBRjAfBgNVHSMEGDAWgBTAephojYn7qwVk
+DBF9qn1luMrMTjAdBgNVHQ4EFgQU0m/3lvSFP3I8MH0j2oV4m6N8WnwwEgYDVR0T
+AQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAQYwNgYDVR0fBC8wLTAroCmgJ4Yl
+aHR0cDovL2cxLnN5bWNiLmNvbS9jcmxzL2d0Z2xvYmFsLmNybDAvBggrBgEFBQcB
+AQQjMCEwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nMi5zeW1jYi5jb20wTAYDVR0gBEUw
+QzBBBgpghkgBhvhFAQc2MDMwMQYIKwYBBQUHAgEWJWh0dHA6Ly93d3cuZ2VvdHJ1
+c3QuY29tL3Jlc291cmNlcy9jcHMwKQYDVR0RBCIwIKQeMBwxGjAYBgNVBAMTEVN5
+bWFudGVjUEtJLTEtNTM5MA0GCSqGSIb3DQEBCwUAA4IBAQCg1Pcs+3QLf2TxzUNq
+n2JTHAJ8mJCi7k9o1CAacxI+d7NQ63K87oi+fxfqd4+DYZVPhKHLMk9sIb7SaZZ9
+Y73cK6gf0BOEcP72NZWJ+aZ3sEbIu7cT9clgadZM/tKO79NgwYCA4ef7i28heUrg
+3Kkbwbf7w0lZXLV3B0TUl/xJAIlvBk4BcBmsLxHA4uYPL4ZLjXvDuacu9PGsFj45
+SVGeF0tPEDpbpaiSb/361gsDTUdWVxnzy2v189bPsPX1oxHSIFMTNDcFLENaY9+N
+QNaFHlHpURceA1bJ8TCt55sRornQMYGbaLHZ6PPmlH7HrhMvh+3QJbBo+d4IWvMp
+zNSS
+-----END CERTIFICATE-----
