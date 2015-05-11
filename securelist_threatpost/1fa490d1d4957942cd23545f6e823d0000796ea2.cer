@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            33:65:50:08:79:ad:73:e2:30:b9:e0:1d:0d:7f:ac:91
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+        Validity
+            Not Before: Nov 17 00:00:00 2006 GMT
+            Not After : Dec 30 23:59:59 2020 GMT
+        Subject: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2006 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:a0:f0:fb:80:59:d4:9c:c7:a4:cf:9d:a1:59:
+                    73:09:10:45:0c:0d:2c:6e:68:f1:6c:5b:48:68:49:
+                    59:37:fc:0b:33:19:c2:77:7f:cc:10:2d:95:34:1c:
+                    e6:eb:4d:09:a7:1c:d2:b8:c9:97:36:02:b7:89:d4:
+                    24:5f:06:c0:cc:44:94:94:8d:02:62:6f:eb:5a:dd:
+                    11:8d:28:9a:5c:84:90:10:7a:0d:bd:74:66:2f:6a:
+                    38:a0:e2:d5:54:44:eb:1d:07:9f:07:ba:6f:ee:e9:
+                    fd:4e:0b:29:f5:3e:84:a0:01:f1:9c:ab:f8:1c:7e:
+                    89:a4:e8:a1:d8:71:65:0d:a3:51:7b:ee:bc:d2:22:
+                    60:0d:b9:5b:9d:df:ba:fc:51:5b:0b:af:98:b2:e9:
+                    2e:e9:04:e8:62:87:de:2b:c8:d7:4e:c1:4c:64:1e:
+                    dd:cf:87:58:ba:4a:4f:ca:68:07:1d:1c:9d:4a:c6:
+                    d5:2f:91:cc:7c:71:72:1c:c5:c0:67:eb:32:fd:c9:
+                    92:5c:94:da:85:c0:9b:bf:53:7d:2b:09:f4:8c:9d:
+                    91:1f:97:6a:52:cb:de:09:36:a4:77:d8:7b:87:50:
+                    44:d5:3e:6e:29:69:fb:39:49:26:1e:09:a5:80:7b:
+                    40:2d:eb:e8:27:85:c9:fe:61:fd:7e:e6:7c:97:1d:
+                    d5:9d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://www.thawte.com/cps
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                7B:5B:45:CF:AF:CE:CB:7A:FD:31:92:1A:6A:B6:F3:46:EB:57:48:50
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.thawte.com/ThawtePremiumServerCA.crl
+
+    Signature Algorithm: sha1WithRSAEncryption
+         84:a8:4c:c9:3e:2a:bc:9a:e2:cc:8f:0b:b2:25:77:c4:61:89:
+         89:63:5a:d4:a3:15:40:d4:fb:5e:3f:b4:43:ea:63:17:2b:6b:
+         99:74:9e:09:a8:dd:d4:56:15:2e:7a:79:31:5f:63:96:53:1b:
+         34:d9:15:ea:4f:6d:70:ca:be:f6:82:a9:ed:da:85:77:cc:76:
+         1c:6a:81:0a:21:d8:41:99:7f:5e:2e:82:c1:e8:aa:f7:93:81:
+         05:aa:92:b4:1f:b7:9a:c0:07:17:f5:cb:c6:b4:4c:0e:d7:56:
+         dc:71:20:74:38:d6:74:c6:d6:8f:6b:af:8b:8d:a0:6c:29:0b:
+         61:e0
+
+-----BEGIN CERTIFICATE-----
+MIIERTCCA66gAwIBAgIQM2VQCHmtc+IwueAdDX+skTANBgkqhkiG9w0BAQUFADCB
+zjELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTESMBAGA1UEBxMJ
+Q2FwZSBUb3duMR0wGwYDVQQKExRUaGF3dGUgQ29uc3VsdGluZyBjYzEoMCYGA1UE
+CxMfQ2VydGlmaWNhdGlvbiBTZXJ2aWNlcyBEaXZpc2lvbjEhMB8GA1UEAxMYVGhh
+d3RlIFByZW1pdW0gU2VydmVyIENBMSgwJgYJKoZIhvcNAQkBFhlwcmVtaXVtLXNl
+cnZlckB0aGF3dGUuY29tMB4XDTA2MTExNzAwMDAwMFoXDTIwMTIzMDIzNTk1OVow
+gakxCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwx0aGF3dGUsIEluYy4xKDAmBgNVBAsT
+H0NlcnRpZmljYXRpb24gU2VydmljZXMgRGl2aXNpb24xODA2BgNVBAsTLyhjKSAy
+MDA2IHRoYXd0ZSwgSW5jLiAtIEZvciBhdXRob3JpemVkIHVzZSBvbmx5MR8wHQYD
+VQQDExZ0aGF3dGUgUHJpbWFyeSBSb290IENBMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEArKDw+4BZ1JzHpM+doVlzCRBFDA0sbmjxbFtIaElZN/wLMxnC
+d3/MEC2VNBzm600JpxzSuMmXNgK3idQkXwbAzESUlI0CYm/rWt0RjSiaXISQEHoN
+vXRmL2o4oOLVVETrHQefB7pv7un9Tgsp9T6EoAHxnKv4HH6JpOih2HFlDaNRe+68
+0iJgDblbnd+6/FFbC6+Ysuku6QToYofeK8jXTsFMZB7dz4dYukpPymgHHRydSsbV
+L5HMfHFyHMXAZ+sy/cmSXJTahcCbv1N9Kwn0jJ2RH5dqUsveCTakd9h7h1BE1T5u
+KWn7OUkmHgmlgHtALevoJ4XJ/mH9fuZ8lx3VnQIDAQABo4HCMIG/MA8GA1UdEwEB
+/wQFMAMBAf8wOwYDVR0gBDQwMjAwBgRVHSAAMCgwJgYIKwYBBQUHAgEWGmh0dHBz
+Oi8vd3d3LnRoYXd0ZS5jb20vY3BzMA4GA1UdDwEB/wQEAwIBBjAdBgNVHQ4EFgQU
+e1tFz6/Oy3r9MZIaarbzRutXSFAwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2Ny
+bC50aGF3dGUuY29tL1RoYXd0ZVByZW1pdW1TZXJ2ZXJDQS5jcmwwDQYJKoZIhvcN
+AQEFBQADgYEAhKhMyT4qvJrizI8LsiV3xGGJiWNa1KMVQNT7Xj+0Q+pjFytrmXSe
+Cajd1FYVLnp5MV9jllMbNNkV6k9tcMq+9oKp7dqFd8x2HGqBCiHYQZl/Xi6Cweiq
+95OBBaqStB+3msAHF/XLxrRMDtdW3HEgdDjWdMbWj2uvi42gbCkLYeA=
+-----END CERTIFICATE-----
