@@ -1,0 +1,110 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:5c:16:29:0e:04:b1:54:bb:98:66:09:19:43:42:a0
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=thawte, Inc., OU=Terms of use at https://www.thawte.com/cps (c)06, CN=thawte Extended Validation SSL CA
+        Validity
+            Not Before: Jul  2 00:00:00 2014 GMT
+            Not After : Jul  2 23:59:59 2015 GMT
+        Subject: 1.3.6.1.4.1.311.60.2.1.3=RU, O=Kaspersky Lab ZAO, C=RU, ST=Moscow, L=Moscow/businessCategory=Private Organization/serialNumber=1027739867473, OU=IT, CN=threatpost.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:9a:4b:80:cc:d5:e0:e3:d5:5c:8b:9d:ee:c0:
+                    a5:ed:7f:ab:06:97:02:23:cc:f4:71:6c:e2:0b:5c:
+                    01:30:2f:7a:dd:ab:18:cb:97:e9:7a:f1:94:69:b4:
+                    44:0b:2f:2d:8b:5c:0c:0a:c5:60:6f:86:b7:58:e7:
+                    f0:26:45:f9:5e:54:31:da:05:80:36:d5:11:e7:83:
+                    4f:9f:b4:39:c3:f8:13:0a:06:02:66:59:a2:fd:2f:
+                    57:61:57:24:6d:85:b3:f2:f1:91:4a:a0:15:82:98:
+                    60:cf:98:75:76:6f:82:6f:84:0c:96:26:54:1b:08:
+                    79:23:20:12:51:c3:19:a5:01:d2:bb:c6:aa:17:80:
+                    31:66:e4:b7:94:fb:5c:29:41:83:b7:bc:89:d0:7f:
+                    c2:c7:0c:ae:41:c0:c2:6c:b7:be:52:93:44:4a:b8:
+                    a5:7f:54:1d:61:a9:b1:52:9b:e0:de:64:32:be:7b:
+                    ab:d6:ba:f2:1a:f9:ab:63:82:4a:b6:62:e0:22:01:
+                    3c:4d:f8:b1:12:55:8d:24:79:62:6f:fb:c3:0c:51:
+                    9b:26:c6:fa:81:86:9f:98:22:03:15:1b:64:74:45:
+                    8f:08:a0:ad:e8:c2:04:4c:f3:96:4b:a4:39:34:e2:
+                    2b:9e:13:7d:b6:40:49:7b:4e:b5:46:a9:00:f0:ef:
+                    a0:77
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ta.symcb.com/ta.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.48.1
+                  CPS: https://d.symcb.com/cps
+                  User Notice:
+                    Explicit Text: https://d.symcb.com/rpa
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Authority Key Identifier: 
+                keyid:CD:32:E2:F2:5D:25:47:02:AA:8F:79:4B:32:EE:03:99:FD:30:49:D1
+
+            Authority Information Access: 
+                OCSP - URI:http://ta.symcd.com
+                CA Issuers - URI:http://ta.symcb.com/ta.crt
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.threatpost.com, DNS:threatpost.com
+                
+    Signature Algorithm: sha1WithRSAEncryption
+         62:ae:71:ed:e0:c0:d2:e5:af:86:b8:9e:ea:f5:17:a2:b8:52:
+         56:0e:b6:ce:b6:32:27:7a:9c:96:af:88:aa:db:48:4a:85:12:
+         fd:15:0c:5a:c6:de:ca:1b:ff:06:56:7d:d2:48:60:34:10:47:
+         b7:69:cb:39:75:ba:a1:3e:2c:eb:51:8a:20:87:67:d9:34:81:
+         e1:53:b8:10:77:b1:cc:5e:e1:52:26:bb:95:28:2d:05:11:69:
+         a4:b0:6b:e1:1e:65:3f:0d:b4:80:3d:a5:f0:e4:28:d9:21:b2:
+         34:31:95:d3:92:1d:ba:1e:a6:25:59:c3:74:e0:aa:5c:d8:bf:
+         da:a8:25:1b:8b:3c:c0:e6:90:45:5e:60:db:e3:e0:22:41:c2:
+         33:78:78:12:62:37:05:6c:0e:6b:aa:ed:ac:07:79:f1:ab:54:
+         bf:88:c3:64:39:78:e8:8c:0f:34:19:2b:ce:db:fc:d9:c6:d8:
+         8a:08:cb:91:a9:e2:e0:ec:b9:fe:09:17:50:f6:fa:bf:99:ba:
+         4b:ba:2d:cb:24:de:12:b5:6c:fc:0b:1b:57:2e:98:f7:92:b7:
+         71:56:ed:d4:c6:5a:87:00:2a:3d:95:21:83:a3:dc:2b:28:b2:
+         32:ef:bf:da:44:77:35:d9:40:ab:32:a0:e0:8d:92:f4:f4:38:
+         a8:8c:a8:e8
+
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgIQBlwWKQ4EsVS7mGYJGUNCoDANBgkqhkiG9w0BAQUFADCB
+izELMAkGA1UEBhMCVVMxFTATBgNVBAoTDHRoYXd0ZSwgSW5jLjE5MDcGA1UECxMw
+VGVybXMgb2YgdXNlIGF0IGh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vY3BzIChjKTA2
+MSowKAYDVQQDEyF0aGF3dGUgRXh0ZW5kZWQgVmFsaWRhdGlvbiBTU0wgQ0EwHhcN
+MTQwNzAyMDAwMDAwWhcNMTUwNzAyMjM1OTU5WjCBvTETMBEGCysGAQQBgjc8AgED
+EwJSVTEaMBgGA1UEChQRS2FzcGVyc2t5IExhYiBaQU8xCzAJBgNVBAYTAlJVMQ8w
+DQYDVQQIEwZNb3Njb3cxDzANBgNVBAcUBk1vc2NvdzEdMBsGA1UEDxMUUHJpdmF0
+ZSBPcmdhbml6YXRpb24xFjAUBgNVBAUTDTEwMjc3Mzk4Njc0NzMxCzAJBgNVBAsU
+AklUMRcwFQYDVQQDFA50aHJlYXRwb3N0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMKaS4DM1eDj1VyLne7Ape1/qwaXAiPM9HFs4gtcATAvet2r
+GMuX6XrxlGm0RAsvLYtcDArFYG+Gt1jn8CZF+V5UMdoFgDbVEeeDT5+0OcP4EwoG
+AmZZov0vV2FXJG2Fs/LxkUqgFYKYYM+YdXZvgm+EDJYmVBsIeSMgElHDGaUB0rvG
+qheAMWbkt5T7XClBg7e8idB/wscMrkHAwmy3vlKTREq4pX9UHWGpsVKb4N5kMr57
+q9a68hr5q2OCSrZi4CIBPE34sRJVjSR5Ym/7wwxRmybG+oGGn5giAxUbZHRFjwig
+rejCBEzzlkukOTTiK54TfbZASXtOtUapAPDvoHcCAwEAAaOCAXwwggF4MAkGA1Ud
+EwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90
+YS5zeW1jYi5jb20vdGEuY3JsMGYGA1UdIARfMF0wWwYLYIZIAYb4RQEHMAEwTDAj
+BggrBgEFBQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIw
+GRYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMB8GA1UdIwQYMBaAFM0y4vJdJUcCqo95SzLuA5n9MEnRMFcGCCsG
+AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RhLnN5bWNkLmNvbTAmBggr
+BgEFBQcwAoYaaHR0cDovL3RhLnN5bWNiLmNvbS90YS5jcnQwLQYDVR0RBCYwJIIS
+d3d3LnRocmVhdHBvc3QuY29tgg50aHJlYXRwb3N0LmNvbTANBgkqhkiG9w0BAQUF
+AAOCAQEAYq5x7eDA0uWvhrie6vUXorhSVg62zrYyJ3qclq+IqttISoUS/RUMWsbe
+yhv/BlZ90khgNBBHt2nLOXW6oT4s61GKIIdn2TSB4VO4EHexzF7hUia7lSgtBRFp
+pLBr4R5lPw20gD2l8OQo2SGyNDGV05Iduh6mJVnDdOCqXNi/2qglG4s8wOaQRV5g
+2+PgIkHCM3h4EmI3BWwOa6rtrAd58atUv4jDZDl46IwPNBkrztv82cbYigjLkani
+4Oy5/gkXUPb6v5m6S7otyyTeErVs/AsbVy6Y95K3cVbt1MZahwAqPZUhg6PcKyiy
+Mu+/2kR3NdlAqzKg4I2S9PQ4qIyo6A==
+-----END CERTIFICATE-----
