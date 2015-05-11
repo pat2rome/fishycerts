@@ -1,0 +1,68 @@
+threatpost.com
+Identity: threatpost.com
+Verified by: thawte Extended Validation SSL CA
+Expires: 02/07/2015
+
+Subject Name
+1.3.6.1.4.1.311.60.2.1.3:	#13025255
+O (Organization):	Kaspersky Lab ZAO
+C (Country):	RU
+ST (State):	Moscow
+L (Locality):	Moscow
+2.5.4.15:	#131450726976617465204F7267616E697A6174696F6E
+serialNumber (Serial Number):	1027739867473
+OU (Organizational Unit):	IT
+CN (Common Name):	threatpost.com
+Issuer Name
+C (Country):	US
+O (Organization):	thawte, Inc.
+OU (Organizational Unit):	Terms of use at https://www.thawte.com/cps (c)06
+CN (Common Name):	thawte Extended Validation SSL CA
+Issued Certificate
+Version:	3
+Serial Number:	06 5C 16 29 0E 04 B1 54 BB 98 66 09 19 43 42 A0
+Not Valid Before:	2014-07-02
+Not Valid After:	2015-07-02
+Certificate Fingerprints
+SHA1:	39 1B 4C 79 A6 CE DE 30 9E EF B6 40 CE 3A 46 BC 94 6A 6D 40
+MD5:	FD A3 FF 5A 7C C1 98 B1 AB 49 9B F4 90 06 D5 34
+Public Key Info
+Key Algorithm:	RSA
+Key Parameters:	05 00
+Key Size:	2048
+Key SHA1 Fingerprint:	92 B6 F0 B4 21 E3 CD D1 CB 36 94 50 AB 84 71 63 8D D9 FD DB
+Public Key:	30 82 01 0A 02 82 01 01 00 C2 9A 4B 80 CC D5 E0 E3 D5 5C 8B 9D EE C0 A5 ED 7F AB 06 97 02 23 CC F4 71 6C E2 0B 5C 01 30 2F 7A DD AB 18 CB 97 E9 7A F1 94 69 B4 44 0B 2F 2D 8B 5C 0C 0A C5 60 6F 86 B7 58 E7 F0 26 45 F9 5E 54 31 DA 05 80 36 D5 11 E7 83 4F 9F B4 39 C3 F8 13 0A 06 02 66 59 A2 FD 2F 57 61 57 24 6D 85 B3 F2 F1 91 4A A0 15 82 98 60 CF 98 75 76 6F 82 6F 84 0C 96 26 54 1B 08 79 23 20 12 51 C3 19 A5 01 D2 BB C6 AA 17 80 31 66 E4 B7 94 FB 5C 29 41 83 B7 BC 89 D0 7F C2 C7 0C AE 41 C0 C2 6C B7 BE 52 93 44 4A B8 A5 7F 54 1D 61 A9 B1 52 9B E0 DE 64 32 BE 7B AB D6 BA F2 1A F9 AB 63 82 4A B6 62 E0 22 01 3C 4D F8 B1 12 55 8D 24 79 62 6F FB C3 0C 51 9B 26 C6 FA 81 86 9F 98 22 03 15 1B 64 74 45 8F 08 A0 AD E8 C2 04 4C F3 96 4B A4 39 34 E2 2B 9E 13 7D B6 40 49 7B 4E B5 46 A9 00 F0 EF A0 77 02 03 01 00 01
+Basic Constraints
+Certificate Authority:	No
+Max Path Length:	Unlimited
+Critical:	No
+Key Usage
+Usages:	Digital signature Key encipherment
+Critical:	Yes
+Extension
+Identifier:	2.5.29.31
+Value:	30 22 30 20 A0 1E A0 1C 86 1A 68 74 74 70 3A 2F 2F 74 61 2E 73 79 6D 63 62 2E 63 6F 6D 2F 74 61 2E 63 72 6C
+Critical:	No
+Extension
+Identifier:	2.5.29.32
+Value:	30 5D 30 5B 06 0B 60 86 48 01 86 F8 45 01 07 30 01 30 4C 30 23 06 08 2B 06 01 05 05 07 02 01 16 17 68 74 74 70 73 3A 2F 2F 64 2E 73 79 6D 63 62 2E 63 6F 6D 2F 63 70 73 30 25 06 08 2B 06 01 05 05 07 02 02 30 19 16 17 68 74 74 70 73 3A 2F 2F 64 2E 73 79 6D 63 62 2E 63 6F 6D 2F 72 70 61
+Critical:	No
+Extended Key Usage
+Allowed Purposes:	Server Authentication Client Authentication
+Critical:	No
+Extension
+Identifier:	2.5.29.35
+Value:	30 16 80 14 CD 32 E2 F2 5D 25 47 02 AA 8F 79 4B 32 EE 03 99 FD 30 49 D1
+Critical:	No
+Extension
+Identifier:	1.3.6.1.5.5.7.1.1
+Value:	30 49 30 1F 06 08 2B 06 01 05 05 07 30 01 86 13 68 74 74 70 3A 2F 2F 74 61 2E 73 79 6D 63 64 2E 63 6F 6D 30 26 06 08 2B 06 01 05 05 07 30 02 86 1A 68 74 74 70 3A 2F 2F 74 61 2E 73 79 6D 63 62 2E 63 6F 6D 2F 74 61 2E 63 72 74
+Critical:	No
+Subject Alternative Names
+DNS:	www.threatpost.com
+DNS:	threatpost.com
+Critical:	No
+Signature
+Signature Algorithm:	SHA1 with RSA
+Signature Parameters:	05 00
+Signature:	62 AE 71 ED E0 C0 D2 E5 AF 86 B8 9E EA F5 17 A2 B8 52 56 0E B6 CE B6 32 27 7A 9C 96 AF 88 AA DB 48 4A 85 12 FD 15 0C 5A C6 DE CA 1B FF 06 56 7D D2 48 60 34 10 47 B7 69 CB 39 75 BA A1 3E 2C EB 51 8A 20 87 67 D9 34 81 E1 53 B8 10 77 B1 CC 5E E1 52 26 BB 95 28 2D 05 11 69 A4 B0 6B E1 1E 65 3F 0D B4 80 3D A5 F0 E4 28 D9 21 B2 34 31 95 D3 92 1D BA 1E A6 25 59 C3 74 E0 AA 5C D8 BF DA A8 25 1B 8B 3C C0 E6 90 45 5E 60 DB E3 E0 22 41 C2 33 78 78 12 62 37 05 6C 0E 6B AA ED AC 07 79 F1 AB 54 BF 88 C3 64 39 78 E8 8C 0F 34 19 2B CE DB FC D9 C6 D8 8A 08 CB 91 A9 E2 E0 EC B9 FE 09 17 50 F6 FA BF 99 BA 4B BA 2D CB 24 DE 12 B5 6C FC 0B 1B 57 2E 98 F7 92 B7 71 56 ED D4 C6 5A 87 00 2A 3D 95 21 83 A3 DC 2B 28 B2 32 EF BF DA 44 77 35 D9 40 AB 32 A0 E0 8D 92 F4 F4 38 A8 8C A8 E8
