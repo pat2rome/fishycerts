@@ -1,0 +1,104 @@
+https://ssl-tools.net/certificates/1219337d219d1684f785bbabe688cea429ac6ee1.txt
+http://www.sslchecker.com/certdecoder?su=6484d011be190d7790b84005d5343b2c
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 7750670457508800870 (0x6b8fe9b75eed2966)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=Google Inc, CN=Google Internet Authority G2
+        Validity
+            Not Before: May  6 10:33:15 2015 GMT
+            Not After : Aug  4 00:00:00 2015 GMT
+        Subject: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.google.com
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:ea:ac:b0:27:8e:ee:ca:e6:59:87:b2:38:e1:fd:
+                    ea:bc:0f:53:fa:ed:d9:cb:a7:c8:dd:5d:0c:d9:6d:
+                    6c:43:f7:d6:77:d8:60:b3:62:1e:a1:b6:e8:f6:50:
+                    e1:df:03:3d:d7:6a:3e:fa:a4:ac:2d:42:80:ff:3b:
+                    9d:fb:06:b9:ba
+                ASN1 OID: prime256v1
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:*.google.com, DNS:*.android.com, DNS:*.appengine.google.com, DNS:*.cloud.google.com, DNS:*.google-analytics.com, DNS:*.google.ca, DNS:*.google.cl, DNS:*.google.co.in, DNS:*.google.co.jp, DNS:*.google.co.uk, DNS:*.google.com.ar, DNS:*.google.com.au, DNS:*.google.com.br, DNS:*.google.com.co, DNS:*.google.com.mx, DNS:*.google.com.tr, DNS:*.google.com.vn, DNS:*.google.de, DNS:*.google.es, DNS:*.google.fr, DNS:*.google.hu, DNS:*.google.it, DNS:*.google.nl, DNS:*.google.pl, DNS:*.google.pt, DNS:*.googleadapis.com, DNS:*.googleapis.cn, DNS:*.googlecommerce.com, DNS:*.googlevideo.com, DNS:*.gstatic.cn, DNS:*.gstatic.com, DNS:*.gvt1.com, DNS:*.gvt2.com, DNS:*.metric.gstatic.com, DNS:*.urchin.com, DNS:*.url.google.com, DNS:*.youtube-nocookie.com, DNS:*.youtube.com, DNS:*.youtubeeducation.com, DNS:*.ytimg.com, DNS:android.com, DNS:g.co, DNS:goo.gl, DNS:google-analytics.com, DNS:google.com, DNS:googlecommerce.com, DNS:urchin.com, DNS:youtu.be, DNS:youtube.com, DNS:youtubeeducation.com
+            X509v3 Key Usage: 
+                Digital Signature
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.google.com/GIAG2.crt
+                OCSP - URI:http://clients1.google.com/ocsp
+
+            X509v3 Subject Key Identifier: 
+                58:9A:06:C3:15:E2:3E:EB:2B:A5:9D:83:73:FA:EF:11:48:3E:9B:ED
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:4A:DD:06:16:1B:BC:F6:68:B5:76:F5:81:B6:BB:62:1A:BA:5A:81:2F
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.11129.2.5.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://pki.google.com/GIAG2.crl
+
+    Signature Algorithm: sha1WithRSAEncryption
+         92:46:72:36:af:e0:c4:69:e4:5c:64:d3:96:bc:ea:df:f5:79:
+         51:9d:05:51:88:18:c2:e3:a7:91:5a:9e:1a:3f:62:14:fd:ab:
+         b9:c2:1f:30:ee:15:ca:f3:4e:38:85:c8:eb:95:55:e5:fd:9d:
+         4a:a0:be:b9:68:4c:85:c1:d2:8c:df:73:31:ec:39:5e:ef:88:
+         cb:d7:66:92:1c:f8:ad:9c:52:50:b0:59:03:43:ea:01:eb:27:
+         4c:cf:56:e4:f1:f1:f7:03:92:ea:dc:bd:37:c8:88:0d:c0:5f:
+         a9:53:53:25:28:be:6b:6e:16:7c:7a:44:0e:c3:81:30:19:75:
+         5d:e0:fb:20:03:14:f4:28:44:b1:dc:c0:ff:2b:d0:a0:49:9c:
+         5f:fd:9e:c3:d3:49:b6:df:01:ef:c7:d5:8f:8e:25:81:aa:3a:
+         a8:1c:11:b4:61:4f:9a:b0:cb:4f:6b:41:a9:94:da:43:95:35:
+         34:a9:fc:45:42:58:46:d3:9e:38:e8:36:e3:20:00:19:d4:94:
+         d0:8e:15:79:fa:06:b8:60:8f:cc:be:7b:78:5d:fd:aa:12:2f:
+         09:8f:51:ec:74:1d:95:cf:de:15:e0:da:a3:c8:12:36:82:33:
+         ca:bb:9b:99:14:b5:c7:60:96:3c:a2:55:0a:7c:f7:e7:f4:fe:
+         b1:06:e9:8f
+-----BEGIN CERTIFICATE-----
+MIIGxTCCBa2gAwIBAgIIa4/pt17tKWYwDQYJKoZIhvcNAQEFBQAwSTELMAkGA1UE
+BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
+cm5ldCBBdXRob3JpdHkgRzIwHhcNMTUwNTA2MTAzMzE1WhcNMTUwODA0MDAwMDAw
+WjBmMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
+TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEVMBMGA1UEAwwMKi5n
+b29nbGUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6qywJ47uyuZZh7I4
+4f3qvA9T+u3Zy6fI3V0M2W1sQ/fWd9hgs2Ieobbo9lDh3wM912o++qSsLUKA/zud
++wa5uqOCBF0wggRZMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCCAyYG
+A1UdEQSCAx0wggMZggwqLmdvb2dsZS5jb22CDSouYW5kcm9pZC5jb22CFiouYXBw
+ZW5naW5lLmdvb2dsZS5jb22CEiouY2xvdWQuZ29vZ2xlLmNvbYIWKi5nb29nbGUt
+YW5hbHl0aWNzLmNvbYILKi5nb29nbGUuY2GCCyouZ29vZ2xlLmNsgg4qLmdvb2ds
+ZS5jby5pboIOKi5nb29nbGUuY28uanCCDiouZ29vZ2xlLmNvLnVrgg8qLmdvb2ds
+ZS5jb20uYXKCDyouZ29vZ2xlLmNvbS5hdYIPKi5nb29nbGUuY29tLmJygg8qLmdv
+b2dsZS5jb20uY2+CDyouZ29vZ2xlLmNvbS5teIIPKi5nb29nbGUuY29tLnRygg8q
+Lmdvb2dsZS5jb20udm6CCyouZ29vZ2xlLmRlggsqLmdvb2dsZS5lc4ILKi5nb29n
+bGUuZnKCCyouZ29vZ2xlLmh1ggsqLmdvb2dsZS5pdIILKi5nb29nbGUubmyCCyou
+Z29vZ2xlLnBsggsqLmdvb2dsZS5wdIISKi5nb29nbGVhZGFwaXMuY29tgg8qLmdv
+b2dsZWFwaXMuY26CFCouZ29vZ2xlY29tbWVyY2UuY29tghEqLmdvb2dsZXZpZGVv
+LmNvbYIMKi5nc3RhdGljLmNugg0qLmdzdGF0aWMuY29tggoqLmd2dDEuY29tggoq
+Lmd2dDIuY29tghQqLm1ldHJpYy5nc3RhdGljLmNvbYIMKi51cmNoaW4uY29tghAq
+LnVybC5nb29nbGUuY29tghYqLnlvdXR1YmUtbm9jb29raWUuY29tgg0qLnlvdXR1
+YmUuY29tghYqLnlvdXR1YmVlZHVjYXRpb24uY29tggsqLnl0aW1nLmNvbYILYW5k
+cm9pZC5jb22CBGcuY2+CBmdvby5nbIIUZ29vZ2xlLWFuYWx5dGljcy5jb22CCmdv
+b2dsZS5jb22CEmdvb2dsZWNvbW1lcmNlLmNvbYIKdXJjaGluLmNvbYIIeW91dHUu
+YmWCC3lvdXR1YmUuY29tghR5b3V0dWJlZWR1Y2F0aW9uLmNvbTALBgNVHQ8EBAMC
+B4AwaAYIKwYBBQUHAQEEXDBaMCsGCCsGAQUFBzAChh9odHRwOi8vcGtpLmdvb2ds
+ZS5jb20vR0lBRzIuY3J0MCsGCCsGAQUFBzABhh9odHRwOi8vY2xpZW50czEuZ29v
+Z2xlLmNvbS9vY3NwMB0GA1UdDgQWBBRYmgbDFeI+6yulnYNz+u8RSD6b7TAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFErdBhYbvPZotXb1gba7Yhq6WoEvMBcGA1Ud
+IAQQMA4wDAYKKwYBBAHWeQIFATAwBgNVHR8EKTAnMCWgI6Ahhh9odHRwOi8vcGtp
+Lmdvb2dsZS5jb20vR0lBRzIuY3JsMA0GCSqGSIb3DQEBBQUAA4IBAQCSRnI2r+DE
+aeRcZNOWvOrf9XlRnQVRiBjC46eRWp4aP2IU/au5wh8w7hXK8044hcjrlVXl/Z1K
+oL65aEyFwdKM33Mx7Dle74jL12aSHPitnFJQsFkDQ+oB6ydMz1bk8fH3A5Lq3L03
+yIgNwF+pU1MlKL5rbhZ8ekQOw4EwGXVd4PsgAxT0KESx3MD/K9CgSZxf/Z7D00m2
+3wHvx9WPjiWBqjqoHBG0YU+asMtPa0GplNpDlTU0qfxFQlhG05446DbjIAAZ1JTQ
+jhV5+ga4YI/Mvnt4Xf2qEi8Jj1HsdB2Vz94V4NqjyBI2gjPKu5uZFLXHYJY8olUK
+fPfn9P6xBumP
+-----END CERTIFICATE-----

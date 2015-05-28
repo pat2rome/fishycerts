@@ -1,0 +1,102 @@
+https://ssl-tools.net/certificates/4b9d33e64ef6104e2043bf1e0928924f6d41337a.txt
+https://www.sslchecker.com/certdecoder?su=8e4660b6e574afbf08388fac6f50ae1b
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 6898384865036533650 (0x5fbbfc7c4c6eff92)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=Google Inc, CN=Google Internet Authority G2
+        Validity
+            Not Before: May  6 10:29:25 2015 GMT
+            Not After : Aug  4 00:00:00 2015 GMT
+        Subject: C=US, ST=California, L=Mountain View, O=Google Inc, CN=www.google.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:db:41:80:aa:b8:c5:e3:68:d1:55:99:a8:24:36:
+                    44:e8:56:c4:e5:36:93:f5:ec:7c:e9:b3:b9:c9:55:
+                    3f:9c:35:cb:bf:6d:5e:26:44:41:06:f2:84:59:53:
+                    52:84:44:73:f3:6b:78:1d:e0:f9:b3:22:76:71:70:
+                    cc:e2:f7:4c:14:a1:92:10:87:23:02:74:2b:4b:0d:
+                    cd:9c:4a:c8:49:dd:36:99:33:db:a7:8e:b3:33:81:
+                    34:f9:56:10:e7:a1:36:fb:da:bf:16:ca:a7:58:bd:
+                    8e:30:a7:67:2f:75:f9:1a:2e:95:22:ad:85:58:90:
+                    ac:30:f1:b3:1e:9a:35:c7:33:30:58:1e:20:1d:0d:
+                    32:d8:ea:c0:5e:9c:cd:3e:b7:bc:df:2d:14:e5:b7:
+                    e2:53:64:4c:7f:6c:af:da:ee:51:24:1c:d1:6f:0a:
+                    7d:88:5b:e3:18:b7:ee:ba:f3:15:58:c3:64:e7:06:
+                    15:c8:26:5a:34:66:b3:f9:56:96:b8:de:a2:11:a3:
+                    29:1d:e2:f5:15:52:4d:ec:70:7c:92:ed:78:67:0c:
+                    45:3f:0f:b2:23:5b:a0:42:58:80:78:fc:6a:e0:08:
+                    c7:b3:45:34:91:3d:85:ee:7d:4d:9a:40:1f:62:c0:
+                    09:6d:a3:bc:83:1c:95:bb:d6:6d:c1:4d:4c:43:6b:
+                    10:67
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:www.google.com
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.google.com/GIAG2.crt
+                OCSP - URI:http://clients1.google.com/ocsp
+
+            X509v3 Subject Key Identifier: 
+                8C:5D:92:8A:94:1D:8C:98:B2:32:7A:A4:D3:74:60:19:EF:2F:AF:46
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:4A:DD:06:16:1B:BC:F6:68:B5:76:F5:81:B6:BB:62:1A:BA:5A:81:2F
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.11129.2.5.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://pki.google.com/GIAG2.crl
+
+    Signature Algorithm: sha1WithRSAEncryption
+         64:26:8e:34:dc:c4:75:19:07:a4:05:0e:73:24:20:00:73:01:
+         2e:25:89:fa:a0:3a:24:4a:ab:d1:fb:a5:a1:e8:ee:cb:f6:60:
+         4b:02:44:0e:92:0f:ee:a9:f1:99:f1:1e:4a:6d:44:83:6e:71:
+         16:97:a3:9b:a0:97:ab:a3:c7:29:f5:d3:27:42:37:24:7d:96:
+         ba:eb:5c:c3:3e:84:43:59:e8:05:9b:d6:99:31:02:dc:76:73:
+         c1:8b:f4:c8:f5:a1:05:b9:43:90:2e:f0:a4:df:50:ab:1d:51:
+         72:7d:2c:33:9c:16:14:67:e6:2d:e2:ac:6e:e3:8f:c0:c4:47:
+         e6:2d:3e:e9:d0:21:77:63:f3:6f:70:0d:9f:19:16:dc:92:3d:
+         be:de:d3:8d:23:e1:53:10:7f:d5:fd:22:30:46:6c:97:6a:0d:
+         bf:19:b3:ed:46:16:a1:94:11:57:87:a5:68:6c:af:1d:6c:5b:
+         6a:97:a3:f8:fb:1f:ff:ef:ec:de:d2:d5:da:31:1a:11:b0:e4:
+         1f:8f:05:a6:0f:a4:9a:03:5d:c9:24:ea:3c:fe:80:50:69:46:
+         1d:aa:75:3e:32:09:1f:ae:8e:c2:0e:91:23:3a:e7:01:cd:96:
+         ec:49:eb:e6:f6:f3:d0:32:11:31:76:3b:ba:a4:a7:fe:9c:2d:
+         1b:cf:ee:d3
+-----BEGIN CERTIFICATE-----
+MIIEdjCCA16gAwIBAgIIX7v8fExu/5IwDQYJKoZIhvcNAQEFBQAwSTELMAkGA1UE
+BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
+cm5ldCBBdXRob3JpdHkgRzIwHhcNMTUwNTA2MTAyOTI1WhcNMTUwODA0MDAwMDAw
+WjBoMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
+TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEXMBUGA1UEAwwOd3d3
+Lmdvb2dsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbQYCq
+uMXjaNFVmagkNkToVsTlNpP17Hzps7nJVT+cNcu/bV4mREEG8oRZU1KERHPza3gd
+4PmzInZxcMzi90wUoZIQhyMCdCtLDc2cSshJ3TaZM9unjrMzgTT5VhDnoTb72r8W
+yqdYvY4wp2cvdfkaLpUirYVYkKww8bMemjXHMzBYHiAdDTLY6sBenM0+t7zfLRTl
+t+JTZEx/bK/a7lEkHNFvCn2IW+MYt+668xVYw2TnBhXIJlo0ZrP5Vpa43qIRoykd
+4vUVUk3scHyS7XhnDEU/D7IjW6BCWIB4/GrgCMezRTSRPYXufU2aQB9iwAlto7yD
+HJW71m3BTUxDaxBnAgMBAAGjggFBMIIBPTAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwGQYDVR0RBBIwEIIOd3d3Lmdvb2dsZS5jb20waAYIKwYBBQUHAQEE
+XDBaMCsGCCsGAQUFBzAChh9odHRwOi8vcGtpLmdvb2dsZS5jb20vR0lBRzIuY3J0
+MCsGCCsGAQUFBzABhh9odHRwOi8vY2xpZW50czEuZ29vZ2xlLmNvbS9vY3NwMB0G
+A1UdDgQWBBSMXZKKlB2MmLIyeqTTdGAZ7y+vRjAMBgNVHRMBAf8EAjAAMB8GA1Ud
+IwQYMBaAFErdBhYbvPZotXb1gba7Yhq6WoEvMBcGA1UdIAQQMA4wDAYKKwYBBAHW
+eQIFATAwBgNVHR8EKTAnMCWgI6Ahhh9odHRwOi8vcGtpLmdvb2dsZS5jb20vR0lB
+RzIuY3JsMA0GCSqGSIb3DQEBBQUAA4IBAQBkJo403MR1GQekBQ5zJCAAcwEuJYn6
+oDokSqvR+6Wh6O7L9mBLAkQOkg/uqfGZ8R5KbUSDbnEWl6OboJero8cp9dMnQjck
+fZa661zDPoRDWegFm9aZMQLcdnPBi/TI9aEFuUOQLvCk31CrHVFyfSwznBYUZ+Yt
+4qxu44/AxEfmLT7p0CF3Y/NvcA2fGRbckj2+3tONI+FTEH/V/SIwRmyXag2/GbPt
+RhahlBFXh6VobK8dbFtql6P4+x//7+ze0tXaMRoRsOQfjwWmD6SaA13JJOo8/oBQ
+aUYdqnU+Mgkfro7CDpEjOucBzZbsSevm9vPQMhExdju6pKf+nC0bz+7T
+-----END CERTIFICATE-----
