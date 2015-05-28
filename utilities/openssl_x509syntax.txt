@@ -1,4 +1,6 @@
 {handy to have around for analytic spelunking ~pj}
+source: 
+https://www.openssl.org/docs/apps/x509.html
 
 
 x509 - Certificate display and signing utility
