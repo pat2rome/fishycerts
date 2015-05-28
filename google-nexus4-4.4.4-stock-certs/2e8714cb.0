@@ -74,7 +74,7 @@ Certificate:
                 Policy: X509v3 Any Policy
                   CPS: http://www.rootca.or.kr/rca/cps.html
                   User Notice:
-                    Explicit Text: Ã‡t
+                    Explicit Text: Çt
 
             X509v3 Subject Alternative Name: 
                 DirName:/CN=\xED\x95\x9C\xEA\xB5\xAD\xEC\xA0\x95\xEB\xB3\xB4\xEB\xB3\xB4\xED\x98\xB8\xEC\xA7\x84\xED\x9D\xA5\xEC\x9B\x90
