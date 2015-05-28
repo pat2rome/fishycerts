@@ -273,25 +273,6 @@ Convert a certificate from PEM to DER format:
 
  openssl x509 -in cert.pem -inform PEM -out cert.der -outform DER
 
-Convert a certificate to a certificate request:
-
- openssl x509 -x509toreq -in cert.pem -out req.pem -signkey key.pem
-
-Convert a certificate request into a self signed certificate using extensions for a CA:
-
- openssl x509 -req -in careq.pem -extfile openssl.cnf -extensions v3_ca \
-        -signkey key.pem -out cacert.pem
-
-Sign a certificate request using the CA certificate above and add user certificate extensions:
-
- openssl x509 -req -in req.pem -extfile openssl.cnf -extensions v3_usr \
-        -CA cacert.pem -CAkey key.pem -CAcreateserial
-
-Set a certificate to be trusted for SSL client use and change set its alias to "Steve's Class 1 CA"
-
- openssl x509 -in cert.pem -addtrust clientAuth \
-        -setalias "Steve's Class 1 CA" -out trust.pem
-
 
 NOTES
 
