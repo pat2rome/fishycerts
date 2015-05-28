@@ -1,0 +1,1045 @@
+bash-4.3# openssl x509 -in cert1.txt -text -nameopt multiline,utf8,show_type,-esc_msb
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:1a:02:b7:00:02:00:00:00:12
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer:
+            countryName               = PRINTABLESTRING:US
+            stateOrProvinceName       = PRINTABLESTRING:Washington
+            localityName              = PRINTABLESTRING:Redmond
+            organizationName          = PRINTABLESTRING:Microsoft Corporation
+            organizationalUnitName    = PRINTABLESTRING:Copyright (c) 1999 Microsoft Corp.
+            commonName                = PRINTABLESTRING:Microsoft Enforced Licensing Intermediate PCA
+        Validity
+            Not Before: Dec 11 00:03:58 2009 GMT
+            Not After : Oct 23 08:00:00 2016 GMT
+        Subject:
+            countryName               = PRINTABLESTRING:US
+            stateOrProvinceName       = PRINTABLESTRING:Washington
+            localityName              = PRINTABLESTRING:Redmond
+            organizationName          = PRINTABLESTRING:Microsoft Corporation
+            organizationalUnitName    = PRINTABLESTRING:Copyright (c) 2003 Microsoft Corp.
+            commonName                = PRINTABLESTRING:Microsoft Enforced Licensing Registration Authority CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8e:98:07:ed:46:50:30:aa:8a:95:5e:36:7f:bc:
+                    71:30:a1:1d:49:cf:e7:96:ff:2f:9a:09:16:12:f0:
+                    98:31:55:45:52:40:63:7d:57:67:46:a2:2b:08:98:
+                    6d:9b:c6:69:25:40:87:49:e7:01:37:84:00:1d:69:
+                    9d:85:2f:e1:a0:2c:27:83:4c:75:60:8b:2c:eb:f9:
+                    90:8e:5e:4a:8f:fd:d3:5b:8c:89:c8:0f:f8:cf:2e:
+                    9f:3c:8a:3d:41:cc:b6:84:0c:9c:73:97:46:dd:52:
+                    26:12:a5:44:8d:df:0a:50:1f:4a:79:dc:e3:19:3c:
+                    ef:ed:82:c9:89:14:91:fd:99:69:a4:f2:8a:a6:c8:
+                    8e:bd:38:3b:80:30:8a:59:c8:a0:ab:de:71:44:1b:
+                    24:f9:b9:a1:8f:19:9d:fd:19:b4:69:16:17:a2:23:
+                    31:a7:11:12:65:cd:c0:9d:78:5d:42:e5:95:8e:13:
+                    2f:ac:f8:00:87:6e:96:ef:73:d4:0f:7e:3c:9f:81:
+                    47:d0:1f:8f:79:1d:3c:3f:cb:ae:34:22:d6:cd:fc:
+                    21:80:35:11:0d:a9:90:cc:55:b4:65:fc:2d:37:7d:
+                    80:7a:97:ee:5b:4a:c5:3e:8b:03:aa:ae:4d:22:37:
+                    66:70:84:1c:69:c5:d7:97:9a:8f:1e:3a:b2:24:84:
+                    8f:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                B4:A1:D8:DE:FB:0E:C4:CB:9D:9F:06:CF:36:0D:91:1A:F8:9F:5B:E3
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            1.3.6.1.4.1.311.21.2: 
+                ....x8g.).k/.T..p_....
+            1.3.6.1.4.1.311.20.2: 
+                .
+.S.u.b.C.A
+            X509v3 Authority Key Identifier: 
+                keyid:6A:97:E0:C8:9F:F4:49:B4:89:24:B3:E3:D1:A8:22:86:AA:D4:94:43
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/MicEnfLicPCA_12-10-09.crl
+
+            X509v3 Extended Key Usage: 
+                Code Signing, 1.3.6.1.4.1.311.10.6.2
+            1.3.6.1.4.1.311.2.1.10: critical
+                0....).'https://www.microsoft.com/repository/CPS........This certificate incorporates by reference, and its use is strictly
+subject to, the Microsoft Certification Practice Statement (CPS)
+version 2.0, available in the Microsoft repository at:
+https://www.microsoft.com; by E-mail at CPS-requests@microsoft.com; or
+by mail at Microsoft Corp, dept. CPS,1 Microsoft Way,Redmond, WA 98052
+USA Copyright (c)1999 Microsoft Corp.  All Rights Reserved. CERTAIN
+WARRANTIES DISCLAIMED AND LIABILITY LIMITED.
+
+WARNING: THE USE OF THIS CERTIFICATE IS STRICTLY SUBJECT TO THE
+VERISIGN CERTIFICATION PRACTICE STATEMENT.  THE ISSUING AUTHORITY
+DISCLAIMS CERTAIN IMPLIED AND EXPRESS WARRANTIES, INCLUDING WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND WILL NOT
+BE LIABLE FOR CONSEQUENTIAL, PUNITIVE, AND CERTAIN OTHER DAMAGES. SEE
+THE CPS FOR DETAILS.
+
+Contents of the Microsoft registered nonverifiedSubjectAttributes
+extension value shall not be considered as accurate information
+validated by the IA.
+.6.4https://www.microsoft.com/repository/mscpslogo.gif
+    Signature Algorithm: md5WithRSAEncryption
+         24:ab:ed:f7:72:44:44:98:71:f6:d1:b9:b5:69:e0:ef:1c:b0:
+         4c:04:98:0f:bf:4c:a9:74:47:b0:84:a1:48:e2:81:b3:ea:e1:
+         c9:53:92:53:11:c8:45:ba:88:76:68:cd:dc:be:f3:a0:65:80:
+         76:d7:93:03:69:8d:c7:bc:7a:ae:89:7c:df:12:10:0a:a6:29:
+         a6:d4:e5:9b:55:ab:ca:ec:4b:d9:c1:28:37:d0:d6:71:38:6d:
+         5e:75:fd:66:ab:2a:c0:b9:24:6f:9e:42:33:0f:71:b4:6e:a6:
+         f7:ba:23:1a:74:ed:cd:b1:ae:0a:32:a8:5c:26:16:fa:31:76:
+         23:e8:a7:24:80:f1:de:45:b5:42:bd:f1:58:08:8f:e2:f2:70:
+         86:2e:13:83:24:de:50:88:88:c0:23:32:59:74:fa:7a:5f:73:
+         d7:63:bd:58:9d:c0:68:b0:53:21:71:50:45:b8:27:cf:3c:e5:
+         64:fb:7c:13:8b:c1:01:3e:90:d9:43:f7:3e:cc:19:16:b3:b6:
+         16:8f:27:7a:f9:46:ed:8a:da:e7:c5:91:c2:c8:2a:08:21:5a:
+         b8:7a:88:4e:a6:2a:a5:f7:ed:20:01:14:48:56:df:57:7d:6f:
+         bf:95:75:18:29:17:19:84:a3:13:61:54:82:c3:55:58:3d:83:
+         a3:90:75:aa
+-----BEGIN CERTIFICATE-----
+MIIJcjCCCFqgAwIBAgIKYRoCtwACAAAAEjANBgkqhkiG9w0BAQQFADCBuTELMAkG
+A1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQx
+HjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjErMCkGA1UECxMiQ29weXJp
+Z2h0IChjKSAxOTk5IE1pY3Jvc29mdCBDb3JwLjE2MDQGA1UEAxMtTWljcm9zb2Z0
+IEVuZm9yY2VkIExpY2Vuc2luZyBJbnRlcm1lZGlhdGUgUENBMB4XDTA5MTIxMTAw
+MDM1OFoXDTE2MTAyMzA4MDAwMFowgcIxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpX
+YXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQg
+Q29ycG9yYXRpb24xKzApBgNVBAsTIkNvcHlyaWdodCAoYykgMjAwMyBNaWNyb3Nv
+ZnQgQ29ycC4xPzA9BgNVBAMTNk1pY3Jvc29mdCBFbmZvcmNlZCBMaWNlbnNpbmcg
+UmVnaXN0cmF0aW9uIEF1dGhvcml0eSBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAI6YB+1GUDCqipVeNn+8cTChHUnP55b/L5oJFhLwmDFVRVJAY31X
+Z0aiKwiYbZvGaSVAh0nnATeEAB1pnYUv4aAsJ4NMdWCLLOv5kI5eSo/901uMicgP
++M8unzyKPUHMtoQMnHOXRt1SJhKlRI3fClAfSnnc4xk87+2CyYkUkf2ZaaTyiqbI
+jr04O4AwilnIoKvecUQbJPm5oY8Znf0ZtGkWF6IjMacREmXNwJ14XULllY4TL6z4
+AIdulu9z1A9+PJ+BR9Afj3kdPD/LrjQi1s38IYA1EQ2pkMxVtGX8LTd9gHqX7ltK
+xT6LA6quTSI3ZnCEHGnF15eajx46siSEj+8CAwEAAaOCBW8wggVrMA8GA1UdEwEB
+/wQFMAMBAf8wHQYDVR0OBBYEFLSh2N77DsTLnZ8GzzYNkRr4n1vjMAsGA1UdDwQE
+AwIBxjASBgkrBgEEAYI3FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQWBBSbkHg4Z5Up
+gGsv41SWGnBf8cMRrTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTAfBgNVHSME
+GDAWgBRql+DIn/RJtIkks+PRqCKGqtSUQzBUBgNVHR8ETTBLMEmgR6BFhkNodHRw
+Oi8vY3JsLm1pY3Jvc29mdC5jb20vcGtpL2NybC9wcm9kdWN0cy9NaWNFbmZMaWNQ
+Q0FfMTItMTAtMDkuY3JsMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgYC
+MIIEPgYKKwYBBAGCNwIBCgEB/wSCBCswggQfoCmAJ2h0dHBzOi8vd3d3Lm1pY3Jv
+c29mdC5jb20vcmVwb3NpdG9yeS9DUFOhggO4gYIDtFRoaXMgY2VydGlmaWNhdGUg
+aW5jb3Jwb3JhdGVzIGJ5IHJlZmVyZW5jZSwgYW5kIGl0cyB1c2UgaXMgc3RyaWN0
+bHkKc3ViamVjdCB0bywgdGhlIE1pY3Jvc29mdCBDZXJ0aWZpY2F0aW9uIFByYWN0
+aWNlIFN0YXRlbWVudCAoQ1BTKQp2ZXJzaW9uIDIuMCwgYXZhaWxhYmxlIGluIHRo
+ZSBNaWNyb3NvZnQgcmVwb3NpdG9yeSBhdDoKaHR0cHM6Ly93d3cubWljcm9zb2Z0
+LmNvbTsgYnkgRS1tYWlsIGF0IENQUy1yZXF1ZXN0c0BtaWNyb3NvZnQuY29tOyBv
+cgpieSBtYWlsIGF0IE1pY3Jvc29mdCBDb3JwLCBkZXB0LiBDUFMsMSBNaWNyb3Nv
+ZnQgV2F5LFJlZG1vbmQsIFdBIDk4MDUyClVTQSBDb3B5cmlnaHQgKGMpMTk5OSBN
+aWNyb3NvZnQgQ29ycC4gIEFsbCBSaWdodHMgUmVzZXJ2ZWQuIENFUlRBSU4KV0FS
+UkFOVElFUyBESVNDTEFJTUVEIEFORCBMSUFCSUxJVFkgTElNSVRFRC4KCldBUk5J
+Tkc6IFRIRSBVU0UgT0YgVEhJUyBDRVJUSUZJQ0FURSBJUyBTVFJJQ1RMWSBTVUJK
+RUNUIFRPIFRIRQpWRVJJU0lHTiBDRVJUSUZJQ0FUSU9OIFBSQUNUSUNFIFNUQVRF
+TUVOVC4gIFRIRSBJU1NVSU5HIEFVVEhPUklUWQpESVNDTEFJTVMgQ0VSVEFJTiBJ
+TVBMSUVEIEFORCBFWFBSRVNTIFdBUlJBTlRJRVMsIElOQ0xVRElORyBXQVJSQU5U
+SUVTCk9GIE1FUkNIQU5UQUJJTElUWSBPUiBGSVRORVNTIEZPUiBBIFBBUlRJQ1VM
+QVIgUFVSUE9TRSwgQU5EIFdJTEwgTk9UCkJFIExJQUJMRSBGT1IgQ09OU0VRVUVO
+VElBTCwgUFVOSVRJVkUsIEFORCBDRVJUQUlOIE9USEVSIERBTUFHRVMuIFNFRQpU
+SEUgQ1BTIEZPUiBERVRBSUxTLgoKQ29udGVudHMgb2YgdGhlIE1pY3Jvc29mdCBy
+ZWdpc3RlcmVkIG5vbnZlcmlmaWVkU3ViamVjdEF0dHJpYnV0ZXMKZXh0ZW5zaW9u
+IHZhbHVlIHNoYWxsIG5vdCBiZSBjb25zaWRlcmVkIGFzIGFjY3VyYXRlIGluZm9y
+bWF0aW9uCnZhbGlkYXRlZCBieSB0aGUgSUEuCqM2gDRodHRwczovL3d3dy5taWNy
+b3NvZnQuY29tL3JlcG9zaXRvcnkvbXNjcHNsb2dvLmdpZjANBgkqhkiG9w0BAQQF
+AAOCAQEAJKvt93JERJhx9tG5tWng7xywTASYD79MqXRHsIShSOKBs+rhyVOSUxHI
+RbqIdmjN3L7zoGWAdteTA2mNx7x6rol83xIQCqYpptTlm1WryuxL2cEoN9DWcTht
+XnX9ZqsqwLkkb55CMw9xtG6m97ojGnTtzbGuCjKoXCYW+jF2I+inJIDx3kW1Qr3x
+WAiP4vJwhi4TgyTeUIiIwCMyWXT6el9z12O9WJ3AaLBTIXFQRbgnzzzlZPt8E4vB
+AT6Q2UP3PswZFrO2Fo8nevlG7Yra58WRwsgqCCFauHqITqYqpfftIAEUSFbfV31v
+v5V1GCkXGYSjE2FUgsNVWD2Do5B1qg==
+-----END CERTIFICATE-----
+
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:1a:02:b7:00:02:00:00:00:12
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Copyright (c) 1999 Microsoft Corp., CN=Microsoft Enforced Licensing Intermediate PCA
+        Validity
+            Not Before: Dec 11 00:03:58 2009 GMT
+            Not After : Oct 23 08:00:00 2016 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Copyright (c) 2003 Microsoft Corp., CN=Microsoft Enforced Licensing Registration Authority CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8e:98:07:ed:46:50:30:aa:8a:95:5e:36:7f:bc:
+                    71:30:a1:1d:49:cf:e7:96:ff:2f:9a:09:16:12:f0:
+                    98:31:55:45:52:40:63:7d:57:67:46:a2:2b:08:98:
+                    6d:9b:c6:69:25:40:87:49:e7:01:37:84:00:1d:69:
+                    9d:85:2f:e1:a0:2c:27:83:4c:75:60:8b:2c:eb:f9:
+                    90:8e:5e:4a:8f:fd:d3:5b:8c:89:c8:0f:f8:cf:2e:
+                    9f:3c:8a:3d:41:cc:b6:84:0c:9c:73:97:46:dd:52:
+                    26:12:a5:44:8d:df:0a:50:1f:4a:79:dc:e3:19:3c:
+                    ef:ed:82:c9:89:14:91:fd:99:69:a4:f2:8a:a6:c8:
+                    8e:bd:38:3b:80:30:8a:59:c8:a0:ab:de:71:44:1b:
+                    24:f9:b9:a1:8f:19:9d:fd:19:b4:69:16:17:a2:23:
+                    31:a7:11:12:65:cd:c0:9d:78:5d:42:e5:95:8e:13:
+                    2f:ac:f8:00:87:6e:96:ef:73:d4:0f:7e:3c:9f:81:
+                    47:d0:1f:8f:79:1d:3c:3f:cb:ae:34:22:d6:cd:fc:
+                    21:80:35:11:0d:a9:90:cc:55:b4:65:fc:2d:37:7d:
+                    80:7a:97:ee:5b:4a:c5:3e:8b:03:aa:ae:4d:22:37:
+                    66:70:84:1c:69:c5:d7:97:9a:8f:1e:3a:b2:24:84:
+                    8f:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier:
+                B4:A1:D8:DE:FB:0E:C4:CB:9D:9F:06:CF:36:0D:91:1A:F8:9F:5B:E3
+            X509v3 Key Usage:
+                Digital Signature, Non Repudiation, Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.1:
+                .....
+            1.3.6.1.4.1.311.21.2:
+                ....x8g.).k/.T..p_....
+            1.3.6.1.4.1.311.20.2:
+                .
+.S.u.b.C.A
+            X509v3 Authority Key Identifier:
+                keyid:6A:97:E0:C8:9F:F4:49:B4:89:24:B3:E3:D1:A8:22:86:AA:D4:94:43
+ 
+            X509v3 CRL Distribution Points:
+ 
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/MicEnfLicPCA_12-10-09.crl
+ 
+            X509v3 Extended Key Usage:
+                Code Signing, 1.3.6.1.4.1.311.10.6.2
+            1.3.6.1.4.1.311.2.1.10: critical
+                0....).'https://www.microsoft.com/repository/CPS........This certificate incorporates by reference, and its use is strictly
+subject to, the Microsoft Certification Practice Statement (CPS)
+version 2.0, available in the Microsoft repository at:
+https://www.microsoft.com; by E-mail at CPS-requests@microsoft.com; or
+by mail at Microsoft Corp, dept. CPS,1 Microsoft Way,Redmond, WA 98052
+USA Copyright (c)1999 Microsoft Corp.  All Rights Reserved. CERTAIN
+WARRANTIES DISCLAIMED AND LIABILITY LIMITED.
+ 
+WARNING: THE USE OF THIS CERTIFICATE IS STRICTLY SUBJECT TO THE
+VERISIGN CERTIFICATION PRACTICE STATEMENT.  THE ISSUING AUTHORITY
+DISCLAIMS CERTAIN IMPLIED AND EXPRESS WARRANTIES, INCLUDING WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND WILL NOT
+BE LIABLE FOR CONSEQUENTIAL, PUNITIVE, AND CERTAIN OTHER DAMAGES. SEE
+THE CPS FOR DETAILS.
+ 
+Contents of the Microsoft registered nonverifiedSubjectAttributes
+extension value shall not be considered as accurate information
+validated by the IA.
+.6.4https://www.microsoft.com/repository/mscpslogo.gif
+    Signature Algorithm: md5WithRSAEncryption
+        24:ab:ed:f7:72:44:44:98:71:f6:d1:b9:b5:69:e0:ef:1c:b0:
+        4c:04:98:0f:bf:4c:a9:74:47:b0:84:a1:48:e2:81:b3:ea:e1:
+        c9:53:92:53:11:c8:45:ba:88:76:68:cd:dc:be:f3:a0:65:80:
+        76:d7:93:03:69:8d:c7:bc:7a:ae:89:7c:df:12:10:0a:a6:29:
+        a6:d4:e5:9b:55:ab:ca:ec:4b:d9:c1:28:37:d0:d6:71:38:6d:
+        5e:75:fd:66:ab:2a:c0:b9:24:6f:9e:42:33:0f:71:b4:6e:a6:
+        f7:ba:23:1a:74:ed:cd:b1:ae:0a:32:a8:5c:26:16:fa:31:76:
+        23:e8:a7:24:80:f1:de:45:b5:42:bd:f1:58:08:8f:e2:f2:70:
+        86:2e:13:83:24:de:50:88:88:c0:23:32:59:74:fa:7a:5f:73:
+        d7:63:bd:58:9d:c0:68:b0:53:21:71:50:45:b8:27:cf:3c:e5:
+        64:fb:7c:13:8b:c1:01:3e:90:d9:43:f7:3e:cc:19:16:b3:b6:
+        16:8f:27:7a:f9:46:ed:8a:da:e7:c5:91:c2:c8:2a:08:21:5a:
+        b8:7a:88:4e:a6:2a:a5:f7:ed:20:01:14:48:56:df:57:7d:6f:
+        bf:95:75:18:29:17:19:84:a3:13:61:54:82:c3:55:58:3d:83:
+        a3:90:75:aa
+        
+-----BEGIN CERTIFICATE-----
+MIIJcjCCCFqgAwIBAgIKYRoCtwACAAAAEjANBgkqhkiG9w0BAQQFADCBuTELMAkG
+A1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQx
+HjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjErMCkGA1UECxMiQ29weXJp
+Z2h0IChjKSAxOTk5IE1pY3Jvc29mdCBDb3JwLjE2MDQGA1UEAxMtTWljcm9zb2Z0
+IEVuZm9yY2VkIExpY2Vuc2luZyBJbnRlcm1lZGlhdGUgUENBMB4XDTA5MTIxMTAw
+MDM1OFoXDTE2MTAyMzA4MDAwMFowgcIxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpX
+YXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQg
+Q29ycG9yYXRpb24xKzApBgNVBAsTIkNvcHlyaWdodCAoYykgMjAwMyBNaWNyb3Nv
+ZnQgQ29ycC4xPzA9BgNVBAMTNk1pY3Jvc29mdCBFbmZvcmNlZCBMaWNlbnNpbmcg
+UmVnaXN0cmF0aW9uIEF1dGhvcml0eSBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAI6YB+1GUDCqipVeNn+8cTChHUnP55b/L5oJFhLwmDFVRVJAY31X
+Z0aiKwiYbZvGaSVAh0nnATeEAB1pnYUv4aAsJ4NMdWCLLOv5kI5eSo/901uMicgP
++M8unzyKPUHMtoQMnHOXRt1SJhKlRI3fClAfSnnc4xk87+2CyYkUkf2ZaaTyiqbI
+jr04O4AwilnIoKvecUQbJPm5oY8Znf0ZtGkWF6IjMacREmXNwJ14XULllY4TL6z4
+AIdulu9z1A9+PJ+BR9Afj3kdPD/LrjQi1s38IYA1EQ2pkMxVtGX8LTd9gHqX7ltK
+xT6LA6quTSI3ZnCEHGnF15eajx46siSEj+8CAwEAAaOCBW8wggVrMA8GA1UdEwEB
+/wQFMAMBAf8wHQYDVR0OBBYEFLSh2N77DsTLnZ8GzzYNkRr4n1vjMAsGA1UdDwQE
+AwIBxjASBgkrBgEEAYI3FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQWBBSbkHg4Z5Up
+gGsv41SWGnBf8cMRrTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTAfBgNVHSME
+GDAWgBRql+DIn/RJtIkks+PRqCKGqtSUQzBUBgNVHR8ETTBLMEmgR6BFhkNodHRw
+Oi8vY3JsLm1pY3Jvc29mdC5jb20vcGtpL2NybC9wcm9kdWN0cy9NaWNFbmZMaWNQ
+Q0FfMTItMTAtMDkuY3JsMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgYC
+MIIEPgYKKwYBBAGCNwIBCgEB/wSCBCswggQfoCmAJ2h0dHBzOi8vd3d3Lm1pY3Jv
+c29mdC5jb20vcmVwb3NpdG9yeS9DUFOhggO4gYIDtFRoaXMgY2VydGlmaWNhdGUg
+aW5jb3Jwb3JhdGVzIGJ5IHJlZmVyZW5jZSwgYW5kIGl0cyB1c2UgaXMgc3RyaWN0
+bHkKc3ViamVjdCB0bywgdGhlIE1pY3Jvc29mdCBDZXJ0aWZpY2F0aW9uIFByYWN0
+aWNlIFN0YXRlbWVudCAoQ1BTKQp2ZXJzaW9uIDIuMCwgYXZhaWxhYmxlIGluIHRo
+ZSBNaWNyb3NvZnQgcmVwb3NpdG9yeSBhdDoKaHR0cHM6Ly93d3cubWljcm9zb2Z0
+LmNvbTsgYnkgRS1tYWlsIGF0IENQUy1yZXF1ZXN0c0BtaWNyb3NvZnQuY29tOyBv
+cgpieSBtYWlsIGF0IE1pY3Jvc29mdCBDb3JwLCBkZXB0LiBDUFMsMSBNaWNyb3Nv
+ZnQgV2F5LFJlZG1vbmQsIFdBIDk4MDUyClVTQSBDb3B5cmlnaHQgKGMpMTk5OSBN
+aWNyb3NvZnQgQ29ycC4gIEFsbCBSaWdodHMgUmVzZXJ2ZWQuIENFUlRBSU4KV0FS
+UkFOVElFUyBESVNDTEFJTUVEIEFORCBMSUFCSUxJVFkgTElNSVRFRC4KCldBUk5J
+Tkc6IFRIRSBVU0UgT0YgVEhJUyBDRVJUSUZJQ0FURSBJUyBTVFJJQ1RMWSBTVUJK
+RUNUIFRPIFRIRQpWRVJJU0lHTiBDRVJUSUZJQ0FUSU9OIFBSQUNUSUNFIFNUQVRF
+TUVOVC4gIFRIRSBJU1NVSU5HIEFVVEhPUklUWQpESVNDTEFJTVMgQ0VSVEFJTiBJ
+TVBMSUVEIEFORCBFWFBSRVNTIFdBUlJBTlRJRVMsIElOQ0xVRElORyBXQVJSQU5U
+SUVTCk9GIE1FUkNIQU5UQUJJTElUWSBPUiBGSVRORVNTIEZPUiBBIFBBUlRJQ1VM
+QVIgUFVSUE9TRSwgQU5EIFdJTEwgTk9UCkJFIExJQUJMRSBGT1IgQ09OU0VRVUVO
+VElBTCwgUFVOSVRJVkUsIEFORCBDRVJUQUlOIE9USEVSIERBTUFHRVMuIFNFRQpU
+SEUgQ1BTIEZPUiBERVRBSUxTLgoKQ29udGVudHMgb2YgdGhlIE1pY3Jvc29mdCBy
+ZWdpc3RlcmVkIG5vbnZlcmlmaWVkU3ViamVjdEF0dHJpYnV0ZXMKZXh0ZW5zaW9u
+IHZhbHVlIHNoYWxsIG5vdCBiZSBjb25zaWRlcmVkIGFzIGFjY3VyYXRlIGluZm9y
+bWF0aW9uCnZhbGlkYXRlZCBieSB0aGUgSUEuCqM2gDRodHRwczovL3d3dy5taWNy
+b3NvZnQuY29tL3JlcG9zaXRvcnkvbXNjcHNsb2dvLmdpZjANBgkqhkiG9w0BAQQF
+AAOCAQEAJKvt93JERJhx9tG5tWng7xywTASYD79MqXRHsIShSOKBs+rhyVOSUxHI
+RbqIdmjN3L7zoGWAdteTA2mNx7x6rol83xIQCqYpptTlm1WryuxL2cEoN9DWcTht
+XnX9ZqsqwLkkb55CMw9xtG6m97ojGnTtzbGuCjKoXCYW+jF2I+inJIDx3kW1Qr3x
+WAiP4vJwhi4TgyTeUIiIwCMyWXT6el9z12O9WJ3AaLBTIXFQRbgnzzzlZPt8E4vB
+AT6Q2UP3PswZFrO2Fo8nevlG7Yra58WRwsgqCCFauHqITqYqpfftIAEUSFbfV31v
+v5V1GCkXGYSjE2FUgsNVWD2Do5B1qg==
+-----END CERTIFICATE-----
+
+
+Here's the raw ASN.1 pre-decode dump from Didier's tool:
+http://blog.didierstevens.com/2012/06/06/flame-authenticode-dumps-kb2718704/
+
+021:d=7  hl=2 l=   1 prim: INTEGER           :02
+2024:d=6  hl=2 l=  15 prim: INTEGER           :C1008B3C3C8811D13EF663ECDF40
+2041:d=6  hl=2 l=  13 cons: SEQUENCE
+2043:d=7  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+2054:d=7  hl=2 l=   0 prim: NULL
+2056:d=6  hl=2 l= 112 cons: SEQUENCE
+2058:d=7  hl=2 l=  43 cons: SET
+2060:d=8  hl=2 l=  41 cons: SEQUENCE
+2062:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+2067:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 1997 Microsoft Corp.
+2103:d=7  hl=2 l=  30 cons: SET
+2105:d=8  hl=2 l=  28 cons: SEQUENCE
+2107:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+2112:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+2135:d=7  hl=2 l=  33 cons: SET
+2137:d=8  hl=2 l=  31 cons: SEQUENCE
+2139:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+2144:d=9  hl=2 l=  24 prim: PRINTABLESTRING   :Microsoft Root Authority
+2170:d=6  hl=2 l=  30 cons: SEQUENCE
+2172:d=7  hl=2 l=  13 prim: UTCTIME           :970110070000Z
+2187:d=7  hl=2 l=  13 prim: UTCTIME           :201231070000Z
+2202:d=6  hl=2 l= 112 cons: SEQUENCE
+2204:d=7  hl=2 l=  43 cons: SET
+2206:d=8  hl=2 l=  41 cons: SEQUENCE
+2208:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+2213:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 1997 Microsoft Corp.
+2249:d=7  hl=2 l=  30 cons: SET
+2251:d=8  hl=2 l=  28 cons: SEQUENCE
+2253:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+2258:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+2281:d=7  hl=2 l=  33 cons: SET
+2283:d=8  hl=2 l=  31 cons: SEQUENCE
+2285:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+2290:d=9  hl=2 l=  24 prim: PRINTABLESTRING   :Microsoft Root Authority
+2316:d=6  hl=4 l= 290 cons: SEQUENCE
+2320:d=7  hl=2 l=  13 cons: SEQUENCE
+2322:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+2333:d=8  hl=2 l=   0 prim: NULL
+2335:d=7  hl=4 l= 271 prim: BIT STRING
+2610:d=6  hl=3 l= 168 cons: cont [ 3 ]
+2613:d=7  hl=3 l= 165 cons: SEQUENCE
+2616:d=8  hl=3 l= 162 cons: SEQUENCE
+2619:d=9  hl=2 l=   3 prim: OBJECT            :2.5.29.1
+2624:d=9  hl=3 l= 154 prim: OCTET STRING      [HEX DUMP]:30819780105BD070EF69729E23517E14B24D8EFFCBA1723070312B3029060355040B1322436F70797269676874202863292031393937204D6963726F736F667420436F72702E311E301C060355040B13154D6963726F736F667420436F72706F726174696F6E3121301F060355040313184D6963726F736F667420526F6F7420417574686F72697479820F00C1008B3C3C8811D13EF663ECDF40
+2781:d=5  hl=2 l=  13 cons: SEQUENCE
+2783:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+2794:d=6  hl=2 l=   0 prim: NULL
+2796:d=5  hl=4 l= 257 prim: BIT STRING
+3057:d=4  hl=4 l=1219 cons: SEQUENCE
+3061:d=5  hl=4 l= 939 cons: SEQUENCE
+3065:d=6  hl=2 l=   3 cons: cont [ 0 ]
+3067:d=7  hl=2 l=   1 prim: INTEGER           :02
+3070:d=6  hl=2 l=  10 prim: INTEGER           :3AAB11DEE52F1B19D056
+3082:d=6  hl=2 l=  13 cons: SEQUENCE
+3084:d=7  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+3095:d=7  hl=2 l=   0 prim: NULL
+3097:d=6  hl=2 l= 112 cons: SEQUENCE
+3099:d=7  hl=2 l=  43 cons: SET
+3101:d=8  hl=2 l=  41 cons: SEQUENCE
+3103:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+3108:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 1997 Microsoft Corp.
+3144:d=7  hl=2 l=  30 cons: SET
+3146:d=8  hl=2 l=  28 cons: SEQUENCE
+3148:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+3153:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+3176:d=7  hl=2 l=  33 cons: SET
+3178:d=8  hl=2 l=  31 cons: SEQUENCE
+3180:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+3185:d=9  hl=2 l=  24 prim: PRINTABLESTRING   :Microsoft Root Authority
+3211:d=6  hl=2 l=  30 cons: SEQUENCE
+3213:d=7  hl=2 l=  13 prim: UTCTIME           :091210015535Z
+3228:d=7  hl=2 l=  13 prim: UTCTIME           :161023080000Z
+3243:d=6  hl=3 l= 185 cons: SEQUENCE
+3246:d=7  hl=2 l=  11 cons: SET
+3248:d=8  hl=2 l=   9 cons: SEQUENCE
+3250:d=9  hl=2 l=   3 prim: OBJECT            :countryName
+3255:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :US
+3259:d=7  hl=2 l=  19 cons: SET
+3261:d=8  hl=2 l=  17 cons: SEQUENCE
+3263:d=9  hl=2 l=   3 prim: OBJECT            :stateOrProvinceName
+3268:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :Washington
+3280:d=7  hl=2 l=  16 cons: SET
+3282:d=8  hl=2 l=  14 cons: SEQUENCE
+3284:d=9  hl=2 l=   3 prim: OBJECT            :localityName
+3289:d=9  hl=2 l=   7 prim: PRINTABLESTRING   :Redmond
+3298:d=7  hl=2 l=  30 cons: SET
+3300:d=8  hl=2 l=  28 cons: SEQUENCE
+3302:d=9  hl=2 l=   3 prim: OBJECT            :organizationName
+3307:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+3330:d=7  hl=2 l=  43 cons: SET
+3332:d=8  hl=2 l=  41 cons: SEQUENCE
+3334:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+3339:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 1999 Microsoft Corp.
+3375:d=7  hl=2 l=  54 cons: SET
+3377:d=8  hl=2 l=  52 cons: SEQUENCE
+3379:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+3384:d=9  hl=2 l=  45 prim: PRINTABLESTRING   :Microsoft Enforced Licensing Intermediate PCA
+3431:d=6  hl=4 l= 290 cons: SEQUENCE
+3435:d=7  hl=2 l=  13 cons: SEQUENCE
+3437:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+3448:d=8  hl=2 l=   0 prim: NULL
+3450:d=7  hl=4 l= 271 prim: BIT STRING
+3725:d=6  hl=4 l= 275 cons: cont [ 3 ]
+3729:d=7  hl=4 l= 271 cons: SEQUENCE
+3733:d=8  hl=2 l=  43 cons: SEQUENCE
+3735:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Extended Key Usage
+3740:d=9  hl=2 l=  36 prim: OCTET STRING      [HEX DUMP]:302206082B06010505070303060A2B0601040182370A0601060A2B0601040182370A0602
+3778:d=8  hl=3 l= 162 cons: SEQUENCE
+3781:d=9  hl=2 l=   3 prim: OBJECT            :2.5.29.1
+3786:d=9  hl=3 l= 154 prim: OCTET STRING      [HEX DUMP]:30819780105BD070EF69729E23517E14B24D8EFFCBA1723070312B3029060355040B1322436F70797269676874202863292031393937204D6963726F736F667420436F72702E311E301C060355040B13154D6963726F736F667420436F72706F726174696F6E3121301F060355040313184D6963726F736F667420526F6F7420417574686F72697479820F00C1008B3C3C8811D13EF663ECDF40
+3943:d=8  hl=2 l=  15 cons: SEQUENCE
+3945:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Basic Constraints
+3950:d=9  hl=2 l=   1 prim: BOOLEAN           :255
+3953:d=9  hl=2 l=   5 prim: OCTET STRING      [HEX DUMP]:30030101FF
+3960:d=8  hl=2 l=  29 cons: SEQUENCE
+3962:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Subject Key Identifier
+3967:d=9  hl=2 l=  22 prim: OCTET STRING      [HEX DUMP]:04146A97E0C89FF449B48924B3E3D1A82286AAD49443
+3991:d=8  hl=2 l=  11 cons: SEQUENCE
+3993:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Key Usage
+3998:d=9  hl=2 l=   4 prim: OCTET STRING      [HEX DUMP]:03020186
+4004:d=5  hl=2 l=  13 cons: SEQUENCE
+4006:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+4017:d=6  hl=2 l=   0 prim: NULL
+4019:d=5  hl=4 l= 257 prim: BIT STRING
+4280:d=4  hl=4 l=1326 cons: SEQUENCE
+4284:d=5  hl=4 l=1046 cons: SEQUENCE
+4288:d=6  hl=2 l=   3 cons: cont [ 0 ]
+4290:d=7  hl=2 l=   1 prim: INTEGER           :02
+4293:d=6  hl=2 l=  10 prim: INTEGER           :14515B02000000000008
+4305:d=6  hl=2 l=  13 cons: SEQUENCE
+4307:d=7  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+4318:d=7  hl=2 l=   0 prim: NULL
+4320:d=6  hl=3 l= 128 cons: SEQUENCE
+4323:d=7  hl=2 l=  19 cons: SET
+4325:d=8  hl=2 l=  17 cons: SEQUENCE
+4327:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+4339:d=9  hl=2 l=   3 prim: IA5STRING         :com
+4344:d=7  hl=2 l=  25 cons: SET
+4346:d=8  hl=2 l=  23 cons: SEQUENCE
+4348:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+4360:d=9  hl=2 l=   9 prim: IA5STRING         :microsoft
+4371:d=7  hl=2 l=  24 cons: SET
+4373:d=8  hl=2 l=  22 cons: SEQUENCE
+4375:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+4387:d=9  hl=2 l=   8 prim: IA5STRING         :extranet
+4397:d=7  hl=2 l=  24 cons: SET
+4399:d=8  hl=2 l=  22 cons: SEQUENCE
+4401:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+4413:d=9  hl=2 l=   8 prim: IA5STRING         :partners
+4423:d=7  hl=2 l=  26 cons: SET
+4425:d=8  hl=2 l=  24 cons: SEQUENCE
+4427:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+4432:d=9  hl=2 l=  17 prim: PRINTABLESTRING   :Microsoft LSRA PA
+4451:d=6  hl=2 l=  30 cons: SEQUENCE
+4453:d=7  hl=2 l=  13 prim: UTCTIME           :100223192136Z
+4468:d=7  hl=2 l=  13 prim: UTCTIME           :120219214839Z
+4483:d=6  hl=2 l=  93 cons: SEQUENCE
+4485:d=7  hl=2 l=  11 cons: SET
+4487:d=8  hl=2 l=   9 cons: SEQUENCE
+4489:d=9  hl=2 l=   3 prim: OBJECT            :countryName
+4494:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :US
+4498:d=7  hl=2 l=  19 cons: SET
+4500:d=8  hl=2 l=  17 cons: SEQUENCE
+4502:d=9  hl=2 l=   3 prim: OBJECT            :stateOrProvinceName
+4507:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :Washington
+4519:d=7  hl=2 l=  16 cons: SET
+4521:d=8  hl=2 l=  14 cons: SEQUENCE
+4523:d=9  hl=2 l=   3 prim: OBJECT            :localityName
+4528:d=9  hl=2 l=   7 prim: PRINTABLESTRING   :Redmond
+4537:d=7  hl=2 l=  18 cons: SET
+4539:d=8  hl=2 l=  16 cons: SEQUENCE
+4541:d=9  hl=2 l=   3 prim: OBJECT            :organizationName
+4546:d=9  hl=2 l=   9 prim: PRINTABLESTRING   :Microsoft
+4557:d=7  hl=2 l=  19 cons: SET
+4559:d=8  hl=2 l=  17 cons: SEQUENCE
+4561:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+4566:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :TLS Server
+4578:d=6  hl=3 l= 159 cons: SEQUENCE
+4581:d=7  hl=2 l=  13 cons: SEQUENCE
+4583:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+4594:d=8  hl=2 l=   0 prim: NULL
+4596:d=7  hl=3 l= 141 prim: BIT STRING
+4740:d=6  hl=4 l= 590 cons: cont [ 3 ]
+4744:d=7  hl=4 l= 586 cons: SEQUENCE
+4748:d=8  hl=2 l=  14 cons: SEQUENCE
+4750:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Key Usage
+4755:d=9  hl=2 l=   1 prim: BOOLEAN           :255
+4758:d=9  hl=2 l=   4 prim: OCTET STRING      [HEX DUMP]:030206C0
+4764:d=8  hl=2 l=  29 cons: SEQUENCE
+4766:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Subject Key Identifier
+4771:d=9  hl=2 l=  22 prim: OCTET STRING      [HEX DUMP]:0414C501E320B18803517E6513A8B1627DD0CC6BD917
+4795:d=8  hl=2 l=  31 cons: SEQUENCE
+4797:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Authority Key Identifier
+4802:d=9  hl=2 l=  24 prim: OCTET STRING      [HEX DUMP]:3016801475E803585DFB65E4D9A6AC17B6037E47AD2E81AF
+4828:d=8  hl=3 l= 194 cons: SEQUENCE
+4831:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 CRL Distribution Points
+4836:d=9  hl=3 l= 186 prim: OCTET STRING      [HEX DUMP]:3081B73081B4A081B1A081AE8656687474703A2F2F746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D2F43657274456E726F6C6C2F4D6963726F736F66742532304C53524125323050412E63726C865466696C653A2F2F5C5C746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D5C43657274456E726F6C6C5C4D6963726F736F6674204C5352412050412E63726C
+5025:d=8  hl=4 l= 305 cons: SEQUENCE
+5029:d=9  hl=2 l=   8 prim: OBJECT            :Authority Information Access
+5039:d=9  hl=4 l= 291 prim: OCTET STRING      [HEX DUMP]:3082011F30818E06082B06010505073002868181687474703A2F2F746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D2F43657274456E726F6C6C2F746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D5F4D6963726F736F66742532304C53524125323050412E63727430818B06082B06010505073002867F66696C653A2F2F5C5C746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D5C43657274456E726F6C6C5C746B78706173727633362E706172746E6572732E65787472616E65742E6D6963726F736F66742E636F6D5F4D6963726F736F6674204C5352412050412E637274
+5334:d=5  hl=2 l=  13 cons: SEQUENCE
+5336:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+5347:d=6  hl=2 l=   0 prim: NULL
+5349:d=5  hl=4 l= 257 prim: BIT STRING
+5610:d=4  hl=4 l=1388 cons: SEQUENCE
+5614:d=5  hl=4 l=1108 cons: SEQUENCE
+5618:d=6  hl=2 l=   3 cons: cont [ 0 ]
+5620:d=7  hl=2 l=   1 prim: INTEGER           :02
+5623:d=6  hl=2 l=  10 prim: INTEGER           :610373C500010000001A
+5635:d=6  hl=2 l=  13 cons: SEQUENCE
+5637:d=7  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+5648:d=7  hl=2 l=   0 prim: NULL
+5650:d=6  hl=3 l= 194 cons: SEQUENCE
+5653:d=7  hl=2 l=  11 cons: SET
+5655:d=8  hl=2 l=   9 cons: SEQUENCE
+5657:d=9  hl=2 l=   3 prim: OBJECT            :countryName
+5662:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :US
+5666:d=7  hl=2 l=  19 cons: SET
+5668:d=8  hl=2 l=  17 cons: SEQUENCE
+5670:d=9  hl=2 l=   3 prim: OBJECT            :stateOrProvinceName
+5675:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :Washington
+5687:d=7  hl=2 l=  16 cons: SET
+5689:d=8  hl=2 l=  14 cons: SEQUENCE
+5691:d=9  hl=2 l=   3 prim: OBJECT            :localityName
+5696:d=9  hl=2 l=   7 prim: PRINTABLESTRING   :Redmond
+5705:d=7  hl=2 l=  30 cons: SET
+5707:d=8  hl=2 l=  28 cons: SEQUENCE
+5709:d=9  hl=2 l=   3 prim: OBJECT            :organizationName
+5714:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+5737:d=7  hl=2 l=  43 cons: SET
+5739:d=8  hl=2 l=  41 cons: SEQUENCE
+5741:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+5746:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 2003 Microsoft Corp.
+5782:d=7  hl=2 l=  63 cons: SET
+5784:d=8  hl=2 l=  61 cons: SEQUENCE
+5786:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+5791:d=9  hl=2 l=  54 prim: PRINTABLESTRING   :Microsoft Enforced Licensing Registration Authority CA
+5847:d=6  hl=2 l=  30 cons: SEQUENCE
+5849:d=7  hl=2 l=  13 prim: UTCTIME           :100219214839Z
+5864:d=7  hl=2 l=  13 prim: UTCTIME           :120219214839Z
+5879:d=6  hl=3 l= 128 cons: SEQUENCE
+5882:d=7  hl=2 l=  19 cons: SET
+5884:d=8  hl=2 l=  17 cons: SEQUENCE
+5886:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+5898:d=9  hl=2 l=   3 prim: IA5STRING         :com
+5903:d=7  hl=2 l=  25 cons: SET
+5905:d=8  hl=2 l=  23 cons: SEQUENCE
+5907:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+5919:d=9  hl=2 l=   9 prim: IA5STRING         :microsoft
+5930:d=7  hl=2 l=  24 cons: SET
+5932:d=8  hl=2 l=  22 cons: SEQUENCE
+5934:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+5946:d=9  hl=2 l=   8 prim: IA5STRING         :extranet
+5956:d=7  hl=2 l=  24 cons: SET
+5958:d=8  hl=2 l=  22 cons: SEQUENCE
+5960:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+5972:d=9  hl=2 l=   8 prim: IA5STRING         :partners
+5982:d=7  hl=2 l=  26 cons: SET
+5984:d=8  hl=2 l=  24 cons: SEQUENCE
+5986:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+5991:d=9  hl=2 l=  17 prim: PRINTABLESTRING   :Microsoft LSRA PA
+6010:d=6  hl=4 l= 290 cons: SEQUENCE
+6014:d=7  hl=2 l=  13 cons: SEQUENCE
+6016:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+6027:d=8  hl=2 l=   0 prim: NULL
+6029:d=7  hl=4 l= 271 prim: BIT STRING
+6304:d=6  hl=4 l= 418 cons: cont [ 3 ]
+6308:d=7  hl=4 l= 414 cons: SEQUENCE
+6312:d=8  hl=2 l=  18 cons: SEQUENCE
+6314:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Basic Constraints
+6319:d=9  hl=2 l=   1 prim: BOOLEAN           :255
+6322:d=9  hl=2 l=   8 prim: OCTET STRING      [HEX DUMP]:30060101FF020100
+6332:d=8  hl=2 l=  29 cons: SEQUENCE
+6334:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Subject Key Identifier
+6339:d=9  hl=2 l=  22 prim: OCTET STRING      [HEX DUMP]:041475E803585DFB65E4D9A6AC17B6037E47AD2E81AF
+6363:d=8  hl=2 l=  11 cons: SEQUENCE
+6365:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Key Usage
+6370:d=9  hl=2 l=   4 prim: OCTET STRING      [HEX DUMP]:03020186
+6376:d=8  hl=2 l=  16 cons: SEQUENCE
+6378:d=9  hl=2 l=   9 prim: OBJECT            :1.3.6.1.4.1.311.21.1
+6389:d=9  hl=2 l=   3 prim: OCTET STRING      [HEX DUMP]:020100
+6394:d=8  hl=2 l=  25 cons: SEQUENCE
+6396:d=9  hl=2 l=   9 prim: OBJECT            :1.3.6.1.4.1.311.20.2
+6407:d=9  hl=2 l=  12 prim: OCTET STRING      [HEX DUMP]:1E0A00530075006200430041
+6421:d=8  hl=2 l=  31 cons: SEQUENCE
+6423:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Authority Key Identifier
+6428:d=9  hl=2 l=  24 prim: OCTET STRING      [HEX DUMP]:30168014B4A1D8DEFB0EC4CB9D9F06CF360D911AF89F5BE3
+6454:d=8  hl=3 l= 172 cons: SEQUENCE
+6457:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 CRL Distribution Points
+6462:d=9  hl=3 l= 164 prim: OCTET STRING      [HEX DUMP]:3081A130819EA0819BA08198864A687474703A2F2F63726C2E6D6963726F736F66742E636F6D2F706B692F63726C2F70726F64756374732F4D6963456E664C696352656741757443415F323030392D31322D31302E63726C864A687474703A2F2F7777772E6D6963726F736F66742E636F6D2F706B692F63726C2F70726F64756374732F4D6963456E664C696352656741757443415F323030392D31322D31302E63726C
+6629:d=8  hl=2 l=  95 cons: SEQUENCE
+6631:d=9  hl=2 l=   8 prim: OBJECT            :Authority Information Access
+6641:d=9  hl=2 l=  83 prim: OCTET STRING      [HEX DUMP]:3051304F06082B060105050730028643687474703A2F2F7777772E6D6963726F736F66742E636F6D2F706B692F63657274732F4D6963456E664C696352656741757443415F323030392D31322D31302E637274
+6726:d=5  hl=2 l=  13 cons: SEQUENCE
+6728:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+6739:d=6  hl=2 l=   0 prim: NULL
+6741:d=5  hl=4 l= 257 prim: BIT STRING
+7002:d=4  hl=4 l=1664 cons: SEQUENCE
+7006:d=5  hl=4 l=1384 cons: SEQUENCE
+7010:d=6  hl=2 l=   3 cons: cont [ 0 ]
+7012:d=7  hl=2 l=   1 prim: INTEGER           :02
+7015:d=6  hl=2 l=   2 prim: INTEGER           :1B7E
+7019:d=6  hl=2 l=   9 cons: SEQUENCE
+7021:d=7  hl=2 l=   5 prim: OBJECT            :md5WithRSA
+7028:d=7  hl=2 l=   0 prim: NULL
+7030:d=6  hl=3 l= 128 cons: SEQUENCE
+7033:d=7  hl=2 l=  19 cons: SET
+7035:d=8  hl=2 l=  17 cons: SEQUENCE
+7037:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+7049:d=9  hl=2 l=   3 prim: IA5STRING         :com
+7054:d=7  hl=2 l=  25 cons: SET
+7056:d=8  hl=2 l=  23 cons: SEQUENCE
+7058:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+7070:d=9  hl=2 l=   9 prim: IA5STRING         :microsoft
+7081:d=7  hl=2 l=  24 cons: SET
+7083:d=8  hl=2 l=  22 cons: SEQUENCE
+7085:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+7097:d=9  hl=2 l=   8 prim: IA5STRING         :extranet
+7107:d=7  hl=2 l=  24 cons: SET
+7109:d=8  hl=2 l=  22 cons: SEQUENCE
+7111:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+7123:d=9  hl=2 l=   8 prim: IA5STRING         :partners
+7133:d=7  hl=2 l=  26 cons: SET
+7135:d=8  hl=2 l=  24 cons: SEQUENCE
+7137:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+7142:d=9  hl=2 l=  17 prim: PRINTABLESTRING   :Microsoft LSRA PA
+7161:d=6  hl=2 l=  30 cons: SEQUENCE
+7163:d=7  hl=2 l=  13 prim: UTCTIME           :100219214839Z
+7178:d=7  hl=2 l=  13 prim: UTCTIME           :120219214839Z
+7193:d=6  hl=2 l=  13 cons: SEQUENCE
+7195:d=7  hl=2 l=  11 cons: SET
+7197:d=8  hl=2 l=   9 cons: SEQUENCE
+7199:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+7204:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :MS
+7208:d=6  hl=4 l= 290 cons: SEQUENCE
+7212:d=7  hl=2 l=  13 cons: SEQUENCE
+7214:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+7225:d=8  hl=2 l=   0 prim: NULL
+7227:d=7  hl=4 l= 271 prim: BIT STRING
+7502:d=6  hl=4 l= 888 prim: cont [ 1 ]
+8394:d=5  hl=2 l=  13 cons: SEQUENCE
+8396:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+8407:d=6  hl=2 l=   0 prim: NULL
+8409:d=5  hl=4 l= 257 prim: BIT STRING
+8670:d=4  hl=4 l=2418 cons: SEQUENCE
+8674:d=5  hl=4 l=2138 cons: SEQUENCE
+8678:d=6  hl=2 l=   3 cons: cont [ 0 ]
+8680:d=7  hl=2 l=   1 prim: INTEGER           :02
+8683:d=6  hl=2 l=  10 prim: INTEGER           :611A02B7000200000012
+8695:d=6  hl=2 l=  13 cons: SEQUENCE
+8697:d=7  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+8708:d=7  hl=2 l=   0 prim: NULL
+8710:d=6  hl=3 l= 185 cons: SEQUENCE
+8713:d=7  hl=2 l=  11 cons: SET
+8715:d=8  hl=2 l=   9 cons: SEQUENCE
+8717:d=9  hl=2 l=   3 prim: OBJECT            :countryName
+8722:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :US
+8726:d=7  hl=2 l=  19 cons: SET
+8728:d=8  hl=2 l=  17 cons: SEQUENCE
+8730:d=9  hl=2 l=   3 prim: OBJECT            :stateOrProvinceName
+8735:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :Washington
+8747:d=7  hl=2 l=  16 cons: SET
+8749:d=8  hl=2 l=  14 cons: SEQUENCE
+8751:d=9  hl=2 l=   3 prim: OBJECT            :localityName
+8756:d=9  hl=2 l=   7 prim: PRINTABLESTRING   :Redmond
+8765:d=7  hl=2 l=  30 cons: SET
+8767:d=8  hl=2 l=  28 cons: SEQUENCE
+8769:d=9  hl=2 l=   3 prim: OBJECT            :organizationName
+8774:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+8797:d=7  hl=2 l=  43 cons: SET
+8799:d=8  hl=2 l=  41 cons: SEQUENCE
+8801:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+8806:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 1999 Microsoft Corp.
+8842:d=7  hl=2 l=  54 cons: SET
+8844:d=8  hl=2 l=  52 cons: SEQUENCE
+8846:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+8851:d=9  hl=2 l=  45 prim: PRINTABLESTRING   :Microsoft Enforced Licensing Intermediate PCA
+8898:d=6  hl=2 l=  30 cons: SEQUENCE
+8900:d=7  hl=2 l=  13 prim: UTCTIME           :091211000358Z
+8915:d=7  hl=2 l=  13 prim: UTCTIME           :161023080000Z
+8930:d=6  hl=3 l= 194 cons: SEQUENCE
+8933:d=7  hl=2 l=  11 cons: SET
+8935:d=8  hl=2 l=   9 cons: SEQUENCE
+8937:d=9  hl=2 l=   3 prim: OBJECT            :countryName
+8942:d=9  hl=2 l=   2 prim: PRINTABLESTRING   :US
+8946:d=7  hl=2 l=  19 cons: SET
+8948:d=8  hl=2 l=  17 cons: SEQUENCE
+8950:d=9  hl=2 l=   3 prim: OBJECT            :stateOrProvinceName
+8955:d=9  hl=2 l=  10 prim: PRINTABLESTRING   :Washington
+8967:d=7  hl=2 l=  16 cons: SET
+8969:d=8  hl=2 l=  14 cons: SEQUENCE
+8971:d=9  hl=2 l=   3 prim: OBJECT            :localityName
+8976:d=9  hl=2 l=   7 prim: PRINTABLESTRING   :Redmond
+8985:d=7  hl=2 l=  30 cons: SET
+8987:d=8  hl=2 l=  28 cons: SEQUENCE
+8989:d=9  hl=2 l=   3 prim: OBJECT            :organizationName
+8994:d=9  hl=2 l=  21 prim: PRINTABLESTRING   :Microsoft Corporation
+9017:d=7  hl=2 l=  43 cons: SET
+9019:d=8  hl=2 l=  41 cons: SEQUENCE
+9021:d=9  hl=2 l=   3 prim: OBJECT            :organizationalUnitName
+9026:d=9  hl=2 l=  34 prim: PRINTABLESTRING   :Copyright (c) 2003 Microsoft Corp.
+9062:d=7  hl=2 l=  63 cons: SET
+9064:d=8  hl=2 l=  61 cons: SEQUENCE
+9066:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+9071:d=9  hl=2 l=  54 prim: PRINTABLESTRING   :Microsoft Enforced Licensing Registration Authority CA
+9127:d=6  hl=4 l= 290 cons: SEQUENCE
+9131:d=7  hl=2 l=  13 cons: SEQUENCE
+9133:d=8  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+9144:d=8  hl=2 l=   0 prim: NULL
+9146:d=7  hl=4 l= 271 prim: BIT STRING
+9421:d=6  hl=4 l=1391 cons: cont [ 3 ]
+9425:d=7  hl=4 l=1387 cons: SEQUENCE
+9429:d=8  hl=2 l=  15 cons: SEQUENCE
+9431:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Basic Constraints
+9436:d=9  hl=2 l=   1 prim: BOOLEAN           :255
+9439:d=9  hl=2 l=   5 prim: OCTET STRING      [HEX DUMP]:30030101FF
+9446:d=8  hl=2 l=  29 cons: SEQUENCE
+9448:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Subject Key Identifier
+9453:d=9  hl=2 l=  22 prim: OCTET STRING      [HEX DUMP]:0414B4A1D8DEFB0EC4CB9D9F06CF360D911AF89F5BE3
+9477:d=8  hl=2 l=  11 cons: SEQUENCE
+9479:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Key Usage
+9484:d=9  hl=2 l=   4 prim: OCTET STRING      [HEX DUMP]:030201C6
+9490:d=8  hl=2 l=  18 cons: SEQUENCE
+9492:d=9  hl=2 l=   9 prim: OBJECT            :1.3.6.1.4.1.311.21.1
+9503:d=9  hl=2 l=   5 prim: OCTET STRING      [HEX DUMP]:0203010001
+9510:d=8  hl=2 l=  35 cons: SEQUENCE
+9512:d=9  hl=2 l=   9 prim: OBJECT            :1.3.6.1.4.1.311.21.2
+9523:d=9  hl=2 l=  22 prim: OCTET STRING      [HEX DUMP]:04149B907838679529806B2FE354961A705FF1C311AD
+9547:d=8  hl=2 l=  25 cons: SEQUENCE
+9549:d=9  hl=2 l=   9 prim: OBJECT            :1.3.6.1.4.1.311.20.2
+9560:d=9  hl=2 l=  12 prim: OCTET STRING      [HEX DUMP]:1E0A00530075006200430041
+9574:d=8  hl=2 l=  31 cons: SEQUENCE
+9576:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Authority Key Identifier
+9581:d=9  hl=2 l=  24 prim: OCTET STRING      [HEX DUMP]:301680146A97E0C89FF449B48924B3E3D1A82286AAD49443
+9607:d=8  hl=2 l=  84 cons: SEQUENCE
+9609:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 CRL Distribution Points
+9614:d=9  hl=2 l=  77 prim: OCTET STRING      [HEX DUMP]:304B3049A047A0458643687474703A2F2F63726C2E6D6963726F736F66742E636F6D2F706B692F63726C2F70726F64756374732F4D6963456E664C69635043415F31322D31302D30392E63726C
+9693:d=8  hl=2 l=  31 cons: SEQUENCE
+9695:d=9  hl=2 l=   3 prim: OBJECT            :X509v3 Extended Key Usage
+9700:d=9  hl=2 l=  24 prim: OCTET STRING      [HEX DUMP]:301606082B06010505070303060A2B0601040182370A0602
+9726:d=8  hl=4 l=1086 cons: SEQUENCE
+9730:d=9  hl=2 l=  10 prim: OBJECT            :1.3.6.1.4.1.311.2.1.10
+9742:d=9  hl=2 l=   1 prim: BOOLEAN           :255
+9745:d=9  hl=4 l=1067 prim: OCTET STRING      [HEX DUMP]:3082041FA029802768747470733A2F2F7777772E6D6963726F736F66742E636F6D2F7265706F7369746F72792F435053A18203B8818203B45468697320636572746966696361746520696E636F72706F7261746573206279207265666572656E63652C20616E642069747320757365206973207374726963746C790A7375626A65637420746F2C20746865204D6963726F736F66742043657274696669636174696F6E2050726163746963652053746174656D656E742028435053290A76657273696F6E20322E302C20617661696C61626C6520696E20746865204D6963726F736F6674207265706F7369746F72792061743A0A68747470733A2F2F7777772E6D6963726F736F66742E636F6D3B20627920452D6D61696C206174204350532D7265717565737473406D6963726F736F66742E636F6D3B206F720A6279206D61696C206174204D6963726F736F667420436F72702C20646570742E204350532C31204D6963726F736F6674205761792C5265646D6F6E642C2057412039383035320A55534120436F707972696768742028632931393939204D6963726F736F667420436F72702E2020416C6C205269676874732052657365727665642E204345525441494E0A57415252414E5449455320444953434C41494D454420414E44204C494142494C495459204C494D495445442E0A0A5741524E494E473A2054484520555345204F462054484953204345525449464943415445204953205354524943544C59205355424A45435420544F205448450A564552495349474E2043455254494649434154494F4E2050524143544943452053544154454D454E542E20205448452049535355494E4720415554484F524954590A444953434C41494D53204345525441494E20494D504C49454420414E4420455850524553532057415252414E544945532C20494E434C5544494E472057415252414E544945530A4F46204D45524348414E544142494C495459204F52204649544E45535320464F52204120504152544943554C415220505552504F53452C20414E442057494C4C204E4F540A4245204C4941424C4520464F5220434F4E53455155454E5449414C2C2050554E49544956452C20414E44204345525441494E204F544845522044414D414745532E205345450A5448452043505320464F522044455441494C532E0A0A436F6E74656E7473206F6620746865204D6963726F736F66742072656769737465726564206E6F6E76657269666965645375626A656374417474726962757465730A657874656E73696F6E2076616C7565207368616C6C206E6F7420626520636F6E7369646572656420617320616363757261746520696E666F726D6174696F6E0A76616C696461746564206279207468652049412E0AA336803468747470733A2F2F7777772E6D6963726F736F66742E636F6D2F7265706F7369746F72792F6D736370736C6F676F2E676966
+10816:d=5  hl=2 l=  13 cons: SEQUENCE
+10818:d=6  hl=2 l=   9 prim: OBJECT            :md5WithRSAEncryption
+10829:d=6  hl=2 l=   0 prim: NULL
+10831:d=5  hl=4 l= 257 prim: BIT STRING
+11092:d=3  hl=4 l= 902 cons: SET
+11096:d=4  hl=4 l= 898 cons: SEQUENCE
+11100:d=5  hl=2 l=   1 prim: INTEGER           :01
+11103:d=5  hl=3 l= 135 cons: SEQUENCE
+11106:d=6  hl=3 l= 128 cons: SEQUENCE
+11109:d=7  hl=2 l=  19 cons: SET
+11111:d=8  hl=2 l=  17 cons: SEQUENCE
+11113:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+11125:d=9  hl=2 l=   3 prim: IA5STRING         :com
+11130:d=7  hl=2 l=  25 cons: SET
+11132:d=8  hl=2 l=  23 cons: SEQUENCE
+11134:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+11146:d=9  hl=2 l=   9 prim: IA5STRING         :microsoft
+11157:d=7  hl=2 l=  24 cons: SET
+11159:d=8  hl=2 l=  22 cons: SEQUENCE
+11161:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+11173:d=9  hl=2 l=   8 prim: IA5STRING         :extranet
+11183:d=7  hl=2 l=  24 cons: SET
+11185:d=8  hl=2 l=  22 cons: SEQUENCE
+11187:d=9  hl=2 l=  10 prim: OBJECT            :domainComponent
+11199:d=9  hl=2 l=   8 prim: IA5STRING         :partners
+11209:d=7  hl=2 l=  26 cons: SET
+11211:d=8  hl=2 l=  24 cons: SEQUENCE
+11213:d=9  hl=2 l=   3 prim: OBJECT            :commonName
+11218:d=9  hl=2 l=  17 prim: PRINTABLESTRING   :Microsoft LSRA PA
+11237:d=6  hl=2 l=   2 prim: INTEGER           :1B7E
+11241:d=5  hl=2 l=   9 cons: SEQUENCE
+11243:d=6  hl=2 l=   5 prim: OBJECT            :sha1
+11250:d=6  hl=2 l=   0 prim: NULL
+11252:d=5  hl=2 l=  82 cons: cont [ 0 ]
+11254:d=6  hl=2 l=  16 cons: SEQUENCE
+11256:d=7  hl=2 l=  10 prim: OBJECT            :1.3.6.1.4.1.311.2.1.12
+11268:d=7  hl=2 l=   2 cons: SET
+11270:d=8  hl=2 l=   0 cons: SEQUENCE
+11272:d=6  hl=2 l=  25 cons: SEQUENCE
+11274:d=7  hl=2 l=   9 prim: OBJECT            :contentType
+11285:d=7  hl=2 l=  12 cons: SET
+11287:d=8  hl=2 l=  10 prim: OBJECT            :1.3.6.1.4.1.311.2.1.4
+11299:d=6  hl=2 l=  35 cons: SEQUENCE
+11301:d=7  hl=2 l=   9 prim: OBJECT            :messageDigest
+11312:d=7  hl=2 l=  22 cons: SET
+11314:d=8  hl=2 l=  20 prim: OCTET STRING      [HEX DUMP]:97C9EC15184C875947428F505D9142C70F34DDE2
+11336:d=5  hl=2 l=  13 cons: SEQUENCE
+11338:d=6  hl=2 l=   9 prim: OBJECT            :rsaEncryption
+11349:d=6  hl=2 l=   0 prim: NULL
+11351:d=5  hl=4 l= 256 prim: OCTET STRING      [HEX DUMP]:5C74311B4DD6028410BD229E42EFFF6E6F092FA1F4008DF8F05C2B65B7ADE7ACEA61B5BB51E18C224883703C69E8F66BDC1A15097CE9C975191D5E5061B1521D906630C8F6C6F0F1841D84F1AB8B9EE6AE56EAF85310FCD67520A7A6D6D0587170DDC286DBE0E5C40E4ED5C21D466BE9F0E521B89D10214EA1D1AC6E566A3077915DB8C98BB5F54CE347E9B7B3C68973C823CD602FAFEB4F8A0B4A93014836F78498E41F6B15A088A0A9AD95EFA89F9AEFB0CCF620318FCA28E19EDAEE1C46BE70B3479CFE87795909FD07E46B14728CF3FF0D5B701A7678AEFE592C6A9C22BDF0DA7068FFA48612EA59D29DE015362C936A96B1F13EC4720787FFB7C45ED37C
+11611:d=5  hl=4 l= 383 cons: cont [ 1 ]
+11615:d=6  hl=4 l= 379 cons: SEQUENCE
+11619:d=7  hl=2 l=   9 prim: OBJECT            :countersignature
+11630:d=7  hl=4 l= 364 cons: SET
+11634:d=8  hl=4 l= 360 cons: SEQUENCE
+11638:d=9  hl=2 l=   1 prim: INTEGER           :01
+11641:d=9  hl=2 l= 103 cons: SEQUENCE
+11643:d=10 hl=2 l=  83 cons: SEQUENCE
+11645:d=11 hl=2 l=  11 cons: SET
+11647:d=12 hl=2 l=   9 cons: SEQUENCE
+11649:d=13 hl=2 l=   3 prim: OBJECT            :countryName
+11654:d=13 hl=2 l=   2 prim: PRINTABLESTRING   :US
+11658:d=11 hl=2 l=  23 cons: SET
+11660:d=12 hl=2 l=  21 cons: SEQUENCE
+11662:d=13 hl=2 l=   3 prim: OBJECT            :organizationName
+11667:d=13 hl=2 l=  14 prim: PRINTABLESTRING   :VeriSign, Inc.
+11683:d=11 hl=2 l=  43 cons: SET
+11685:d=12 hl=2 l=  41 cons: SEQUENCE
+11687:d=13 hl=2 l=   3 prim: OBJECT            :commonName
+11692:d=13 hl=2 l=  34 prim: PRINTABLESTRING   :VeriSign Time Stamping Services CA
+11728:d=10 hl=2 l=  16 prim: INTEGER           :3825D7FAF861AF9EF490E726B5D65AD5
+11746:d=9  hl=2 l=   9 cons: SEQUENCE
+11748:d=10 hl=2 l=   5 prim: OBJECT            :sha1
+11755:d=10 hl=2 l=   0 prim: NULL
+11757:d=9  hl=2 l=  93 cons: cont [ 0 ]
+11759:d=10 hl=2 l=  24 cons: SEQUENCE
+11761:d=11 hl=2 l=   9 prim: OBJECT            :contentType
+11772:d=11 hl=2 l=  11 cons: SET
+11774:d=12 hl=2 l=   9 prim: OBJECT            :pkcs7-data
+11785:d=10 hl=2 l=  28 cons: SEQUENCE
+11787:d=11 hl=2 l=   9 prim: OBJECT            :signingTime
+11798:d=11 hl=2 l=  15 cons: SET
+11800:d=12 hl=2 l=  13 prim: UTCTIME           :101228135440Z
+11815:d=10 hl=2 l=  35 cons: SEQUENCE
+11817:d=11 hl=2 l=   9 prim: OBJECT            :messageDigest
+11828:d=11 hl=2 l=  22 cons: SET
+11830:d=12 hl=2 l=  20 prim: OCTET STRING      [HEX DUMP]:CFA34538FAC770650FE1811558E4E847A2F7F0F3
+11852:d=9  hl=2 l=  13 cons: SEQUENCE
+11854:d=10 hl=2 l=   9 prim: OBJECT            :rsaEncryption
+11865:d=10 hl=2 l=   0 prim: NULL
+11867:d=9  hl=3 l= 128 prim: OCTET STRING      [HEX DUMP]:71A030E6FD76A90A4B00C636CDF8E6A2EE51EF628E4A67392BB1A7202929C69AC01CC57FD0B3A954B733105044E216E3EE8943B7FDEDB704E4A1DD4A0142DAD8A355B85D370E48448D0EBE513D36B51C2B8C2FA7D061AAC00BB7B7ACC7F6AA9D54E72F9A4B3F674173B01CC1C14A594CE2D43B3888F0D7E0C82467EF17A6A70F
+11998:d=0  hl=2 l=   0 prim: EOC
+
+Here's a different raw dump tool:
+http://www.marben-products.com/cgi-bin/asn1tools/free-online-asn1-decoder.pl
+<Certificate>
+  <tbsCertificate>
+    <version>2</version>
+    <serialNumber>458549359809389437911058</serialNumber>
+    <signature>
+      <algorithm>1.2.840.113549.1.1.4</algorithm>
+      <parameters>0500</parameters>
+    </signature>
+    <issuer>
+      <rdnSequence>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.6</type>
+            <value>
+              <printableString>US</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.8</type>
+            <value>
+              <printableString>Washington</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.7</type>
+            <value>
+              <printableString>Redmond</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.10</type>
+            <value>
+              <printableString>Microsoft Corporation</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.11</type>
+            <value>
+              <printableString>Copyright (c) 1999 Microsoft Corp.</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.3</type>
+            <value>
+              <printableString>Microsoft Enforced Licensing Intermediate PCA</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+      </rdnSequence>
+    </issuer>
+    <validity>
+      <notBefore>
+        <utcTime>091211000358Z</utcTime>
+      </notBefore>
+      <notAfter>
+        <utcTime>161023080000Z</utcTime>
+      </notAfter>
+    </validity>
+    <subject>
+      <rdnSequence>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.6</type>
+            <value>
+              <printableString>US</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.8</type>
+            <value>
+              <printableString>Washington</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.7</type>
+            <value>
+              <printableString>Redmond</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.10</type>
+            <value>
+              <printableString>Microsoft Corporation</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.11</type>
+            <value>
+              <printableString>Copyright (c) 2003 Microsoft Corp.</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+        <RelativeDistinguishedName>
+          <AttributeTypeAndValue>
+            <type>2.5.4.3</type>
+            <value>
+              <printableString>Microsoft Enforced Licensing Registration Authority CA</printableString>
+            </value>
+          </AttributeTypeAndValue>
+        </RelativeDistinguishedName>
+      </rdnSequence>
+    </subject>
+    <subjectPublicKeyInfo>
+      <algorithm>
+        <algorithm>1.2.840.113549.1.1.1</algorithm>
+        <parameters>0500</parameters>
+      </algorithm>
+      <subjectPublicKey>
+        0011000010000010000000010000101000000010100000100000000100000001000000001000111010011000000001111110110101000110010100000011000010101010100010101001010101011110001101100111111110111100011100010011000010100001000111010100100111001111111001111001011011111111<!--...-->
+      </subjectPublicKey>
+    </subjectPublicKeyInfo>
+    <extensions>
+      <Extension>
+        <extnID>2.5.29.19</extnID>
+        <critical>
+          <true/>
+        </critical>
+        <extnValue>30030101FF</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>2.5.29.14</extnID>
+        <extnValue>0414B4A1D8DEFB0EC4CB9D9F06CF360D911AF89F5BE3</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>2.5.29.15</extnID>
+        <extnValue>030201C6</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>1.3.6.1.4.1.311.21.1</extnID>
+        <extnValue>0203010001</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>1.3.6.1.4.1.311.21.2</extnID>
+        <extnValue>04149B907838679529806B2FE354961A705FF1C311AD</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>1.3.6.1.4.1.311.20.2</extnID>
+        <extnValue>1E0A00530075006200430041</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>2.5.29.35</extnID>
+        <extnValue>301680146A97E0C89FF449B48924B3E3D1A82286AAD49443</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>2.5.29.31</extnID>
+        <extnValue>304B3049A047A0458643687474703A2F2F63726C2E6D6963726F736F66742E636F6D2F706B692F63726C2F70726F64756374732F4D6963456E664C69635043415F31322D31302D30392E63726C</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>2.5.29.37</extnID>
+        <extnValue>301606082B06010505070303060A2B0601040182370A0602</extnValue>
+      </Extension>
+      <Extension>
+        <extnID>1.3.6.1.4.1.311.2.1.10</extnID>
+        <critical>
+          <true/>
+        </critical>
+        <extnValue>
+          3082041FA029802768747470733A2F2F7777772E6D6963726F736F66742E636F6D2F7265706F7369746F72792F435053A18203B8818203B45468697320636572746966696361746520696E636F72706F7261746573206279207265666572656E63652C20616E642069747320757365206973207374726963746C790A7375626A<!--...-->
+        </extnValue>
+      </Extension>
+    </extensions>
+  </tbsCertificate>
+  <signatureAlgorithm>
+    <algorithm>1.2.840.113549.1.1.4</algorithm>
+    <parameters>0500</parameters>
+  </signatureAlgorithm>
+  <signature>
+    0010010010101011111011011111011101110010010001000100010010011000011100011111011011010001101110011011010101101001111000001110111100011100101100000100110000000100100110000000111110111111010011001010100101110100010001111011000010000100101000010100100011100010<!--...-->
+  </signature>
+</Certificate>
+
+2422 bytes supplied, 2422 bytes decoded.
+*** DECODING SUCCESSFUL ***
