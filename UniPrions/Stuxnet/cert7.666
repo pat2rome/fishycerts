@@ -1,0 +1,89 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            14:51:5b:02:00:00:00:00:00:08
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: DC=com, DC=microsoft, DC=extranet, DC=partners, CN=Microsoft LSRA PA
+        Validity
+            Not Before: Feb 23 19:21:36 2010 GMT
+            Not After : Feb 19 21:48:39 2012 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft, CN=TLS Server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b8:88:fb:42:d4:31:b0:f7:d7:f4:dc:35:59:8e:
+                    9c:e3:63:d9:fe:81:98:6d:58:80:10:51:9b:9e:11:
+                    04:50:e9:29:e6:93:a5:23:f8:10:75:e0:a6:a1:9f:
+                    07:53:77:14:b3:db:c8:eb:ab:77:0e:88:9a:a5:f2:
+                    29:d4:90:73:e5:d7:13:13:e2:05:57:08:69:1d:e4:
+                    42:bd:95:00:8a:2a:43:53:d7:ca:d8:0d:4c:a3:85:
+                    3e:70:cf:80:2f:71:bd:18:bb:77:d3:d2:71:5d:47:
+                    43:1c:60:9c:35:11:9f:36:b2:d9:6c:37:3d:0b:07:
+                    34:7e:cc:2b:11:14:bc:4d:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+            X509v3 Subject Key Identifier:
+                C5:01:E3:20:B1:88:03:51:7E:65:13:A8:B1:62:7D:D0:CC:6B:D9:17
+            X509v3 Authority Key Identifier:
+                keyid:75:E8:03:58:5D:FB:65:E4:D9:A6:AC:17:B6:03:7E:47:AD:2E:81:AF
+ 
+            X509v3 CRL Distribution Points:
+ 
+                Full Name:
+                  URI:http://tkxpasrv36.partners.extranet.microsoft.com/CertEnroll/Microsoft%20LSRA%20PA.crl
+                  URI:file://\\tkxpasrv36.partners.extranet.microsoft.com\CertEnroll\Microsoft LSRA PA.crl
+ 
+            Authority Information Access:
+                CA Issuers - URI:http://tkxpasrv36.partners.extranet.microsoft.com/CertEnroll/tkxpasrv36.partners.extranet.microsoft.com_Microsoft%20LSRA%20PA.crt
+                CA Issuers - URI:file://\\tkxpasrv36.partners.extranet.microsoft.com\CertEnroll\tkxpasrv36.partners.extranet.microsoft.com_Microsoft LSRA PA.crt
+ 
+    Signature Algorithm: md5WithRSAEncryption
+        63:1d:f1:1b:73:08:8c:04:8e:9c:aa:1c:79:9e:cb:3f:6c:22:
+        aa:41:a0:66:21:8f:49:21:9e:43:77:0e:22:9a:25:02:b2:15:
+        65:f1:6b:82:2d:a5:f6:05:9d:36:4c:25:ae:85:3c:3a:4e:60:
+        9d:2a:cb:b0:24:a6:6d:5c:5a:5e:85:df:f6:67:7e:71:9c:21:
+        f0:76:42:a2:98:32:0d:7b:61:06:58:c6:c1:a1:38:5e:f1:9c:
+        8d:d7:ac:a4:35:80:19:ed:e5:4e:81:4b:a7:d2:4b:e6:b1:84:
+        96:07:80:a1:d3:1f:6a:fc:da:22:a1:d9:5b:c7:cd:a4:9f:96:
+        f7:11:a9:94:5e:a9:79:13:8d:89:b0:af:ef:da:e5:f4:d1:6e:
+        8d:b7:24:e5:a6:7f:92:19:40:b4:0b:3c:03:23:27:f1:78:94:
+        9a:05:d3:e1:d7:6c:f4:da:46:2b:5f:0b:71:39:85:26:e5:8b:
+        fb:f9:38:bc:d8:cd:06:77:55:f5:59:90:93:5c:04:44:0f:ed:
+        32:19:5c:43:67:5d:a8:0e:33:c7:54:69:0d:2b:2f:4b:f8:f4:
+        aa:02:c1:ae:3b:f6:32:bf:f3:62:f9:e3:d0:24:ad:3b:66:39:
+        a1:5e:87:5b:50:d5:c8:51:f3:8b:a6:2b:d7:7f:63:7f:bc:26:
+        bc:99:6c:68
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgIKFFFbAgAAAAAACDANBgkqhkiG9w0BAQQFADCBgDETMBEG
+CgmSJomT8ixkARkWA2NvbTEZMBcGCgmSJomT8ixkARkWCW1pY3Jvc29mdDEYMBYG
+CgmSJomT8ixkARkWCGV4dHJhbmV0MRgwFgYKCZImiZPyLGQBGRYIcGFydG5lcnMx
+GjAYBgNVBAMTEU1pY3Jvc29mdCBMU1JBIFBBMB4XDTEwMDIyMzE5MjEzNloXDTEy
+MDIxOTIxNDgzOVowXTELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x
+EDAOBgNVBAcTB1JlZG1vbmQxEjAQBgNVBAoTCU1pY3Jvc29mdDETMBEGA1UEAxMK
+VExTIFNlcnZlcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuIj7QtQxsPfX
+9Nw1WY6c42PZ/oGYbViAEFGbnhEEUOkp5pOlI/gQdeCmoZ8HU3cUs9vI66t3Doia
+pfIp1JBz5dcTE+IFVwhpHeRCvZUAiipDU9fK2A1Mo4U+cM+AL3G9GLt309JxXUdD
+HGCcNRGfNrLZbDc9Cwc0fswrERS8TbUCAwEAAaOCAk4wggJKMA4GA1UdDwEB/wQE
+AwIGwDAdBgNVHQ4EFgQUxQHjILGIA1F+ZROosWJ90Mxr2RcwHwYDVR0jBBgwFoAU
+degDWF37ZeTZpqwXtgN+R60uga8wgcIGA1UdHwSBujCBtzCBtKCBsaCBroZWaHR0
+cDovL3RreHBhc3J2MzYucGFydG5lcnMuZXh0cmFuZXQubWljcm9zb2Z0LmNvbS9D
+ZXJ0RW5yb2xsL01pY3Jvc29mdCUyMExTUkElMjBQQS5jcmyGVGZpbGU6Ly9cXHRr
+eHBhc3J2MzYucGFydG5lcnMuZXh0cmFuZXQubWljcm9zb2Z0LmNvbVxDZXJ0RW5y
+b2xsXE1pY3Jvc29mdCBMU1JBIFBBLmNybDCCATEGCCsGAQUFBwEBBIIBIzCCAR8w
+gY4GCCsGAQUFBzAChoGBaHR0cDovL3RreHBhc3J2MzYucGFydG5lcnMuZXh0cmFu
+ZXQubWljcm9zb2Z0LmNvbS9DZXJ0RW5yb2xsL3RreHBhc3J2MzYucGFydG5lcnMu
+ZXh0cmFuZXQubWljcm9zb2Z0LmNvbV9NaWNyb3NvZnQlMjBMU1JBJTIwUEEuY3J0
+MIGLBggrBgEFBQcwAoZ/ZmlsZTovL1xcdGt4cGFzcnYzNi5wYXJ0bmVycy5leHRy
+YW5ldC5taWNyb3NvZnQuY29tXENlcnRFbnJvbGxcdGt4cGFzcnYzNi5wYXJ0bmVy
+cy5leHRyYW5ldC5taWNyb3NvZnQuY29tX01pY3Jvc29mdCBMU1JBIFBBLmNydDAN
+BgkqhkiG9w0BAQQFAAOCAQEAYx3xG3MIjASOnKoceZ7LP2wiqkGgZiGPSSGeQ3cO
+IpolArIVZfFrgi2l9gWdNkwlroU8Ok5gnSrLsCSmbVxaXoXf9md+cZwh8HZCopgy
+DXthBljGwaE4XvGcjdespDWAGe3lToFLp9JL5rGElgeAodMfavzaIqHZW8fNpJ+W
+9xGplF6peRONibCv79rl9NFujbck5aZ/khlAtAs8AyMn8XiUmgXT4dds9NpGK18L
+cTmFJuWL+/k4vNjNBndV9VmQk1wERA/tMhlcQ2ddqA4zx1RpDSsvS/j0qgLBrjv2
+Mr/zYvnj0CStO2Y5oV6HW1DVyFHzi6Yr139jf7wmvJlsaA==
+-----END CERTIFICATE-----
