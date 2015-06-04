@@ -1,1 +1,113 @@
-{placeholder}
+0:d=0  hl=4 l=1421 cons: SEQUENCE
+    4:d=1  hl=4 l=1141 cons:  SEQUENCE
+    8:d=2  hl=2 l=   3 cons:   cont [ 0 ]
+   10:d=3  hl=2 l=   1 prim:    INTEGER           :02
+   13:d=2  hl=2 l=  16 prim:   INTEGER           :1AC85EB7AEC3513CD80D85385ECFD208
+   31:d=2  hl=2 l=  13 cons:   SEQUENCE
+   33:d=3  hl=2 l=   9 prim:    OBJECT            :rsaEncryption1
+   44:d=3  hl=2 l=   0 prim:    NULL
+   46:d=2  hl=2 l= 119 cons:   SEQUENCE
+   48:d=3  hl=2 l=  11 cons:    SET
+   50:d=4  hl=2 l=   9 cons:     SEQUENCE
+   52:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+   57:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :US
+   61:d=3  hl=2 l=  29 cons:    SET
+   63:d=4  hl=2 l=  27 cons:     SEQUENCE
+   65:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+   70:d=5  hl=2 l=  20 prim:      PRINTABLESTRING   :Symantec Corporation
+   92:d=3  hl=2 l=  31 cons:    SET
+   94:d=4  hl=2 l=  29 cons:     SEQUENCE
+   96:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+  101:d=5  hl=2 l=  22 prim:      PRINTABLESTRING   :Symantec Trust Network
+  125:d=3  hl=2 l=  40 cons:    SET
+  127:d=4  hl=2 l=  38 cons:     SEQUENCE
+  129:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  134:d=5  hl=2 l=  31 prim:      PRINTABLESTRING   :Symantec Class 3 EV SSL CA - G3
+  167:d=2  hl=2 l=  30 cons:   SEQUENCE
+  169:d=3  hl=2 l=  13 prim:    UTCTIME           :140910000000Z
+  184:d=3  hl=2 l=  13 prim:    UTCTIME           :160509235959Z
+  199:d=2  hl=4 l= 274 cons:   SEQUENCE
+  203:d=3  hl=2 l=  19 cons:    SET
+  205:d=4  hl=2 l=  17 cons:     SEQUENCE
+  207:d=5  hl=2 l=  11 prim:      OBJECT            :1.3.6.1.4.1.311.6undefined.2.1.3
+  220:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :US
+  224:d=3  hl=2 l=  25 cons:    SET
+  226:d=4  hl=2 l=  23 cons:     SEQUENCE
+  228:d=5  hl=2 l=  11 prim:      OBJECT            :1.3.6.1.4.1.311.6undefined.2.1.2
+  241:d=5  hl=2 l=   8 prim:      UTF8STRING        :Delaware
+  251:d=3  hl=2 l=  29 cons:    SET
+  253:d=4  hl=2 l=  27 cons:     SEQUENCE
+  255:d=5  hl=2 l=   3 prim:      OBJECT            :X509.15
+  260:d=5  hl=2 l=  20 prim:      PRINTABLESTRING   :Private Organization
+  282:d=3  hl=2 l=  16 cons:    SET
+  284:d=4  hl=2 l=  14 cons:     SEQUENCE
+  286:d=5  hl=2 l=   3 prim:      OBJECT            :serialNumber
+  291:d=5  hl=2 l=   7 prim:      PRINTABLESTRING   :4337446
+  300:d=3  hl=2 l=  11 cons:    SET
+  302:d=4  hl=2 l=   9 cons:     SEQUENCE
+  304:d=5  hl=2 l=   3 prim:      OBJECT            :countryName
+  309:d=5  hl=2 l=   2 prim:      PRINTABLESTRING   :US
+  313:d=3  hl=2 l=  19 cons:    SET
+  315:d=4  hl=2 l=  17 cons:     SEQUENCE
+  317:d=5  hl=2 l=   3 prim:      OBJECT            :X509.17
+  322:d=5  hl=2 l=  10 prim:      UTF8STRING        :94103-1307
+  334:d=3  hl=2 l=  19 cons:    SET
+  336:d=4  hl=2 l=  17 cons:     SEQUENCE
+  338:d=5  hl=2 l=   3 prim:      OBJECT            :stateOrProvinceName
+  343:d=5  hl=2 l=  10 prim:      UTF8STRING        :California
+  355:d=3  hl=2 l=  22 cons:    SET
+  357:d=4  hl=2 l=  20 cons:     SEQUENCE
+  359:d=5  hl=2 l=   3 prim:      OBJECT            :localityName
+  364:d=5  hl=2 l=  13 prim:      UTF8STRING        :San Francisco
+  379:d=3  hl=2 l=  23 cons:    SET
+  381:d=4  hl=2 l=  21 cons:     SEQUENCE
+  383:d=5  hl=2 l=   3 prim:      OBJECT            :X509.9
+  388:d=5  hl=2 l=  14 prim:      UTF8STRING        :1355 Market St
+  404:d=3  hl=2 l=  22 cons:    SET
+  406:d=4  hl=2 l=  20 cons:     SEQUENCE
+  408:d=5  hl=2 l=   3 prim:      OBJECT            :organizationName
+  413:d=5  hl=2 l=  13 prim:      UTF8STRING        :Twitter, Inc.
+  428:d=3  hl=2 l=  25 cons:    SET
+  430:d=4  hl=2 l=  23 cons:     SEQUENCE
+  432:d=5  hl=2 l=   3 prim:      OBJECT            :organizationalUnitName
+  437:d=5  hl=2 l=  16 prim:      UTF8STRING        :Twitter Security
+  455:d=3  hl=2 l=  20 cons:    SET
+  457:d=4  hl=2 l=  18 cons:     SEQUENCE
+  459:d=5  hl=2 l=   3 prim:      OBJECT            :commonName
+  464:d=5  hl=2 l=  11 prim:      UTF8STRING        :twitter.com
+  477:d=2  hl=4 l= 290 cons:   SEQUENCE
+  481:d=3  hl=2 l=  13 cons:    SEQUENCE
+  483:d=4  hl=2 l=   9 prim:     OBJECT            :rsaEncryption
+  494:d=4  hl=2 l=   0 prim:     NULL
+  496:d=3  hl=4 l= 271 prim:    BIT STRING
+  771:d=2  hl=4 l= 374 cons:   cont [ 3 ]
+  775:d=3  hl=4 l= 370 cons:    SEQUENCE
+  779:d=4  hl=2 l=  39 cons:     SEQUENCE
+  781:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Subject Alternative Name
+  786:d=5  hl=2 l=  32 prim:      OCTET STRING
+  820:d=4  hl=2 l=   9 cons:     SEQUENCE
+  822:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Basic Constraints
+  827:d=5  hl=2 l=   2 prim:      OCTET STRING
+  831:d=4  hl=2 l=  14 cons:     SEQUENCE
+  833:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Key Usage
+  838:d=5  hl=2 l=   1 prim:      BOOLEAN           :255
+  841:d=5  hl=2 l=   4 prim:      OCTET STRING
+  847:d=4  hl=2 l=  29 cons:     SEQUENCE
+  849:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Extended Key Usage
+  854:d=5  hl=2 l=  22 prim:      OCTET STRING
+  878:d=4  hl=2 l= 102 cons:     SEQUENCE
+  880:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Certificate Policies
+  885:d=5  hl=2 l=  95 prim:      OCTET STRING
+  982:d=4  hl=2 l=  31 cons:     SEQUENCE
+  984:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 Authority Key Identifier
+  989:d=5  hl=2 l=  24 prim:      OCTET STRING
+ 1015:d=4  hl=2 l=  43 cons:     SEQUENCE
+ 1017:d=5  hl=2 l=   3 prim:      OBJECT            :X509v3 CRL Distribution Points
+ 1022:d=5  hl=2 l=  36 prim:      OCTET STRING
+ 1060:d=4  hl=2 l=  87 cons:     SEQUENCE
+ 1062:d=5  hl=2 l=   8 prim:      OBJECT            :Authority Information Access
+ 1072:d=5  hl=2 l=  75 prim:      OCTET STRING
+ 1149:d=1  hl=2 l=  13 cons:  SEQUENCE
+ 1151:d=2  hl=2 l=   9 prim:   OBJECT            :rsaEncryption1
+ 1162:d=2  hl=2 l=   0 prim:   NULL
+ 1164:d=1  hl=4 l= 257 prim:  BIT STRING
