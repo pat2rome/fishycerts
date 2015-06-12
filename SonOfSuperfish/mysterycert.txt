@@ -1,0 +1,33 @@
+Certificate Hash: fe e4 49 ee 0e 39 65 a5 24 6f 00 0e 87 fd e2 a0 65 fd 89 d4
+
+Certificate:
+Data&colon;
+        Version: 3 (0x2)
+        Serial Number:
+            06:37:6c:00:aa:00:64:8a:11:cf:b8:d4:aa:5c:35:f4
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=Root Agency
+        Validity
+            Not Before: May 28 22:02:59 1996 GMT
+            Not After : Dec 31 23:59:59 2039 GMT
+        Subject: CN=Root Agency
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (512 bit)
+                Modulus:
+                    00:81:55:22:b9:8a:a4:6f:ed:d6:e7:d9:66:0f:55:
+                    bc:d7:cd:d5:bc:4e:40:02:21:a2:b1:f7:87:30:85:
+                    5e:d2:f2:44:b9:dc:9b:75:b6:fb:46:5f:42:b6:9d:
+                    23:36:0b:de:54:0f:cd:bd:1f:99:2a:10:58:11:cb:
+                    40:cb:b5:a7:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            commonName:
+                .GFor Testing Purposes Only Sample Software Publishing Credentials Agency
+            2.5.29.1:
+                0>.....-...O..a!..dc..0.1.0...U....Root Agency...7l...d......\5.
+    Signature Algorithm: md5WithRSAEncryption
+         2d:2e:3e:7b:89:42:89:3f:a8:21:17:fa:f0:f5:c3:95:db:62:
+         69:5b:c9:dc:c1:b3:fa:f0:c4:6f:6f:64:9a:bd:e7:1b:25:68:
+         72:83:67:bd:56:b0:8d:01:bd:2a:f7:cc:4b:bd:87:a5:ba:87:
+         20:4c:42:11:41:ad:10:17:3b:8c
